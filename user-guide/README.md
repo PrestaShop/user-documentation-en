@@ -8,11 +8,11 @@ You can post all of your questions directly on our forum: [http://www.prestashop
 
 Chapters in this guide:
 
-* [Training]()
-* [Customizing your shop]()
-* [Connecting to the PrestaShop back office]()
-* [Discovering the Administration Area]()
-* [First steps with PrestaShop 1.7]()
+* [Training](training.md)
+* [Customizing your shop](customizing-your-shop.md)
+* [Connecting to the PrestaShop back office](connecting-to-the-prestashop-back-office.md)
+* [Discovering the Administration Area](discovering-the-administration-area.md)
+* [First steps with PrestaShop 1.7](first-steps-with-prestashop-1.7.md)
 * [Selling with PrestaShop](selling-with-prestashop/)
   * [Managing your Orders](selling-with-prestashop/managing-your-orders/)
   * [Managing your Product Catalog](selling-with-prestashop/managing-your-product-catalog/)
