@@ -8,15 +8,15 @@ It hosts the 1.7 documentation on how to install PrestaShop and use each page of
 
 Here are the links to the 5 other repositories:
 
-[French](%20https://github.com/PrestaShop/user-documentation-fr)
+[French](https://github.com/PrestaShop/user-documentation-fr)
 
 [Spanish](https://github.com/PrestaShop/user-documentation-es)
 
-[Italian](%20https://github.com/PrestaShop/user-documentation-it)
+[Italian](https://github.com/PrestaShop/user-documentation-it)
 
 [Dutch](https://github.com/PrestaShop/user-documentation-nl)
 
-[Farsi](%20https://github.com/PrestaShop/user-documentation-fa)
+[Farsi](https://github.com/PrestaShop/user-documentation-fa)
 
 This repository is synchronized with GitBook, a tool that allows creating modern and intuitive documentation pages. You can find the PrestaShop English documentation [here](https://prestashop.gitbook.io/english-documentation-for-prestashop-1-7/).
 
