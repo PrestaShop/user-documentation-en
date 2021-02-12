@@ -1,4 +1,4 @@
-# Taxes \(EN\)
+# Taxes
 
 This page lists all the taxes already created in your shop. It allows you to also create new taxes if needed. For each tax, you will see its name, rate, and status. You can activate or deactivate it right from the tax list, or you can edit or delete a tax using the action button at the far right.
 

@@ -5,6 +5,6 @@ Locations are the geographical zones \(states, countries, or even bigger zones i
 This section contains the following chapters:
 
 * [Countries](countries.md)
-* [Zones \(EN\)](zones-en.md)
+* [Zones \(EN\)](zones.md)
 * [States](states.md)
 

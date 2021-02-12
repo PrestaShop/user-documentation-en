@@ -1,4 +1,4 @@
-# Zones \(EN\)
+# Zones
 
 PrestaShop's zones are a list of the world's subregions \([http://en.wikipedia.org/wiki/Subregion](http://en.wikipedia.org/wiki/Subregion)\). It helps categorize countries.
 

@@ -10,6 +10,6 @@ By default in PrestaShop, a tax applies to all countries/states/zones. If order 
 
 You cannot directly apply a tax to a product; you can only apply tax rules. Therefore, you must first register all relevant taxes, and then create a tax rule for that tax in order to specify the countries where the tax applies, and finally set the tax rule to the product.
 
-* [Taxes \(EN\)](taxes-en.md)
+* [Taxes \(EN\)](taxes.md)
 * [Tax Rules](tax-rules.md)
 
