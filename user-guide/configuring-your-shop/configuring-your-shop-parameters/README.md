@@ -8,7 +8,7 @@ This chapter contains the following sections:
 * [Order Settings](order-settings/)
 * [Product Settings](product-settings.md)
 * [Customer Settings](customer-settings/)
-* [Contact](contact/)
+* [Contact](contact.md)
 * [Traffic](traffic/)
 * [Search](search/)
 
