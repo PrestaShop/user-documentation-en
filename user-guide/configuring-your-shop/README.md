@@ -4,6 +4,6 @@ The "Configure" section enables you to configure and fine-tune some of your shop
 
 This chapter contains the following sections:
 
-* [Configuring your Shop Parameters](configuring-your-shop-parameters/)
-* [Configuring Advanced Parameters](configuring-advanced-parameters/)
+* [Configuring your Shop Parameters](shop-parameters/)
+* [Configuring Advanced Parameters](advanced-parameters/)
 
