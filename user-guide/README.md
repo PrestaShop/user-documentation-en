@@ -34,7 +34,7 @@ Chapters in this guide:
   * [Creating a new shop](managing-multiple-shops/creating-a-new-shop.md)
   * [Setting a shop's URL](managing-multiple-shops/setting-a-shops-url.md)
   * [Sample Usages and Specifics](managing-multiple-shops/sample-usages-and-specifics.md)
-* [Complying with the European legislation](complying-with-the-european-legislation.md)
+* [Complying with the European legislation]()
 * [Browsing the front office](browsing-the-front-office.md)
 * [Complying with the GDPR](complying-with-the-gdpr.md)
 

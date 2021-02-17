@@ -123,7 +123,6 @@
     * [Creating a new shop](user-guide/managing-multiple-shops/creating-a-new-shop.md)
     * [Setting a shop's URL](user-guide/managing-multiple-shops/setting-a-shops-url.md)
     * [Sample Usages and Specifics](user-guide/managing-multiple-shops/sample-usages-and-specifics.md)
-  * [Complying with the European legislation](user-guide/complying-with-the-european-legislation.md)
   * [Browsing the front office](user-guide/browsing-the-front-office.md)
   * [Complying with the GDPR](user-guide/complying-with-the-gdpr.md)
 
