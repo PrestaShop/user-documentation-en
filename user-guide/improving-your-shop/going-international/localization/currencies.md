@@ -40,7 +40,7 @@ By default, the currency is disabled. To activate it in your store, do not forge
 
 ## **Creating an alternative currency** 
 
-You may need to add a currency that is not included in any of the localization packs or that is not available in the list of languages. Use this feature to add any cryptocurrency, local currency, etc. that meet your customers’ needs.
+You may need to add a currency that is not included in any of the localization packs or that is not available in the list of currencies. Use this feature to add any cryptocurrency, local currency, etc. that meet your customers’ needs.
 
 1. Click on the “Add a new currency” button
 2. Check the box “Create an alternative currency” 
