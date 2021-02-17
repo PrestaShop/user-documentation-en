@@ -87,7 +87,7 @@ Do not forget to regularly update the rates, by following these steps:
 
 ![](https://lh5.googleusercontent.com/qopylC5ZST5Xkv9RgCaVWMfCeX9ckAEqJyNolSM8iat18FGsMn7LG7KYhqrUEyTwXw-ufLYQRg9U_YGBn-Bk8iD5JJRtdwlFzlaluNnDAeDWQtOIbx_gdiTnm7Nn0OaWm6xMr5nF)
 
-To update currency rates
+Clicking on the “Update” button will automatically update the exchange rates of your store’s currencies :
 
 1. Go to the “Exchange rate” section of the “Currencies” page
 2. Click on the “Update” button 
@@ -96,7 +96,6 @@ To update currency rates
 Custom currencies’ exchange rates will not be updated automatically, so you will have to manually update them. For example, if you added Bitcoin and want to update the exchange rate, click on the pencil to modify the currency in the Currencies listing, and enter the exchange rate in the corresponding field. Therefore, for high volatile alternative currencies, it is highly recommended to use a module that can automatically update the currency rate.
 {% endhint %}
 
-Clicking on the “Update” button will automatically update the exchange rates of your store’s currencies.  
   
 A simple search on the internet is usually sufficient to find a currency exchange rate. There are a lot of converters online that you can use, such as XE.com: 
 
