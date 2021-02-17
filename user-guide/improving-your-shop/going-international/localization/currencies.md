@@ -30,7 +30,7 @@ This can be done in the "Localization" page of the "International" menu.
 
 For example, if you want to add the Algerian Dinar, you can import Algeria’s localization pack.
 
-When importing a localization pack, the language will be enabled by default. Once imported, you can manage the status of the currency on the “Currencies'' page. 
+When importing a localization pack, the language and the currency will be enabled by default. Once imported, you can manage the status of the currency on the “Currencies'' page. 
 
 ### 2. Add the currency manually
 
