@@ -16,7 +16,7 @@ Chapters in this guide:
 * [Selling with PrestaShop](selling-with-prestashop/)
   * [Managing your Orders](selling-with-prestashop/managing-orders/)
   * [Managing your Product Catalog](selling-with-prestashop/managing-product-catalog/)
-  * [Managing your Customers](selling-with-prestashop/managing-your-customers/)
+  * [Managing your Customers](selling-with-prestashop/managing-customers/)
   * [Managing the Customer Service](selling-with-prestashop/managing-the-customer-service/)
   * [Understanding your statistics](selling-with-prestashop/understanding-your-statistics.md)
 * [Improving your shop](improving-your-shop/)

@@ -6,7 +6,7 @@ This chapter contains the following sections:
 
 * [Managing your Orders](managing-orders/)
 * [Managing your Product Catalog](managing-product-catalog/)
-* [Managing your Customers](managing-your-customers/)
+* [Managing your Customers](managing-customers/)
 * [Managing the Customer Service](managing-the-customer-service/)
 * [Understanding your statistics](understanding-your-statistics.md)
 
