@@ -14,7 +14,7 @@ To change the default currency of your store:
 2. See the ‘Default currency’ feature in the Configuration section
 3. Select the currency you want to set as default
 
-![](https://lh3.googleusercontent.com/N_80gl_4o74Uc-KJbIX95Vr-aDdetj5RRCcxqNe2eQNfH_fj3hi5yXE62ZG3wxmWeapirqoELw9cDjGzxckMG9EWq-PmFOCV0s7Wbb7VLYq0WU_HPmdvDS6qJk9fECVNfretdXBl)
+![](../../../../.gitbook/assets/image.png)
 
 If the currency you want to set as default is not available, you must add it whether by importing the localization pack of a country using this currency or by completing the “Add a new currency” form \(See “Adding a new currency”\). 
 
