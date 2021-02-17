@@ -49,7 +49,7 @@ You may need to add a currency that is not included in any of the localization p
 ![](https://lh5.googleusercontent.com/dkP6rZ9vf1_NUob3_0PH4xvFiYbvvcIvQdwm2kFdWzi124hGirkclA_um9eH99CZU24LLLGjk_C5QFn8SQAip-DCFCIlFCuWTq58r42Bx1P_NL4zRou6SDHd8M7FIX7vgkl23Jxb)
 
 * **Currency name.** Enter the name of the currency. 
-* **ISO code.** Enter the currency 4217 ISO code. See \[Wikipedia\]\(https://en.wikipedia.org/wiki/ISO\_4217\#Active\_codes\) for more information. You will also be able to find unofficial ISO codes of alternative currencies, such as Bitcoin.
+* **ISO code.** Enter the currency 4217 ISO code. See [Wikipedia ](https://en.wikipedia.org/wiki/ISO_4217#Active_codes)for more information. You will also be able to find unofficial ISO codes of alternative currencies, such as Bitcoin.
 * **Exchange rate.** This rate is to be defined according to your store's default currency. For example, if the default currency is euros and your chosen currency is dollars, type "1.20" \(1€ = $1.20\).
 * **Decimals.** Number of digits following the decimal point for the prices on your store.
 * **Status.** Any currency can be disabled at any time, both from the edit page, and the currencies listing on the "Currencies" page. When you create a new currency by using the “Add a new currency form”, it is disabled by default. 
