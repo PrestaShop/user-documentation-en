@@ -5,7 +5,7 @@ Your products, how your catalog is organized, your orders, your customers and ho
 This chapter contains the following sections:
 
 * [Managing your Orders](managing-orders/)
-* [Managing your Product Catalog](managing-product-catalog/)
+* [Managing your Product Catalog](managing-catalog/)
 * [Managing your Customers](managing-customers/)
 * [Managing the Customer Service](managing-customer-service/)
 * [Understanding your statistics](understanding-statistics.md)

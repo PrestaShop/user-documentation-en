@@ -15,7 +15,7 @@ Chapters in this guide:
 * [First steps with PrestaShop 1.7](first-steps.md)
 * [Selling with PrestaShop](selling/)
   * [Managing your Orders](selling/managing-orders/)
-  * [Managing your Product Catalog](selling/managing-product-catalog/)
+  * [Managing your Product Catalog](selling/managing-catalog/)
   * [Managing your Customers](selling/managing-customers/)
   * [Managing the Customer Service](selling/managing-customer-service/)
   * [Understanding your statistics](selling/understanding-statistics.md)
