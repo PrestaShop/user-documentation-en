@@ -7,7 +7,7 @@
   * [Installing PrestaShop on your computer](getting-started/installing-prestashop-computer.md)
   * [Installing PrestaShop using the command-line script](getting-started/installing-prestashop-using-command-line-script.md)
   * [Uninstalling PrestaShop](getting-started/uninstalling-prestashop.md)
-  * [Misc. information](getting-started/misc.-information.md)
+  * [Misc. information](getting-started/misc-information.md)
 * [User Guide](user-guide/README.md)
   * [Training](user-guide/training.md)
   * [Customizing your shop](user-guide/customizing-shop.md)

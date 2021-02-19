@@ -13,5 +13,5 @@ The presented chapters should be read one after the other: for instance, the "Wh
 * [Installing PrestaShop on your computer](installing-prestashop-computer.md)
 * [Installing PrestaShop using the command-line script](installing-prestashop-using-command-line-script.md)
 * [Uninstalling PrestaShop](uninstalling-prestashop.md)
-* [Misc. information](misc.-information.md)
+* [Misc. information](misc-information.md)
 
