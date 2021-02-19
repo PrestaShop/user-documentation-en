@@ -30,9 +30,9 @@ There you go: the multistore feature is now in place, starting with the addition
 
 ## Using the multistore feature <a id="ManagingMultipleShops-Usingthemultistorefeature"></a>
 
-* [The multistore interface](the-multistore-interface.md)
-* [Creating a new shop group](creating-a-new-shop-group.md)
-* [Creating a new shop](creating-a-new-shop.md)
-* [Setting a shop's URL](setting-a-shops-url.md)
+* [The multistore interface](multistore-interface.md)
+* [Creating a new shop group](creating-new-shop-group.md)
+* [Creating a new shop](creating-new-shop.md)
+* [Setting a shop's URL](setting-shop-url.md)
 * [Sample Usages and Specifics](sample-usages-and-specifics.md)
 
