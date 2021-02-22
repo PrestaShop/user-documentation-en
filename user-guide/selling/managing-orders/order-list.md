@@ -1,11 +1,6 @@
----
-description: >-
-  The order list has been designed to save you time, by avoiding back and forth
-  between each order. On this documentation page, you will learn how to manage
-  your orders, directly from the listing page.
----
-
 # Order list management
+
+The order list has been designed to save you time, by avoiding back and forth between each order. On this documentation page, you will learn how to manage your orders, directly from the listing page.
 
 ## **Finding an order** 
 
@@ -53,7 +48,8 @@ To open the customer page in a new tab, make a right-click on their name, and cl
 
 ## **Changing the order status**
 
-     ****![](https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa)
+     ****![](https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa)  
+****
 
 On the “Status” column of the table, click on the order’s status and select the new status from the list. 
 

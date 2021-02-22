@@ -18,7 +18,7 @@
     * [Managing your Orders](user-guide/selling/managing-orders/README.md)
       * [Order list management](user-guide/selling/managing-orders/order-list.md)
       * [Order details management](user-guide/selling/managing-orders/order-details.md)
-      * [Back office order](user-guide/selling/managing-orders/back-office-order.md)
+      * [Create an order from the back office](user-guide/selling/managing-orders/back-office-order.md)
       * [Invoices](user-guide/selling/managing-orders/invoices.md)
       * [Credit slips](user-guide/selling/managing-orders/credit-slips.md)
       * [Delivery slips](user-guide/selling/managing-orders/delivery-slips.md)
