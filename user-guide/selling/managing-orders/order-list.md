@@ -21,14 +21,14 @@ You can export a list of your orders. To do that,
 
 ## **Viewing an order’s details**
 
-You can preview an order’s details by clicking on the down arrow, next to the order’s ID. This will display the:
+You can preview an order’s details by clicking on the down arrow, next to the order’s ID. This will display:
 
 * The carrier
 * The invoice details
 * The products in the cart
 * The total amount ****
 
-To see more, click on the “Open details” button. This will redirect you to the order page. 
+To see more, click on the “Open details” button. This will redirect you to the order details page. 
 
 You can also access an order directly by clicking on its line on the table, or on the magnifying glass in the “Actions” column.
 
@@ -53,14 +53,15 @@ To open the customer page in a new tab, make a right-click on their name, and cl
 
 On the “Status” column of the table, click on the order’s status and select the new status from the list. 
 
-Changing the status from the order listing can also be very useful if you want to update the status of several orders. To do that,   
-
+Changing the status from the order listing can also be very useful if you want to update the status of several orders. To do that, 
 
 * Select the orders for which you want to update the status
 * Open the “Bulk actions” drop-down list
 * Select “Change order status
 
+{% hint style="info" %}
 You may have noticed a color change of the order status: you have a good eye! We indeed changed the color for better readability when releasing the 1.7.7 version of PrestaShop.
+{% endhint %}
 
 ## **Download the invoice and delivery slip**
 
