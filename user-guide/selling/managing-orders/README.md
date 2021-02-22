@@ -4,7 +4,7 @@ As a shop manager, you will have to deal with heaps of orders and their accompan
 
 This chapter contains the following sections:
 
-* [Orders](orders.md)
+* [Orders](order-list.md)
 * [Invoices](invoices.md)
 * [Credit Slips](credit-slips.md)
 * [Delivery Slips](delivery-slips.md)
