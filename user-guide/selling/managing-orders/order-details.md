@@ -36,7 +36,7 @@ Just under the “Products” section, there is an **administrative section** th
 * shipping information 
 * merchandise returns
 
-In **the bottom right-hand corner**, the **“Payment” section** gives you information about the payment details \(date of the transaction, method used, total amount, etc.\) You can also add a new payment. 
+In **the bottom right-hand corner**, the **“Payment” section** gives you information about the payment details \(date of the transaction, method used, total amount, etc.\)
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
@@ -216,13 +216,13 @@ A new column appears in the Products table, entitled “Return products”
 
 When you set a product as returned or to be refunded, four options are available, depending on the order status: 
 
-#### **Re-stock products** 
+**1\) Re-stock products** 
 
 When registering a product return, you may choose to re-stock the products in question.
 
 If you select this option, PrestaShop will consider that the returned product is available for sale again, and will therefore increase the stock for this product. You should make sure not to check the “Re-stock products” box if the returned product has a manufacturing defect or is broken.
 
-#### **Generate a credit slip** 
+**2\) Generate a credit slip** 
 
 When proceeding to a refund, you may choose to generate a credit slip. 
 
@@ -230,7 +230,7 @@ A credit slip is an acknowledgment from the store that the merchandise refund ha
 
 Depending on your refund policy, you might pay the customer back or generate a voucher for their next purchase.
 
-#### **Generate a voucher**
+**3\) Generate a voucher**
 
 When proceeding to a refund, you may choose to generate a voucher.
 
@@ -238,11 +238,12 @@ A voucher takes the form of a discount code that the customer can enter during t
   
 In PrestaShop, vouchers are part of a special kind of discount feature: "cart rules". They can be created and edited from the Cart Rules page, under the Discounts menu. You can also edit customers' existing vouchers directly from the Customer page, in the vouchers section.
 
-#### **Repay shipping costs**
+**4\) Repay shipping costs**
 
 You can choose to refund the shipping costs of the returned products. It is always an appreciated gesture!
 
-{% hint style="info" %}
-If the order was paid by check or bank transfer, you will have to issue the refund yourself and update the order status to “Refunded” when it is done.
-{% endhint %}
+If the payment was made by credit card, the customer will be automatically refunded on their card. If the order was paid by check or bank transfer, you will have to issue the refund yourself and update the order status to “Refunded” when it is done.  
+****
+
+
 
