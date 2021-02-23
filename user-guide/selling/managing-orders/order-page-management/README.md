@@ -35,7 +35,7 @@ Just under the Products section, there is an **administrative section** that con
 * shipping information 
 * merchandise returns
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2817%29.png)
 
 In **the bottom right-hand corner**, the **Payment section** gives you information about the payment details \(date of the transaction, method used, total amount, etc.\) You can also add a new payment. 
 

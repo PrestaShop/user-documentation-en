@@ -15,7 +15,7 @@ There are two places on the order page where you can update its status:
 
 Select the status you want in the drop-down list and click on the “Update status” button. 
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 You can choose between the following statuses:
 
@@ -115,7 +115,7 @@ If the address you want to link to the order is not already registered in Presta
 * Fill in the form and save
 * Go back to the order details page and select the address in the drop-down list.
 
-![Adresses section of the Customer page](../../../../.gitbook/assets/image%20%2812%29.png)
+![Adresses section of the Customer page](../../../../.gitbook/assets/image%20%2813%29.png)
 
 ## **Managing payments and discounts**
 
@@ -129,7 +129,7 @@ To register a new payment, go to the Payments section of the order page.
 * Select the invoice on which you want this payment to appear
 * Click on the "Add" button to save 
 
-![](../../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../../.gitbook/assets/image%20%2819%29.png)
 
 ### **Adding a discount**
 
@@ -167,7 +167,7 @@ You can select a predefined order message from the drop-down list. You can then 
 
 If you want to write custom predefined messages, click on the “Configure predefined messages” button. You will be redirected to the Order Messages page, under the Customer service menu. From there, click on “Add new order message”. 
 
-![Order Messages page under the Customer Service menu](../../../../.gitbook/assets/image%20%2813%29.png)
+![Order Messages page under the Customer Service menu](../../../../.gitbook/assets/image%20%2814%29.png)
 
 ➡ The message will be stored in the client's profile in your Customer Service database, which you can access either by going to the client's page, or the Customer Service page. 
 
