@@ -7,7 +7,7 @@ description: >-
 
 # Order list management
 
-## **Finding an order** 
+## **Finding an order** 🔎 
 
 The orders are organized by date, from newest to oldest. 
 
@@ -15,7 +15,7 @@ Use the filters at the top of the table to narrow down your search and click on 
 
 ![](https://lh6.googleusercontent.com/d2z7pDl22SCy0etaWt_7qSVhAGw0AcDdiAPsrE37uqPjC3ArvZMso2IhIzN6j1mI1VnKEGSWhhW7Sd-qDRg_NcWvlwlN9JjmE5iIWnZiAuEa6jzKqpQDYkz2vc-yVOBDampSzk-8)
 
-## **Exporting an order**
+## **Exporting an order** 
 
 You can export a list of your orders. To do that,
 
@@ -75,7 +75,9 @@ Once an invoice or a delivery slip is generated into the order, it is possible t
 
 ## **Deleting an order**
 
+{% hint style="warning" %}
 You cannot delete an order. Implementing a “Delete” button would make PrestaShop illegal in Europe, as it is illegal to remove payment, ordering, or invoice information from a business.
+{% endhint %}
 
 If you want to cancel an order, change the order status to “Canceled”.   
 

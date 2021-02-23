@@ -5,7 +5,7 @@ As a shop manager, you will have to deal with heaps of orders and their accompan
 This chapter contains the following sections:
 
 * [Order list management](order-list.md)
-* [Order details management](order-page-management/)
+* [Order page maangement](order-page-management/)
 * [Back office order](create-back-office-order.md)
 * [Invoices](invoices.md)
 * [Credit Slips](credit-slips.md)

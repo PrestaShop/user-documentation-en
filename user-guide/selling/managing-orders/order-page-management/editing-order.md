@@ -1,6 +1,6 @@
 ---
 description: >-
-  From the Order page, not only can you access all of the order details, but
+  From the order page, not only can you access all of the order details, but
   also edit and update them.
 ---
 
@@ -39,11 +39,11 @@ It is very important to **update a status only when it has been clearly confirme
 
 You can get many PDF documents out of the order page. When available, they are listed in the Documents tab of the administrative section.‌
 
-* **Print/Download the order**
+* **Print/Download the order** 
 
 You can print or download the order as a PDF by clicking on the "**Print order**" button at the top of the order page.
 
-* **Download/Generate an invoice**
+* **Download/Generate an invoice** 
 
 You can download the invoice by clicking on the “**View invoice**” button at the top of the page. You can also access or generate the invoice in the Documents tab. ‌
 
@@ -148,26 +148,28 @@ The discount is not applied to the shipping costs unless you check free shipping
 
 ## **‌Managing order messages and customer private notes**
 
-### **Adding  a private note**
+### **Adding  a private note** 🔏 
 
 In the Customer section, you can add a private note on a customer that will only be visible by you and your team. It can very useful to let your colleagues know about important information about the customer: he or she a regular customer? should special attention be paid because of a previous incident? 
 
-### **Attaching a message to the order**
+### **Attaching a message to the order**  📧 
 
 You might need to send the customer a message to keep them informed of their order’s progress or let them know about an unforeseen event. Communication is key for a good customer experience! And the good news is that you can do it very easily from the order page:
 
 Write your message in the message field and send it. 
 
 * [x] If you want your customer to receive it, do not forget to check the "Display to customer?" box.  
-* [ ] You might want to keep this message private \(for you and your team only\). That is also possible: just leave the "Display to customer?" box unchecked. 
+* [ ] You might want to keep this message available **for you and your team only**. That is also possible: just leave the "Display to customer?" box unchecked. 
 
 #### **Send predefined messages**
 
-You can select a predefined order message from the drop-down list. You can then add further details to the pre-written message if needed.
+You can select a predefined order message from the drop-down list. 
 
-If you want to write custom predefined messages, click on the “Configure predefined messages” button. You will be redirected to the Order Messages page, under the Customer service menu. From there, click on “Add new order message”. 
+You can then add further details to the pre-written message if needed.
 
-![Order Messages page under the Customer Service menu](../../../../.gitbook/assets/image%20%2814%29.png)
+If you want to write custom predefined messages, click on the “Configure predefined messages” button. You will be redirected to the Order Messages page, under the Customer service menu.
 
-➡ The message will be stored in the client's profile in your Customer Service database, which you can access either by going to the client's page, or the Customer Service page. 
+To know more:
+
+{% page-ref page="../../managing-customer-service/order-messages.md" %}
 

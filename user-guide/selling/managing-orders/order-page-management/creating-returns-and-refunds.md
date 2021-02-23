@@ -20,7 +20,7 @@ description: >-
 
 * Click on the “Standard refund” button
 
-A new column appears in the Products table, entitled “Standard refund”.
+_A new column appears in the Products table, entitled “Standard refund”._
 
 * Set the amount and quantity for each of the products you want to refund
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details.
@@ -39,7 +39,7 @@ You should proceed to a partial refund if you only want to refund part of the or
 
 * Click on the “Partial refund” button
 
-A new column appears in the Products table, entitled “Partial refund”
+_A new column appears in the Products table, entitled “Partial refund”._
 
 * Set the amount and quantity for each of the products you want to refund
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details.
@@ -61,7 +61,7 @@ Make sure that you have received the returned products. If everything is ok, you
 
 * Click on the “Return products” button
 
-A new column appears in the Products table, entitled “Return products”
+_A new column appears in the Products table, entitled “Return products”._
 
 * Select the products and quantity returned
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details
