@@ -65,9 +65,6 @@ _A new column appears in the Products table, entitled “Return products”._
 
 * Select the products and quantity returned
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details
-
-
-
 * Click on the “Return products” button to validate ****
 
 ### **‌Choosing a refund option**
