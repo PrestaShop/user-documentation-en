@@ -4,7 +4,7 @@ As a shop manager, you will have to deal with heaps of orders and their accompan
 
 This chapter contains the following sections:
 
-* [Order list management](order-list.md)
+* [Order list management](order-list-management.md)
 * [Order page management](order-page-management/)
 * [Editing an order](order-page-management/editing-order.md)
 * [Creating returns and refunds](order-page-management/creating-returns-and-refunds.md)

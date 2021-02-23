@@ -16,7 +16,7 @@
   * [First steps with PrestaShop 1.7](user-guide/first-steps.md)
   * [Selling with PrestaShop](user-guide/selling/README.md)
     * [Managing your Orders](user-guide/selling/managing-orders/README.md)
-      * [Order list management](user-guide/selling/managing-orders/order-list.md)
+      * [Order list management](user-guide/selling/managing-orders/order-list-management.md)
       * [Order page management](user-guide/selling/managing-orders/order-page-management/README.md)
         * [Editing an order](user-guide/selling/managing-orders/order-page-management/editing-order.md)
         * [Creating returns and refunds](user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds.md)
