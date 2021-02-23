@@ -6,9 +6,7 @@ description: >-
 
 # Creating returns and refunds
 
-## Creating returns and refunds
-
-### **Proceeding to a standard refund**
+## **Proceeding to a standard refund**
 
 ➡ It is possible to proceed to refunds when the order is paid, or when at least one payment is linked to the order. 
 
@@ -27,7 +25,7 @@ _A new column appears in the Products table, entitled “Standard refund”._
 * Check the Shipping box to refund the shipping costs too
 * Click on the “Standard refund” button to validate
 
-### **Proceeding to a partial refund** 
+## **Proceeding to a partial refund** 
 
 You should proceed to a partial refund if you only want to refund part of the order, either because the customer returned one of the ordered products, or simply as a sign of goodwill for a damaged product that the customer chose to keep anyway.
 
@@ -45,7 +43,7 @@ _A new column appears in the Products table, entitled “Partial refund”._
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details.
 * Click on the “Partial refund” button to validate 
 
-### **Registering a product return**
+## **Registering a product return**
 
 ➡ Registering a product return is possible only once the order is shipped and if requested by the customer. 
 
@@ -67,7 +65,7 @@ _A new column appears in the Products table, entitled “Return products”._
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details
 * Click on the “Return products” button to validate ****
 
-### **‌Choosing a refund option**
+## **‌Choosing a refund option**
 
 When you set a product as returned or to be refunded, four options are available, depending on the order status: 
 
@@ -81,7 +79,7 @@ If you select this option, PrestaShop will consider that the returned product is
 You should make sure not to check the “Re-stock products” box if the returned product has a manufacturing defect or is broken.
 {% endhint %}
 
-#### **Generate a credit slip** 
+### **Generate a credit slip** 
 
 When proceeding to a refund, you may choose to generate a credit slip. 
 
@@ -89,7 +87,7 @@ When proceeding to a refund, you may choose to generate a credit slip.
 
 Depending on your refund policy, you might pay the customer back or generate a voucher for their next purchase.
 
-#### **Generate a voucher**
+### **Generate a voucher**
 
 When proceeding to a refund, you may choose to generate a voucher.
 
@@ -101,7 +99,7 @@ To know more:
 
 {% page-ref page="../../managing-catalog/managing-discounts/cart-rules.md" %}
 
-#### **Repay shipping costs**
+### **Repay shipping costs**
 
 You can choose to repay the shipping costs of the returned products. It is always an appreciated gesture! 
 
