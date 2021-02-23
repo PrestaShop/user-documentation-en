@@ -1,6 +1,6 @@
 # Creating a back-office order
 
-Creating an order directly from the back office of your store can be very useful! Imagine that you are on the phone with a customer who wants to buy a product but, for some reason, does not succeed. You can offer to create the order for them. On this documentation page, you will learn how to create an order from the back office.
+ Creating an order directly from the back office of your store can be very useful! Imagine that you are on the phone with a customer who wants to buy a product but, for some reason, does not succeed. You can offer to create the order for them. On this documentation page, you will learn how to create an order from the back office.
 
 ## **Associating the order with a customer**
 
@@ -10,32 +10,36 @@ On the Orders page, click on the “Add new order” button and enter the first 
 
 If you need more information about a customer, click on the “Details” button.
 
-If the customer you are creating this order for does not have a user account already, you can create one by clicking on the “Add a new customer” button and filling in the form. Once saved, the customer is automatically suggested for your order. Click on “Choose” to start creating the order. 
+🆕 If the customer you are creating this order for does not have a user account already, you can create one by clicking on the “Add a new customer” button and filling in the form. Once saved, the customer is automatically suggested for your order. Click on “Choose” to start creating the order. 
 
 ![](https://lh4.googleusercontent.com/RBsGvXDRFEuigb2Yo1ptZX9z9lNFOizeqflpdytdJ-j1E4Cp1HiPy3zs6gf2-Gyaolc39PmKGLpEoA7LcKH9PRbzotnHbJlntwZUiHxfOvZmjneTJvu4lQsQ5zVCDLGnQkr18h98)
 
 ## **Accessing abandoned carts and previous orders**
 
-In the Customer section of the order’s form, you can have access to and select the customer’s abandoned carts and their previous orders, if any.
+In the Customer section of the order’s form, you can access and the customer’s abandoned carts and their previous orders if any, and select them. 
 
+{% hint style="success" %}
 It can be very useful, and save your time! For instance, if it turns out you are dealing with a cart that a customer somehow could not validate, you can use that cart as the order basis by clicking on the "Use" button.
+{% endhint %}
 
 ## **‌Adding a product**
 
 If you do not want to use an abandoned cart nor a previous order, use the “Search for a product” field.
 
 * Type the first letters of the product’s name
-* In the “Product” drop-down list, choose the product you want to add 
+* In the Product drop-down list, choose the product you want to add 
 * If the product has some, select a combination
 * If the product is customizable, add your text
 * Enter or pick a quantity 
 * Click on the “Add to the cart” button to validate
 
-You can see that PrestaShop gives you an indication of the remaining stock, just below the “Quantity” field, this way, you can tell your customer on the phone if a product is out of stock, without having to open another tab. 
+PrestaShop gives you an indication of the remaining stock, just below the “Quantity” field, this way, you can tell your customer on the phone if a product is out of stock, without having to open another tab. 
 
 ## **‌Adding a voucher**
 
-Once the order is created, you can grant that order a voucher, and even create one by clicking on the "Add new voucher" button. To know more about how to create a cart rule, visit the corresponding [documentation page](https://app.gitbook.com/@prestashop/s/english-documentation-1-7/user-guide/selling/managing-catalog/managing-discounts/cart-rules).
+Once the order is created, you can grant that order a voucher, and even create one by clicking on the "Add new voucher" button. To know more about how to create a cart rule, visit the corresponding documentation page:
+
+{% page-ref page="../managing-catalog/managing-discounts/cart-rules.md" %}
 
 ## **Editing/Adding an address ‌**
 
@@ -43,13 +47,13 @@ The delivery address and the invoice address might be different if the person wh
 
 ### **Editing an address**
 
-In most cases, the address fields are already filled in. You can still modify the address by clicking on the “Edit” button to modify it.  
-  
-If you have just created the customer account, you will need to add their address at this point.
+In most cases, the address fields are already filled in. You can still modify the address by clicking on the “Edit” button to modify it.
 
 ### **Adding a new address**
 
-You can also add an address, by clicking on the “Add a new address” button and filling in the form. This step is mandatory in order to proceed with the order.
+If you have just created the customer account, you will need to add their address at this point. 
+
+Click on the “Add a new address” button and fill in the form. This step is mandatory in order to proceed with the order.
 
 ## **Organizing the shipping**
 
@@ -63,11 +67,11 @@ If you want to offer your client the shipping, click on “Yes” to automatical
 
 Check the order summary. Is everything ok? If yes, you can finalize the order by organizing the payment.
 
-**Send pre-filled order to the customer by email**
+### **Send pre-filled order to the customer by email**
 
 One way to complete the order is to send the pre-filled order with the information you entered \(items in the cart, delivery address, etc.\) to the customer, so they can complete the order themselves. The customer will be able to double-check the information, change it if needed, and enter a payment method to finalize the order. 
 
-**Proceed to checkout in the front office**
+### **Proceed to checkout in the front office**
 
 Clicking on the “Go on payment page to process the payment” button redirects you to the front office checkout funnel, to complete the back-office-created order.
 
