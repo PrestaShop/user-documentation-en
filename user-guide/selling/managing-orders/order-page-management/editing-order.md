@@ -49,7 +49,7 @@ You can download the invoice by clicking on the “**View invoice**” button at
 
 ➡ In the Documents section, you can add a note to the invoice that will appear just below the tax table on the invoice. 
 
-{% hint style="success" %}
+{% hint style="info" %}
 Here is a tip for tech-savvy merchants: You can **customize the invoice layout**: the PDF template files are located in the /pdf folder. These .tpl files are actually HTML files with Smarty tags for dynamic data. You can change the invoice's layout by editing the file named invoice.tpl
 {% endhint %}
 
@@ -61,23 +61,22 @@ If the order status is "Processing in progress", a delivery slip PDF is automati
 
 ### **Adding a product**
 
-![](https://lh4.googleusercontent.com/pN61QdHvvYXsyffV5na9GBQpZ7Ak6mXf0U7wnr-UJopwjxxYLUAb9mKju2VgCfBbHutyW0AV8zpDC9J-sT-2A5-lBphPcKbmjol3jX49E6pIP5WXmzZx-xT-0vYM0NrzKR7rSk2f)
-
 At the bottom of the product list:
 
 * Click on the "Add a product" button
 * Enter the product’s name
 * Select the product you want to add 
-* Set the quantity 
-* Select the invoice on which you want this product to appear and click on the "Add" button
+* Set the quantity and click on the “Add” button
 
-{% hint style="warning" %}
-If the invoice has already been sent to the customer, you should not add new products to it. Instead, you should create another invoice: when adding a new product, choose "create a new invoice" in the drop-down list. 
-{% endhint %}
+![](https://lh4.googleusercontent.com/pN61QdHvvYXsyffV5na9GBQpZ7Ak6mXf0U7wnr-UJopwjxxYLUAb9mKju2VgCfBbHutyW0AV8zpDC9J-sT-2A5-lBphPcKbmjol3jX49E6pIP5WXmzZx-xT-0vYM0NrzKR7rSk2f)
 
 Note that you cannot add more products than available in stock. When you select a product, the number of items in stock appears in the “Available” column.
 
 ➡ To add a product that is already present in the order, click on the “Edit” button and modify the quantity.
+
+{% hint style="warning" %}
+If the invoice has already been sent to the customer, you should not add new products to it. Instead, you should create another invoice: when adding a new product, choose "create a new invoice" in the drop-down list. 
+{% endhint %}
 
 ### **‌Removing a product**
 
@@ -155,7 +154,7 @@ In the Customer section, you can add a private note on a customer that will only
 
 ### **Attaching a message to the order**  📧 
 
-You might need to send the customer a message to keep them informed of their order’s progress or let them know about an unforeseen event. **Communication is key for a good customer experience!** And the good news is that you can do it very easily from the order page:
+You might need to send the customer a message to keep them informed of their order’s progress or let them know about an unforeseen event. Communication is key for a good customer experience! And the good news is that you can do it very easily from the order page:
 
 Write your message in the message field and send it. 
 

@@ -1,6 +1,12 @@
+---
+description: >-
+  On this documentation page, you will learn how to create an order from the
+  back office.
+---
+
 # Creating a back-office order
 
- Creating an order directly from the back office of your store can be very useful! Imagine that you are on the phone with a customer who wants to buy a product but, for some reason, does not succeed. You can offer to create the order for them. On this documentation page, you will learn how to create an order from the back office.
+ Creating an order directly from the back office of your store can be very useful! Imagine that you are on the phone with a customer who wants to buy a product but, for some reason, does not succeed. You can offer to create the order for them. 
 
 ## **Associating the order with a customer**
 
@@ -73,5 +79,5 @@ One way to complete the order is to send the pre-filled order with the informati
 
 ### **Proceed to checkout in the front office**
 
-Clicking on the “Go on payment page to process the payment” button redirects you to the front office checkout funnel, to complete the back-office-created order.
+Clicking on the “Proceed to check out in the front office” button redirects you to the front office checkout funnel, to complete the back-office-created order.
 
