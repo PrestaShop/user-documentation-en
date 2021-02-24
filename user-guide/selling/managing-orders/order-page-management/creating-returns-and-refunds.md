@@ -22,7 +22,6 @@ _A new column appears in the Products table, entitled “Standard refund”._
 
 * Set the amount and quantity for each of the products you want to refund
 * Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details.
-* Check the Shipping box to refund the shipping costs too
 * Click on the “Standard refund” button to validate
 
 ## **Proceeding to a partial refund** 
@@ -49,7 +48,7 @@ _A new column appears in the Products table, entitled “Partial refund”._
 
 ➡Merchandise returns should also be enabled on the Customer service &gt; Merchandise returns page.
 
-Merchandise return requests from customers are available in the Merchandise returns tab. 
+Merchandise return requests from the customer are available in the Merchandise returns tab. 
 
 ![Merchandise returns tab in the administrative section \(Order page\)](../../../../.gitbook/assets/image%20%2824%29.png)
 
@@ -93,7 +92,7 @@ When proceeding to a refund, you may choose to generate a voucher.
 
 ➡A voucher takes the form of a discount code that the customer can enter during the checkout process.   
   
-In PrestaShop, vouchers are part of a special kind of discount feature: "cart rules". They can be created and edited from the Cart Rules page, under the Discounts menu. You can also edit customers' existing vouchers directly from the Customer page, in the vouchers section.  
+In PrestaShop, vouchers are part of a special kind of discount feature: "cart rules". They can be created and edited from the Discounts &gt; Cart rules page. You can also edit customers' existing vouchers directly from the Customer page, in the vouchers section.  
   
 To know more:
 
