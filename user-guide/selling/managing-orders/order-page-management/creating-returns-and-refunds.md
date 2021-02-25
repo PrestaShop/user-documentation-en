@@ -21,7 +21,7 @@ description: >-
 _A new column appears in the Products table, entitled “Standard refund”._
 
 * Set the amount and quantity for each of the products you want to refund
-* Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details.
+* Choose one of the refund options See “[Choosing a refund option](creating-returns-and-refunds.md#choosing-a-refund-option)” below for more details.
 * Click on the “Standard refund” button to validate
 
 ## **Proceeding to a partial refund** 
@@ -39,7 +39,7 @@ You should proceed to a partial refund if you only want to refund part of the or
 _A new column appears in the Products table, entitled “Partial refund”._
 
 * Set the amount and quantity for each of the products you want to refund
-* Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details.
+* Choose one of the refund options See “[Choosing a refund option](creating-returns-and-refunds.md#choosing-a-refund-option)” below for more details.
 * Click on the “Partial refund” button to validate 
 
 ## **Registering a product return**
@@ -61,7 +61,7 @@ Make sure that you have received the returned products. If everything is ok, you
 _A new column appears in the Products table, entitled “Return products”._
 
 * Select the products and quantity returned
-* Choose one of the refund options See “[Choosing a refund option](https://prestashop.gitbook.io/english-documentation-1-7/user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds#choosing-a-refund-option)” below for more details
+* Choose one of the refund options See “[Choosing a refund option](creating-returns-and-refunds.md#choosing-a-refund-option)” below for more details
 * Click on the “Return products” button to validate ****
 
 ## **‌Choosing a refund option**
