@@ -14,7 +14,7 @@ The position of a module in your theme can be changed, because you might want on
 
 The "Positions" page displays all the available hooks and their attached modules. Many are empty by default, but some of the most useful ones can have a dozen of modules.
 
-![](../../../.gitbook/assets/64225503%20%283%29.png)
+![](../../../.gitbook/assets/64225563%20%286%29.png)
 
 At the top of the page, a drop-down menu enables you to only display the module in which you are interested. Alternatively, you can also search for a specific hook. By default, this page only displays the hooks on which you can position functions. Checking the "Display non-positionable hooks" box below displays all the hooks, even the invisible ones, that are linked to an action for an instance.
 
@@ -54,7 +54,7 @@ The transplanting process has its own interface:
 5. In the "Exceptions" field, type the name of the file\(s\) of the pages in which you do not want the module to appear. You can perform multiple selections simply by clicking on the file names while keeping the Ctrl key pressed. You can deselect files in the same manner: Ctrl+click.
 6. Do not forget to save your changes.  
 
-![](../../../.gitbook/assets/51839907%20%281%29.png)
+![](../../../.gitbook/assets/51839907%20%284%29%20%283%29.png)
 
 The "Transplant to" drop-down menu gives you a good idea where modules can be placed.
 
@@ -66,7 +66,7 @@ Each module has an action button on the right side of its row, with two possible
 
 Editing a module's setting uses the same interface as the one used for transplanting a module. The only difference is that you cannot change the "Module" field, as it is disabled, and thus grayed out. You can edit both the "Transplant to" setting and the exceptions, which works just as described in the "Attaching a module to a hook" method above.
 
-![](../../../.gitbook/assets/64225504%20%283%29.png)
+![](../../../.gitbook/assets/64225504%20%284%29%20%287%29.png)
 
 Always check your front office to make sure the module is indeed where you intended it to be.
 

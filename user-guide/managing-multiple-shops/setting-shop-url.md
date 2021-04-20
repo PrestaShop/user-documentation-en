@@ -38,5 +38,5 @@ To add a URL to a shop, select the shop in the "Multistore tree" selector, and t
   * **Virtual URL**. You can make the shop transparently available to customers using this option: through the power of URL rewriting, you can have your shop be displayed without the need to create a sub-folder. Of course, URL rewriting must be enabled in PrestaShop \(meaning Friendly URLs, see the "SEO & URLs" page of the "Traffic" menu, in "Shop Parameters"\). Example: `/shoes/`. Note that this only works for subfolder shops, not subdomain shops.
   * **Your final URL will be**. Gives you the impact that your URL settings above will have on the complete web address to your shop.
 
-![](../../.gitbook/assets/57082005%20%284%29.png)
+![](../../.gitbook/assets/57082005%20%284%29%20%284%29.png)
 

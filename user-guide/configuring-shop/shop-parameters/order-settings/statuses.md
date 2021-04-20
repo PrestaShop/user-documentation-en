@@ -4,7 +4,7 @@ Having different order or return statuses enables you to easily manage your orde
 
 The various available statuses are visible and editable in the "Statuses" page, under the "Order settings" menu.
 
-![](../../../../.gitbook/assets/38109199%20%282%29.png)
+![](../../../../.gitbook/assets/38109199%20%282%29%20%282%29.png)
 
 The page displays a list of the currently registered order statuses, along with:
 
@@ -19,13 +19,13 @@ The page displays a list of the currently registered order statuses, along with:
 
 The return status list features less information because those statuses are merely labels with no impact on the order.
 
-![](../../../../.gitbook/assets/23038627%20%281%29.png)
+![](../../../../.gitbook/assets/23038627%20%284%29%20%281%29.png)
 
 ## Creating a new order status <a id="Statuses-Creatinganeworderstatus"></a>
 
 You can create a new status with the "Add new order status" button at the top. The creation form opens.
 
-![](../../../../.gitbook/assets/51839969%20%282%29.png)
+![](../../../../.gitbook/assets/51839969%20%284%29%20%282%29.png)
 
 Fill out the form:
 
@@ -54,7 +54,7 @@ Fill out the form:
 
 You can create a return status with the "Add new return status" button at the top. The creation form opens.
 
-![](../../../../.gitbook/assets/23038630.png)
+![](../../../../.gitbook/assets/23038630%20%284%29.png)
 
 It only features two fields:
 

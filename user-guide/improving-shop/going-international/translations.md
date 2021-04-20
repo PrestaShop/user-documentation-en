@@ -13,13 +13,13 @@ The PrestaShop team has chosen to use its own built-in translation tool, so that
 Video - 5 Questions to ask before translating your online store
 
 [  
-![](../../../.gitbook/assets/51839786%20%282%29.png)](https://www.youtube.com/watch?v=Iw4lAuuA_pU&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c&index=27)
+![](../../../.gitbook/assets/51839786%20%286%29%20%282%29.png)](https://www.youtube.com/watch?v=Iw4lAuuA_pU&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c&index=27)
 
 ## Modifying a translation <a id="Translations-Modifyingatranslation"></a>
 
 The most important tool of the "Translation" page is in the "Modify translations" section. This is where you can choose to add a translation, and completely customize each and every sentence if you wish so.
 
-![](../../../.gitbook/assets/64225621%20%284%29.png)
+![](../../../.gitbook/assets/64225621%20%284%29%20%284%29.png)
 
 Select the part of the current translation that you wish to edit:
 
@@ -37,17 +37,17 @@ Some categories have a second drop-down list, which lists the available themes. 
 
 At the top of the page, there is a search bar to help you find a specific word, sentence or expression that you could want to modify or translate. On the right, it indicates the number of expressions available in this section, and how many are not translated yet, in the language you selected.
 
-![](../../../.gitbook/assets/54266866%20%281%29.png)
+![](../../../.gitbook/assets/54266866%20%284%29%20%281%29.png)
 
 Enter the searched expression and click "Search" to find it. The expressions matching your search will be displayed below, with a notification indicating how many results were found. You can either modify or translate it and click "Save" to save your changes. Clicking "Reset" will replace your custom translation by the official PrestaShop translations: either restore the initial translation if a translation was available or empty the field if no translation was available.
 
 You can browse the tree on the left to find all the sentences matching your search:
 
-![](../../../.gitbook/assets/54266865%20%281%29.png)
+![](../../../.gitbook/assets/54266865%20%284%29%20%281%29.png)
 
 ## Browsing translations <a id="Translations-Browsingtranslations"></a>
 
-![](../../../.gitbook/assets/54266867%20%282%29.png)
+![](../../../.gitbook/assets/54266867%20%284%29%20%282%29.png)
 
 The left column is here to help you browse through the various strings available in the category you want to translate or modify. It relies on what we call translation domains: each expression within PrestaShop is assigned a domain, giving translators more context, and making it possible to know where this expression is displayed in PrestaShop, and what it is about.
 
@@ -97,7 +97,7 @@ In case of a string with a placeholder, you should make sure that the content of
 
 Numbered placeholders \(`%1$s`, `%2$d`, etc.\) enable translators to rearrange the order of the placeholders in the string while maintaining the information each is replaced with. This way, a French translator could choose to translate "Order \#%1$d from %2$s" into "Commande n°%1$s du %2$s" or "Le %2$s, commande n°%1$s".
 
-![](../../../.gitbook/assets/51839702%20%281%29.png)
+![](../../../.gitbook/assets/51839702%20%284%29%20%281%29.png)
 
 ### Modules translations <a id="Translations-Modulestranslations"></a>
 
@@ -118,13 +118,13 @@ Strings are split into fieldsets, but they are not simple text fields anymore. E
 
 Note that the e-mail templates feature placeholders, such as `{lastname}` or `{shop_name}`, which PrestaShop replaces with the actual values when sending the e-mail. Make sure to keep them in both your translation.
 
-![](../../../.gitbook/assets/64225622%20%284%29.png)
+![](../../../.gitbook/assets/64225622%20%284%29%20%284%29.png)
 
 ## Add / Update a language <a id="Translations-Add/Updatealanguage"></a>
 
 PrestaShop translations are available in packs, which combine all the different translation categories into a zip file. Many language packs are available freely for you to download and install, directly from the PrestaShop servers. PrestaShop will take care of downloading the language pack, unpacking it and creating the correct sub-folder in your installation's `/translation` folder.
 
-![](../../../.gitbook/assets/64225623%20%283%29.png)
+![](../../../.gitbook/assets/64225623%20%284%29%20%283%29.png)
 
 You can then manage the new language in the "Languages" page of the "Localization" menu.
 
@@ -132,7 +132,7 @@ You can then manage the new language in the "Languages" page of the "Localizatio
 
 You can create your own language pack using this tool, either as a way of making a backup of your customizations or in order to share your translations with other PrestaShop installation – your own or someone else's.
 
-![](../../../.gitbook/assets/64225624.png)
+![](../../../.gitbook/assets/64225624%20%284%29.png)
 
 Simply choose the language and the theme of the translation you wish to export, and click the "Export" button. Note that the pack will contain the theme that your translation is supposed to support.
 
@@ -140,7 +140,7 @@ Simply choose the language and the theme of the translation you wish to export, 
 
 You can copy the content of one language to another. This is especially useful when you wish to replace a theme's language with the same language from another theme.
 
-![](../../../.gitbook/assets/64225625.png)
+![](../../../.gitbook/assets/64225625%20%284%29.png)
 
 Choose the source language and theme, then the destination language and theme, then click the "Copy" button. In most case, the language should remain the same in both drop-down lists.
 

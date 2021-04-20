@@ -6,7 +6,7 @@ Historically imports were made using .CSV files in PrestaShop. Since the version
 
 CSV is an acronym of "Comma-separated values". It is a popular plain-text format when there is a need to import, export or simply store data in a non-proprietary format. Almost all data handling tool support CSV format, in various incarnations. You can read more about the CSV format on Wikipedia: [http://en.wikipedia.org/wiki/Comma-separated\_values](http://en.wikipedia.org/wiki/Comma-separated_values).
 
-![](../../../.gitbook/assets/51840005%20%283%29.png)
+![](../../../.gitbook/assets/51840005%20%283%29%20%283%29.png)
 
 The import process requires preparation, and starts with a form made of primary settings:
 
@@ -38,7 +38,7 @@ The import process requires preparation, and starts with a form made of primary 
 When changing the entity you wish to import, the section on the right, titled "Available fields", changes to present the expected data fields. Although the importing tool helps you by taking care of matching your file's fields with PrestaShop's, you should strive to make your data more import-friendly by following the naming scheme and order of the presented fields. If not, the import will be more tedious, but not impossible.  
 Some fields have a little information popup available \(represented by an "i" logo\), which you can display by hovering the mouse cursor over it. They mostly pertain to PrestaShop's multistore or advanced stock management features. Make sure to read them all in order to better build/edit your data files.
 
-![](../../../.gitbook/assets/45580389.png)
+![](../../../.gitbook/assets/45580389%20%284%29.png)
 
 ## Data format <a id="Import-Dataformat"></a>
 
@@ -88,7 +88,7 @@ All import files are uploaded directly in the admin folder's `/import` sub-folde
 
 When clicking the "Next step" button, the page reloads with the data mapping tool. This interface helps you map your file's data columns with the ones required by PrestaShop.
 
-![](../../../.gitbook/assets/45580390%20%284%29.png)
+![](../../../.gitbook/assets/45580390%20%284%29%20%284%29.png)
 
 Presented in this table are the rows from your file, placed under arbitrary columns matched to PrestaShop's database needs. It is up to you to make sure that all the columns from your CSV file are matched with the correct column header, using each header's drop-down selector, so as to import your content correctly.
 
@@ -110,7 +110,7 @@ When the process is done, it should indicate "100% validated" and "100% imported
 
 The mapping process can be a tedious task if you cannot customize your file columns order according to that used by the PrestaShop importer, and even more so if you have to do that repeatedly or frequently. That is why PrestaShop includes a small tool to save the current mapping order that you have set up using all the headers drop-down selectors.
 
-![](../../../.gitbook/assets/23789871%20%282%29.png)
+![](../../../.gitbook/assets/23789871%20%281%29%20%282%29.png)
 
 The tool is a simple field at the top of the matching tool. You can do the three basic actions \(only one if there is no mapping configuration saved yet\):
 

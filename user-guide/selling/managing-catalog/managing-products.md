@@ -31,7 +31,7 @@ In PrestaShop 1.7, the product page is organized in tabs:
 
 The first field to fill is the product name, which will appear in the search engine results and in your product sheet's URL by default. Next to the field, you will find a language selector which enables you to choose the language into which you wish to edit or create the product.
 
-![](../../../.gitbook/assets/51185086%20%281%29.png)
+![](../../../.gitbook/assets/51185086%20%282%29%20%281%29.png)
 
 You **must** give the product a name in at least the default language before you can save it. You won't be able to save until it has a name.
 
@@ -53,7 +53,7 @@ To add new languages to your shop, go to the International section. You can eith
 
 ### Global Buttons <a id="ManagingProducts-GlobalButtons"></a>
 
-![](../../../.gitbook/assets/51185087%20%281%29.png)
+![](../../../.gitbook/assets/51185087%20%283%29%20%281%29.png)
 
 * * * * * * **Sales**. Redirects you to the "Product detail" page of the statistics dashboard \("Stats" menu\), which gives you a graphic of both the visits to this product's page and also its sales.
           * **Product list**. _New in PrestaShop 1.7_. Displays a list of all your products to allow you to quickly navigate from a product to another.
@@ -74,7 +74,7 @@ At the bottom of the page, several actions are possible:
 * **Add new product.** This saves any change you have made to any of the data for the current product and opens a new page to create a new product.
 * **Save**. This saves any change you have made to any of the data for the current product and keeps you on the current tab. This is particularly useful when you want to switch tabs without losing your changes to the current tab, or in order to see your changes get applied immediately. 
 
-![](../../../.gitbook/assets/51185088%20%282%29.png)
+![](../../../.gitbook/assets/51185088%20%283%29%20%284%29.png)
 
 Keyboard shortcuts
 
@@ -93,7 +93,7 @@ The product page, which has been redesigned in PrestaShop 1.7, makes it easier t
 
 ### Basic settings <a id="ManagingProducts-Basicsettings"></a>
 
-![](../../../.gitbook/assets/57081940.png)
+![](../../../.gitbook/assets/57081940%20%283%29.png)
 
 The "Basic Settings" tab provides the main options required to create a basic product: in a few clicks, you'll be able to create a new product. From there you can also browse the other tabs to add further details to your product.
 
@@ -105,7 +105,7 @@ The image section is on the top-left part of the "Basic settings" tab. You shoul
 
 Drag and drop your images directly from your folder, or click on "select files" \(or anywhere in the image section in fact\) to search and open the folder containing your images. You can select as many images as necessary by keeping the Ctrl-key pressed while selecting files, or you can make your selection one by one. The default maximal size for an image file is set by PrestaShop according to your server's PHP settings. This size can be lowered in the "Images" preference page, "Product images" section.
 
-![](../../../.gitbook/assets/51185094%20%283%29.png)
+![](../../../.gitbook/assets/51839124%20%285%29.png)
 
 **Cover image**
 
@@ -113,7 +113,7 @@ The uploaded images appear as thumbnails. The first one will be your default/cov
 
 You can change which image is your cover image by clicking on the image's thumbnail: the settings for this given image will appear. There you can check or uncheck "Cover image" to define whether the image should be the cover or not.
 
-![](../../../.gitbook/assets/51185093%20%281%29.png)
+![](../../../.gitbook/assets/51839131%20%282%29.png)
 
 **Zoom and Caption**
 
@@ -125,7 +125,7 @@ Each image can have a caption: use it to briefly describe the image \(and the pr
 
 Once you have uploaded all your product images, you can modify their order by drag-and-dropping each image. You can also add more images by clicking on the "+" icon, or dropping it.
 
-![](../../../.gitbook/assets/51839715%20%282%29.gif)
+![](../../../.gitbook/assets/51839715%20%283%29%20%282%29.gif)
 
 #### Summary and Description <a id="ManagingProducts-SummaryandDescription"></a>
 
@@ -136,7 +136,7 @@ At the bottom of the screen, the two description fields each serve different pur
 * The **"Summary" field** enables you to write a short description that will appear in search engines and in the description for your product.  This field is limited to 400 characters by default: if you exceed that limit, PrestaShop will warn you with a message in red below the field. You can change that limit in the "Products" preference page, where you will find the "Max size of product summary" option.
 * The **"Description" field** enables you to write a full description of your product, which will appear directly on the product page. The text editor offers a wide range of options for creating visually attractive descriptions \(font, size, text color, etc.\). While this second field has no limits, there is such thing as too much content: strive to provide the essential information in a compelling way, and your product should be good to go.
 
-![](../../../.gitbook/assets/51185084%20%281%29.gif)
+![](../../../.gitbook/assets/51185084%20%283%29%20%281%29.gif)
 
 #### Feature <a id="ManagingProducts-Feature"></a>
 
@@ -152,7 +152,7 @@ Before adding a feature to a product, you must create it for general use in your
 
 Feature and feature value creation are explained in details in the [dedicated section of the guide](managing-product-features.md).
 
-![](../../../.gitbook/assets/51185095%20%282%29.png)
+![](../../../.gitbook/assets/51839148%20%284%29.png)
 
 **Assigning a value to a feature**
 
@@ -184,14 +184,14 @@ A product can only be associated with one brand.
 
 The "Add a related product" field gives you the option of choosing relevant products to associate with this product, to suggest them to your customers when they visit the product's page \(if the theme supports it\). Click on "Add a related product", type in the first letters of product and select it. The product is then added at the bottom of the field.
 
-![](../../../.gitbook/assets/51185097%20%281%29.png)
+![](../../../.gitbook/assets/51185097%20%282%29%20%283%29.png)
 
 You can associate a product with as many other products as you deem necessary. Click on the trash icon to delete the product association.  
 An association goes one way only: the associated product will not feature an association to the current product in its setting page.
 
 #### Combinations <a id="ManagingProducts-Combinations"></a>
 
-![](../../../.gitbook/assets/51185098%20%281%29.png)
+![](../../../.gitbook/assets/51185098%20%283%29%20%281%29.png)
 
 You will often sell the same product under different versions: they share the same overall name, but they might differ by their color, their capacity, their screen size, and other attributes. Most of the time, these attributes come together: you could have the red version of the product available with either 1 Gb capacity or 2 Gb, or with 12'' screen or a 15'' screen. This is why PrestaShop calls these versions "combinations": your stock of products can be made of several variations of a single product, which in effect are simply its attributes combined in specific ways.
 
@@ -214,7 +214,7 @@ More quantity options are available in the "Quantity tab".
 
 #### Price <a id="ManagingProducts-Price"></a>
 
-![](../../../.gitbook/assets/51185099%20%281%29.png)
+![](../../../.gitbook/assets/51185099%20%283%29%20%281%29.png)
 
 Define how much you want to sell this product.
 
@@ -228,7 +228,7 @@ Tax rules can be managed in the "International" menu, "Taxes" page.
 
 #### Categories <a id="ManagingProducts-Categories"></a>
 
-![](../../../.gitbook/assets/51185100%20%283%29.png)
+![](../../../.gitbook/assets/51185100%20%285%29%20%286%29.png)
 
 The "Categories" section enables you to select in which category the product should appear. You can select more than one, but keep in mind that it is better for the customer if the category only contains equivalent and comparable products. Therefore, you should prevent from selecting root categories, and prefer child categories.  
 For instance, the "telephone" category can feature sub-categories of "brands" \(Apple, Samsung, HTC, etc.\) and as well as "characteristics" \(dual sim, Android, etc.\). It is up to you to indicate the category most useful to your customers.
@@ -265,7 +265,7 @@ However, you should keep reading, as there are many more details you can add to 
 
 Product quantities are managed in a single tab. PrestaShop will use this to determine when a product is soon out-of-stock or unavailable anymore.
 
-![](../../../.gitbook/assets/57606479.png)
+![](../../../.gitbook/assets/57606479%20%282%29.png)
 
 #### Standard Product <a id="ManagingProducts-StandardProduct"></a>
 
@@ -304,7 +304,7 @@ You can also configure the general settings applied to all of your products: the
 
 The "Shipping" tab enables you to give some precious details about your product's package. It isn't available in the case of a virtual product.
 
-![](../../../.gitbook/assets/51185106%20%281%29.png)
+![](../../../.gitbook/assets/51185106%20%283%29%20%283%29.png)
 
 * **Package dimension \(width, height, depth & weight\)**. You should strive to fill each field, because knowing the exact size and weight of a package is not only useful to you, but PrestaShop can also direct specific sizes/weights to specific carriers automatically, based on these settings. The order's final price will appear to the customer once PrestaShop \(or the customer\) has selected a carrier. 
 
@@ -347,7 +347,7 @@ The cost price should be lower than your retail price.
 
 You can change the total price of the product depending on the quantity of products your customer buys, the user group, the country, etc. This is done with the "Specific prices" section of the "Pricing" tab. Click on the "Add a specific price" button to reveal the creation form:
 
-![](../../../.gitbook/assets/51185109%20%281%29.png)
+![](../../../.gitbook/assets/51185109%20%283%29%20%283%29.png)
 
 This is a very easy way to create a discount price for this product \(and all its combinations\).
 
@@ -371,7 +371,7 @@ A customer might fit into multiple prices or discount rules, even when you have 
 
 You can change PrestaShop default settings using the "Priority Management" section.
 
-![](../../../.gitbook/assets/51185110%20%282%29.png)
+![](../../../.gitbook/assets/51185110%20%283%29%20%283%29.png)
 
 The default order of importance is:
 
@@ -392,7 +392,7 @@ Get to know the best SEO practices for e-commerce! Download and read PrestaShop'
 
 To access the product's SEO information, go to the "SEO" tab.
 
-![](../../../.gitbook/assets/57606471%20%281%29.png)
+![](../../../.gitbook/assets/57606471%20%283%29%20%281%29.png)
 
 #### Search Engine Optimization <a id="ManagingProducts-SearchEngineOptimization"></a>
 
@@ -444,7 +444,7 @@ Tags are terms and keywords that will help your customers easily find what they 
 
 To add several tags, simply separate them by a comma. For example : "dinner plate, dinnerware, stoneware" for a dinner plate.
 
-![](../../../.gitbook/assets/51185117%20%282%29.png)
+![](../../../.gitbook/assets/51185117%20%283%29%20%284%29.png)
 
 All the tags can be seen in the "Search" page, under the "Shop Parameters" menu. You will find more information on tag management in this [dedicated chapter](http://doc.prestashop.com/display/PS17/Tags).
 
@@ -463,6 +463,7 @@ Products tags are not the same as page keywords: they have no direct impact on s
 * **EAN-13 or JAN barcode**. These are the numbers of the product's barcode, which are used worldwide in order to identify it. You can use either an EAN-13 or a JAN number.
   * An EAN-13 is the product's 13-digit international article number. Order it on [GS1](https://www.gs1.org/) as soon as your product is created to be able to sell it with Google Shopping, or on marketplaces. Read more on Wikipedia: [http://en.wikipedia.org/wiki/International\_Article\_Number\_%28EAN%29](http://en.wikipedia.org/wiki/International_Article_Number_%28EAN%29).
   * A JAN is specific to Japan, but is compatible with the international EAN. Read more on Wikipedia: [http://en.wikipedia.org/wiki/Japanese\_Article\_Number](http://en.wikipedia.org/wiki/Japanese_Article_Number).
+* **MPN.** The MPN \(Manufacturer Part Number\) is a unique manufacturer reference. It allows to easily match a product to the right manufacturer, which has multiple advantages for both the merchant and the customer.  The merchants can easily differentiate similar products thanks to their identifier and manage product stock by manufacturer. The product can also be found in the search engine with the identifier.  The MPN is also useful for customers: the MPN can be indexed on Marketplaces and customers will therefore be able to find the product they are looking for faster. Customers are also sure to get the right product, which boosts their confidence!
 
 #### Customization <a id="ManagingProducts-Customization"></a>
 
@@ -474,7 +475,7 @@ The advantage of this function is that it offers your customers a personal servi
 
 Let's look at how to configure this function. Click on "Add a customization field" to indicate what type of context \(file and/or text\) can be personalized. You can put as many fields as you allow your customers to upload.
 
-![](../../../.gitbook/assets/51185118%20%281%29.png)
+![](../../../.gitbook/assets/51185118%20%283%29%20%281%29.png)
 
 For each customization field, you need to give two information:
 
@@ -603,7 +604,7 @@ You can delete an attribute-value pair by clicking on the cross in its grey box.
 
  3. The combination will appear in a table below.
 
-![](../../../.gitbook/assets/51185209%20%281%29.gif)
+![](../../../.gitbook/assets/51185209%20%283%29%20%282%29.gif)
 
 #### Automatic method <a id="ManagingProducts-Automaticmethod"></a>
 
@@ -681,7 +682,7 @@ The "Virtual Product" tab only features one option at first: it asks if the virt
 
 When you click "Yes", PrestaShop opens a new form within the tab, from which you can upload the file you intend to sell:
 
-![](../../../.gitbook/assets/51185126.png)
+![](../../../.gitbook/assets/51185126%20%283%29.png)
 
 * **File**. Click the "Browse" button to find the file on your hard drive. As soon as you have selected a file, the upload begins.
 
@@ -734,7 +735,7 @@ This will change two things:
 * The second field is used to indicate the quantity of chosen product should be added to the pack.
 * The button adds the product to the pack.
 
-![](../../../.gitbook/assets/51185208%20%281%29.png)
+![](../../../.gitbook/assets/51185208%20%283%29%20%281%29.png)
 
 You can add as many products as you would like to the pack.
 
@@ -755,5 +756,5 @@ Once you are done with the "Pack" tab, you can edit the content of all the other
 
  Watch our short video with 12 tips on how to create a great product page:
 
-[![](../../../.gitbook/assets/51839720%20%282%29.png)](https://www.youtube.com/watch?v=5k3ZdPo00KY)
+[![](../../../.gitbook/assets/51839720%20%287%29%20%285%29.png)](https://www.youtube.com/watch?v=5k3ZdPo00KY)
 

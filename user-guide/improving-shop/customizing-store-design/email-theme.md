@@ -8,7 +8,7 @@ _New in 1.7.6!_ Before emails were retrieved from your server, they are now gene
 
 This page is divided into three parts. The first parameters to indicate is the email theme you want to have by default. Natively, there are two templates available: "Classic" and "Modern" \(available since version 1.7.6 only\). It means that depending on the template you select, your next emails will look different.
 
-![](../../../.gitbook/assets/64225568%20%283%29.png)
+![](../../../.gitbook/assets/64225568%20%284%29%20%284%29.png)
 
 ## Generate emails <a id="EmailTheme-Generateemails"></a>
 
@@ -27,5 +27,5 @@ Here, you can find all existing email themes. By default, you already have the t
 * **Text**. Allows you to access its text format.
 * **Send a test email.** Useful to check if the layout is the one you want.
 
-![](../../../.gitbook/assets/64225583%20%283%29.png)
+![](../../../.gitbook/assets/64225583%20%284%29%20%283%29.png)
 

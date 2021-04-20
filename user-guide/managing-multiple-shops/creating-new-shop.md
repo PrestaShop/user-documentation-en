@@ -2,7 +2,7 @@
 
 The shop creation tool, located in the "Multistore" page, enables you to simply and precisely define both the front office appearance of your shop \(namely, its theme\) and the elements you wish to import from your main shop into this new one.
 
-![](../../.gitbook/assets/57081987%20%281%29.png)
+![](../../.gitbook/assets/57081987%20%284%29%20%281%29.png)
 
 Clicking the "Add new shop" button opens brings a form with two sections. The first one has 5 options:
 
@@ -14,7 +14,7 @@ Clicking the "Add new shop" button opens brings a form with two sections. The fi
 
 The second section, "Import data from another shop", is where you define which data of the main shop you want to use as data for this new shop.
 
-![](../../.gitbook/assets/57081989%20%283%29.png)
+![](../../.gitbook/assets/57081989%20%284%29%20%283%29.png)
 
 It has two options:
 

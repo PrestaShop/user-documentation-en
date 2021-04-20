@@ -9,7 +9,7 @@ The "Multistore" page comprises three mains sections:
 * **Multistore options**. Lists the available options for the existing shops.
   * **Default shop**. The default shop is the one which will serve a central hub for all the other ones, shares its details with other shops \(products, carriers, etc.\), and is the one that appears when you log in the administration.
 
-![](../../.gitbook/assets/57081978%20%283%29.png)
+![](../../.gitbook/assets/57081978%20%284%29%20%283%29.png)
 
 ## One back office to rule them all <a id="Themultistoreinterface-Onebackofficetorulethemall"></a>
 
@@ -21,7 +21,7 @@ To help you understand which shop your changes are applied to, PrestaShop adds a
 * Apply to only the shops of the selected shop group.
 * Apply to only the selected shop.
 
-![](../../.gitbook/assets/57081980%20%282%29.png)
+![](../../.gitbook/assets/57081980%20%284%29%20%282%29.png)
 
 This shop selector helps you know on which shop\(s\) you are currently working.
 
@@ -32,7 +32,7 @@ Indeed, settings pages will look regular when the shop selector is on "All shops
 * A "Yes/No" option at the top of each section of the settings page.
 * A check box next to each option.
 
-![](../../.gitbook/assets/57082007.png)
+![](../../.gitbook/assets/57082007%20%284%29.png)
 
 They both serve the same purpose: letting you enable the options that would otherwise be disabled in the current shop context. You can pick the options that you want to enable, or you can enable all the options of the section by switching the Yes/No option. Once enabled, it is up to you to change the value of each option: clicking the checkbox or switching the Yes/No option does not change any settings, it just allows you to change it in that context.
 

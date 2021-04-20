@@ -6,7 +6,7 @@ Your shop sends many messages throughout all the steps of registration and placi
 
 The first section of the page presents you with a list of all the emails that were sent from PrestaShop, with the recipient, the template used, the language of the message, the subject of the email and the time of sending.
 
-![](../../../.gitbook/assets/38469764%20%281%29.png)
+![](../../../.gitbook/assets/38469764%20%284%29%20%281%29.png)
 
 ## Email <a id="Email-Email"></a>
 
@@ -14,7 +14,7 @@ This is where you decide how your emails are sent and received.
 
 The form has three sets of options:
 
-![](../../../.gitbook/assets/38469765.png)
+![](../../../.gitbook/assets/38469765%20%284%29.png)
 
 * **Send email to**. This is a front-end setting. At the end of the checkout process, a client can leave a message to your staff. You can choose to whom this message will be sent by selecting from the drop-down list. To add more addresses, you should go to Shop Parameters &gt; Contacts.
 * Email parameters: how emails are technically sent. Choose among the three. See below for more information.
@@ -36,7 +36,7 @@ The SMTP configuration information can be provided to you either by:
 * Your ISP,
 * Your e-mail provider.
 
-![](../../../.gitbook/assets/23789857%20%282%29.png)
+![](../../../.gitbook/assets/23789857%20%284%29%20%282%29.png)
 
 Your web host can tell you whether or not your username is mandatory, as well as the password information, and the encryption to use.
 
@@ -59,5 +59,5 @@ You can choose to use only one of the two, or both. Both is the recommended way.
 Once you have configured your emails using one of the two available methods, enter your own e-mail address in this section, then click the "Send a test email" button.  
 Now check the inbox of the address provided to verify that you indeed have received the test email, in the correct format. If you have not received it, update your configuration with the correct information.
 
-![](../../../.gitbook/assets/38469768%20%281%29.png)
+![](../../../.gitbook/assets/38469768%20%284%29%20%281%29.png)
 

@@ -10,7 +10,7 @@ As you can see in the second example above, both categories and products can hav
 
 There are other individual pages in your PrestaShop install that would certainly benefit from friendly URLs: CMS pages, user account pages, pages with automatically generated content. The "SEO & URLs" page presents you with a list of these pages and enables you to edit their friendly URLs as well as their meta tags \(title, description, keyword\).
 
-![](../../../../.gitbook/assets/64225659%20%283%29.png)
+![](../../../../.gitbook/assets/64225659%20%284%29%20%283%29.png)
 
 Friendly URLs only work with a server setup that supports URL rewriting \(through the Apache Web Server `mod_rewrite` feature, for instance\). Make sure to check that your server does \(if needed, ask your hosting provider!\), as it can make your shop completely unavailable to customers if you enable friendly URLs and the server does not support it!
 
@@ -18,7 +18,7 @@ Friendly URLs only work with a server setup that supports URL rewriting \(throug
 
 In order to change the homepage meta tags, you simply need to open the "SEO & URLs" page and click on "index" to reach the page's settings and freely edit its important SEO information.
 
-![](../../../../.gitbook/assets/64225660%20%284%29.png)
+![](../../../../.gitbook/assets/64225660%20%284%29%20%284%29.png)
 
 A few tips:
 
@@ -35,7 +35,7 @@ Friendly URLs are to be set in the configuration page of each product, category,
 
 Make sure to fill the fields for all the available languages on your shop: not only is it immensely useful to local users, but some search engines can even make use of this local information.
 
-![](../../../../.gitbook/assets/64225660%20%284%29.png)
+![](../../../../.gitbook/assets/64225660%20%284%29%20%284%29.png)
 
 Click the "Add new page" button to reach the friendly URL creation form. It has a handful of fields:
 
@@ -70,7 +70,7 @@ The main options for friendly URLs:
 * **Disable Apache's MultiViews option**. Apache is the most popular webserver and is most likely the one your web host uses for your site \(although you should check this for yourself\). Multiviews is a content negotiation system: when enabled, the web server tries to serve the user a page in what it thinks is the best matching language version, under the same URL. Unfortunately, this might bring trouble to PrestaShop's friendly URLs feature. If this is the case, you can try to disable multi-views with this option.
 * **Disable Apache's mod\_security module**. `mod_security` is a module of the Apache web server, which acts as a firewall, protecting your server from intrusions. It can, however, block some key features, or even produce errors in some configuration. In such case, disable that firewall here.  
 
-![](../../../../.gitbook/assets/64225661%20%283%29.png)
+![](../../../../.gitbook/assets/64225661%20%284%29%20%283%29.png)
 
 ## Set shop URL <a id="SEOandURLs-SetshopURL"></a>
 
@@ -92,7 +92,7 @@ You can change the way friendly URLs are generated, by changing the route to a r
 
 Eight fields are available by default, and each is accompanied by a list of available keywords. Some keywords are mandatory and are indicated with a "\*".
 
-![](../../../../.gitbook/assets/64225664%20%284%29.png)
+![](../../../../.gitbook/assets/64225664%20%283%29%20%284%29.png)
 
 Once your fields updated, do not forget to save your changes!
 
@@ -100,7 +100,7 @@ Once your fields updated, do not forget to save your changes!
 
 _New since 1.7.5.1!_ PrestaShop now allows you to enable the display of your product's attributes in its meta title.
 
-![](../../../../.gitbook/assets/64225663%20%284%29.png)
+![](../../../../.gitbook/assets/64225663%20%282%29%20%284%29.png)
 
 ## Robots file generation <a id="SEOandURLs-Robotsfilegeneration"></a>
 
@@ -110,9 +110,9 @@ PrestaShop's `robots.txt` generation tool simply creates a file with exclusion d
 
 Clicking on the "Generate robots.txt" button replaces any existing `robots.txt` file with a new one. Therefore, if you want to add your own rules, do it after PrestaShop has generated its version of the file.
 
-![](../../../../.gitbook/assets/64225665.png)
+![](../../../../.gitbook/assets/64225665%20%284%29.png)
 
 Video - 4 Tips to Well start SEO for your Ecommerce site
 
-[![](../../../../.gitbook/assets/51839782%20%282%29.png)](https://www.youtube.com/watch?v=NnPEoE3MuHk&index=13&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c)
+[![](../../../../.gitbook/assets/51839782%20%286%29%20%283%29.png)](https://www.youtube.com/watch?v=NnPEoE3MuHk&index=13&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c)
 

@@ -6,7 +6,7 @@ Here is the [repository](https://github.com/PrestaShop/user-documentation-en) wh
 
 It hosts the 1.7 documentation on how to install PrestaShop and use each page of the back office. This documentation is also available in 6 other languages. 
 
-Here are the links to the 5 other repositories:
+Here are the links to the 5 other repositories: 
 
 [French](https://github.com/PrestaShop/user-documentation-fr)
 

@@ -4,7 +4,7 @@ You must have carriers added to your PrestaShop installation – that is, a clea
 
 The "Carriers" page presents you with a list of all your current carriers. From there, you can directly change their status, indicate why of shipping is free or not, and change their position when presented to customers.
 
-![](../../../.gitbook/assets/51839919%20%283%29.png)
+![](../../../.gitbook/assets/51839919%20%284%29%20%283%29.png)
 
 By default, you have two carriers in your database:
 
@@ -15,7 +15,7 @@ It is up to you to remove these default carriers and add new ones for your custo
 
 Video - 6 tips for creating a delivery policy that attracts customers and builds loyalty
 
-[![](../../../.gitbook/assets/51839792%20%281%29.png)](https://www.youtube.com/watch?v=QhTU_eSrm7o&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c&index=26)
+[![](../../../.gitbook/assets/51839792%20%287%29%20%282%29.png)](https://www.youtube.com/watch?v=QhTU_eSrm7o&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c&index=26)
 
 ##  Adding a Carrier using a recommended Carrier Module <a id="Carriers-AddingaCarrierusingarecommendedCarrierModule"></a>
 
@@ -42,7 +42,7 @@ To create a new carrier, click on the "Add new" button in the "Carriers" page. T
 
 This is where you describe the carrier, giving information that the customer will need in order to recognize and choose the carrier she/he prefers.
 
-![](../../../.gitbook/assets/51839920%20%283%29.png)
+![](../../../.gitbook/assets/51839920%20%284%29%20%283%29.png)
 
 Let's examine all of the information you need to enter:
 
@@ -56,7 +56,7 @@ Click "Next" to reach the second panel.
 
 ### Panel 2: Shipping locations and costs <a id="Carriers-Panel2:Shippinglocationsandcosts"></a>
 
-![](../../../.gitbook/assets/51839921%20%283%29.png)
+![](../../../.gitbook/assets/51839921%20%284%29%20%283%29.png)
 
 First, this panel presents a handful of settings:
 
@@ -91,7 +91,7 @@ Click "Next" to reach the third panel.
 
 ### Panel 3: Size, weight and group access <a id="Carriers-Panel3:Size,weightandgroupaccess"></a>
 
-![](../../../.gitbook/assets/51839922%20%281%29.png)
+![](../../../.gitbook/assets/51839922%20%284%29%20%281%29.png)
 
 This panel presents two sets of options:
 
@@ -102,7 +102,7 @@ Click "Next" to reach the fourth and final panel.
 
 ### Panel 4: Summary <a id="Carriers-Panel4:Summary"></a>
 
-![](../../../.gitbook/assets/51839923%20%281%29.png)
+![](../../../.gitbook/assets/51839923%20%284%29%20%281%29.png)
 
 This last panel gives you an overview of your settings for this carrier.
 

@@ -2,7 +2,7 @@
 
 The table of stock movements provides you with a log of all the stock changes. Because it’s a history of previous stock movements, this table only has an informative role and therefore cannot be edited.
 
-![](../../../../.gitbook/assets/56688704%20%282%29.png)
+![](../../../../.gitbook/assets/56688704%20%283%29%20%282%29.png)
 
 ## Movements overview <a id="StockMovements-Movementsoverview"></a>
 
@@ -47,5 +47,5 @@ In the ‘Movements’ tab, advanced filters contain:
 * a category filter, like in the ‘Stock’ tab.
 * a status filter.
 
-![](../../../../.gitbook/assets/56688706%20%282%29.png)
+![](../../../../.gitbook/assets/56688706%20%283%29%20%282%29.png)
 

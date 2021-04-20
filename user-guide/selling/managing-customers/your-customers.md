@@ -2,7 +2,7 @@
 
 The first page under the "Customers" menu gives you a list of all the registered users on your shop.
 
-![](../../../.gitbook/assets/51839856%20%281%29.png)
+![](../../../.gitbook/assets/51839862%20%283%29%20%282%29.png)
 
 This gives you a bird's eye view of your customers, with some details thrown in which you can use to sort and search accounts:
 
@@ -45,7 +45,7 @@ More import options are available in the "Import" page of the "Advanced paramete
 
 To create a customer account manually, select "Add new customer". A form appears.
 
-![](../../../.gitbook/assets/51839855%20%281%29.png)
+![](../../../.gitbook/assets/51839855%20%283%29%20%281%29.png)
 
 Fill out the customer's information:
 
@@ -65,7 +65,7 @@ Fill out the customer's information:
 
 If your customers are mostly companies, you should enable the B2B mode in order to get additional options: go to the "Customers settings" page of the "Shop Parameters" menu, and choose "Yes" for the "Enable B2B mode" option.
 
-![](../../../.gitbook/assets/23038650.png)
+![](../../../.gitbook/assets/23038650%20%283%29.png)
 
 The B2B mode adds a few company-specific fields:
 
@@ -81,7 +81,7 @@ The B2B mode adds a few company-specific fields:
 
 In the case where you would like to have more information on a given customer, you can click on the "view" button, located at the end of the row in the customer's list. A new page appears.
 
-![](../../../.gitbook/assets/51839857.png)
+![](../../../.gitbook/assets/51839857%20%283%29.png)
 
 The various sections provide you with some key data on the user:
 
@@ -109,15 +109,15 @@ Searching for a customer on your PrestaShop shop can be done two different ways.
 * E-mail address.
 * IP address. You can search using the IP of the latest connection to your shop.
 
-![](../../../.gitbook/assets/51839858%20%282%29.png)
+![](../../../.gitbook/assets/51839858%20%283%29%20%282%29.png)
 
 The results, if any, are then presented: the list presents you with the users' ID, social title, email, birth date, registration date, amount of orders and whether or not the user's account is active. From there on, you can view the whole user's page, or edit its details.
 
-![](../../../.gitbook/assets/51839860%20%283%29.png)
+![](../../../.gitbook/assets/51839860%20%283%29%20%283%29.png)
 
 **The second method** consists of going to the "Customers" page, and listing all of your customers.
 
-![](../../../.gitbook/assets/51839859%20%281%29.png)
+![](../../../.gitbook/assets/51839859%20%283%29%20%281%29.png)
 
 On this page, you can complete the fields at the top of the list, in order to filter it according to the following criteria: ID, social title, first name, last name, email address, age, account status \(enabled or disabled\), subscription to the newsletter, subscription to partnering ads, registration date, and last connection date. Enter your criteria and click the "Filter" button in the top right-hand corner of the table. You can then sort the list for some of the columns.
 

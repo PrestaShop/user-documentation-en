@@ -46,7 +46,7 @@ PrestaShop should now be installed and ready to be configured! Continue to the [
 
 You can download the latest version of PrestaShop at [http://www.prestashop.com/en/download](http://www.prestashop.com/en/download).
 
-![](../.gitbook/assets/51840082.png)
+![](../.gitbook/assets/51840082%20%284%29.png)
 
 You only have one download option: the latest stable version, ready for all kinds of online stores.
 
@@ -89,7 +89,7 @@ Connect to your hosting space using your FTP client, by using the connection det
 
 In FileZilla \(or any other FTP client\), browse your local folders until you find the one that contains the PrestaShop files. Keep it open in the "Local site" section on the left.
 
-![](../.gitbook/assets/51840083%20%281%29.png)
+![](../.gitbook/assets/53641235%20%283%29.png)
 
 In the "Remote site" section \(on the right\), browse to the location where you want PrestaShop to be publicly available \(root of the domain, sub-folder, sub-domain...\). This can change a lot, depending on both your host and your needs:
 
@@ -113,7 +113,7 @@ Some hosts prefer to have customers use a graphic control panel, such as cPanel,
 
 Connect to phpMyAdmin using your account credentials, which your host provided you with. It should be accessible through a standard URL, tied to your domain name, or host's domain name.
 
-![](../.gitbook/assets/23037808.png)
+![](../.gitbook/assets/54264239.png)
 
 In the left column, you can see the databases currently available on your MySQL server. Some of them should be left alone, because they are either used by phpMyAdmin or by the host: `phpmyadmin`, `mysql`, `information_schema`, `performance_schema` and others. Read your host's documentation to know if one of these can be used as a default database.
 
@@ -133,13 +133,13 @@ From there on, you just have to read, click, and fill a few forms.
 
 There are 6 steps. At the top of the page, the installation assistant gives you a visualization of where you are in the process: the gray circles turn into green check marks after each step is completed.
 
-![](../.gitbook/assets/39125004%20%284%29.png)
+![](../.gitbook/assets/39125004%20%285%29%20%285%29.png)
 
 **Step 1: Welcome page**
 
 This page is a quick intro into the installation process. You can choose the language in which the installer will display its instructions.
 
-![](../.gitbook/assets/51840086%20%281%29.png)
+![](../.gitbook/assets/53641236%20%281%29.png)
 
 You also get a link to the documentation site \([http://doc.prestashop.com/](http://doc.prestashop.com/)\), and a link to our Support offer. You can learn more about our support service by going to [http://support.prestashop.com/en/](http://support.prestashop.com/en/).
 
@@ -154,7 +154,7 @@ Read PrestaShop's licenses:
 * _Open Software License 3.0_ for PrestaShop itself, which you can also read at [http://www.opensource.org/licenses/OSL-3.0](http://www.opensource.org/licenses/OSL-3.0). 
 * _Academic Free License 3.0_ for the modules and themes, which you can also read at [http://opensource.org/licenses/AFL-3.0](http://opensource.org/licenses/AFL-3.0).
 
-![](../.gitbook/assets/39125007%20%281%29.png)
+![](../.gitbook/assets/39125007%20%284%29%20%281%29.png)
 
 You must agree to both licenses in order to install PrestaShop.
 
@@ -170,11 +170,11 @@ If something does go wrong during the server check that happens in the third ste
 
 This page checks that everything is OK with your server configuration: PHP settings, permissions on files and folders, third-party tools, etc.
 
-![](../.gitbook/assets/39125008%20%283%29.png)
+![](../.gitbook/assets/39125008%20%284%29%20%283%29.png)
 
 If anything goes wrong, the installer stops you here, enabling you to see the few technical details that need fixing, be it changing the PHP configuration or updating the file permissions.
 
-![](../.gitbook/assets/39125010.png)
+![](../.gitbook/assets/39125010%20%285%29.png)
 
 Here is a list of the checks that are performed during this third step:
 
@@ -226,7 +226,7 @@ Read your host's documentation carefully.
 
 Thanks to FileZilla \(and most FTP clients\), you do not have to use any Unix command. Most FTP clients make it possible to change permissions easily and graphically: once you have found a file or folder that needs such a change, right-click on it, and in the context menu choose "File permissions...". It will open a small window.
 
-![](../.gitbook/assets/23038066%20%281%29.png)
+![](../.gitbook/assets/23038066%20%282%29%20%282%29.png)
 
 Depending on your server configuration \(which you don't always have a hand at\), you will need to check both the "Read" and "Execute" columns of boxes, and at least the "Owner" and "Group" rows for the "Write" column. Some hosts might require you to have the public "Write" box checked, but be careful with that: it is rarely a good thing to have anyone on your server be able to edit the content of your PrestaShop installation.
 
@@ -243,7 +243,7 @@ Do not use a colon in your store's name, as it might prevent some feature from w
 
 You can replace the colon with a dash if you need to have two sections in the title. For instance, use "MyStore – The best place for items to buy" instead of "MyStore: The best place for items to buy".
 
-![](../.gitbook/assets/51840087.png)
+![](../.gitbook/assets/53641237.png)
 
 This is also where you choose the password to log in to the administration panel of your shop - choose wisely so that you will remember it, but make sure it is secure too!
 
@@ -253,7 +253,7 @@ Click "Next" to continue.
 
 This page contains a form that enables you to tell PrestaShop where the database server is, and which database it should use, along with a few other details. All this information should have been provided to you by your web host.
 
-![](../.gitbook/assets/39125013.png)
+![](../.gitbook/assets/39125013%20%284%29.png)
 
 Fill all the fields with the database connection information provided by your web-host:
 
@@ -269,7 +269,7 @@ Click the "Test your database connection now!" button in order to check that you
 
 Click "Next": the install will start configuring your shop, creating and populating the database tables, etc. This might take a few minutes: please be patient and do not touch your browser!
 
-![](../.gitbook/assets/39125014%20%281%29.png)
+![](../.gitbook/assets/39125014%20%284%29%20%281%29.png)
 
 The installer does the following:
 
@@ -288,7 +288,7 @@ Once it is done, your shop is installed and ready to be configured!
 
 As you can read right on the final page of the installation process, there are a couple of last actions to perform before you can leave the installer.
 
-![](../.gitbook/assets/39125016%20%284%29.png)
+![](../.gitbook/assets/39125016%20%284%29%20%284%29.png)
 
 An easy way to improve your installation's security is to delete some key files and folders. This is done using your FTP client, directly on the server. The items to delete are:
 

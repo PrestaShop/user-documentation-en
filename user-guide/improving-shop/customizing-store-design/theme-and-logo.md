@@ -18,7 +18,7 @@ Its title says it all: the "Theme & Logo" page enables you to efficiently manage
 
 _New since PrestaShop 1.7.3!_ PrestaShop supports Right-To-Left \(RTL\) languages. Not only the back office and its themes are now fully RTL compatible, but we are also introducing RTL stylesheet generation for front office themes. This means that any front office theme can now be automatically converted to be RTL-compatible. This is extremely important for selling in countries who speak in RTL languages like Arabic, Hebrew or Persian.
 
-![](../../../.gitbook/assets/64225586%20%283%29.png)
+![](../../../.gitbook/assets/64225586%20%282%29%20%283%29.png)
 
 ## Logos <a id="ThemeandLogo-Logos"></a>
 
@@ -26,7 +26,7 @@ Changing your shop's logo is often one of the first steps performed when customi
 
 * **Header logo**. The logo that will appear on all the pages of your shop.
 * **Invoice & email logos**. The logos that will respectively appear in your shop's email notifications and invoices.
-* **Favicons**. Your shop's favicon. It is the small image displayed at the left of the web browser's address bar and on the browser's tabs.  ![](../../../.gitbook/assets/64225587%20%283%29.png)  
+* **Favicons**. Your shop's favicon. It is the small image displayed at the left of the web browser's address bar and on the browser's tabs.  ![](../../../.gitbook/assets/64225587%20%283%29%20%283%29.png)  
 
 The default theme uses a "Classic" logo and PrestaShop's logo as a favicon. It is strongly recommended to change all of the instances of these logos and use yours instead!
 
@@ -40,7 +40,7 @@ The first section of the page serves as a reminder of which theme you are curren
 * Theme author's name.
 * Thumbnail for the theme.  
 
-![](../../../.gitbook/assets/64225588%20%283%29.png)
+![](../../../.gitbook/assets/64225588%20%284%29%20%283%29.png)
 
 ### Configure your page layouts <a id="ThemeandLogo-Configureyourpagelayouts"></a>
 
@@ -70,7 +70,7 @@ In multistore mode, you cannot apply a theme to all your stores or a group of st
 
 You can import a theme and install it \(and its attached modules\) thanks to the "Add new theme" button. By clicking it, a new screen will open. This screen presents you with 3 methods to install a new theme. A final button leads you to the theme creation form, presented in the next section.
 
-![](../../../.gitbook/assets/64225589.png)
+![](../../../.gitbook/assets/64225589%20%284%29.png)
 
 Whatever the method, the process remains the same: indicate the location of the theme's Zip archive, then click on the "Save" button. Here, the only thing that changes is the source of the Zip file:
 
@@ -96,7 +96,7 @@ By clicking "Discover" for a given theme, a new page from PrestaShop Addons will
 
 _New since PrestaShop 1.7.4!_ Here is one of the recent features we're really proud of: the homepage's cartography! As each part of the front office belongs to a dedicated module, every little modification brings back to the "Modules" section of the back office to find the right module and finally access its configuration page... not that intuitive, right? Now the cartography allows a double view for quicker theme customization, and happier merchants!
 
-![](../../../.gitbook/assets/64225590%20%281%29.png)
+![](../../../.gitbook/assets/64225590%20%284%29%20%281%29.png)
 
 On the left side, an illustration of the homepage enables you to find the part you want to modify. It creates a simplified version of the PrestaShop front office with this interactive wireframe. On the right side, a mirrored view shows the module selection you need to configure for the modification.
 
@@ -106,7 +106,7 @@ Our homepage is divided into 7 different categories: menu, slider, home products
 
 This is a feature introduced with PrestaShop 1.7 and it is only useful if you want to slightly modify a theme \(to add a block for example\), but still make sure you can update it easily. Indeed, if you modify a theme directly in its folder, the risk is that when the theme is updated, your changes could be incompatible with the update.
 
-![](../../../.gitbook/assets/64225591%20%283%29.png)
+![](../../../.gitbook/assets/64225591%20%284%29%20%283%29.png)
 
 Thanks to the child theme, you are able to customize the parent theme and at the same time, you can benefit from its updates.
 
@@ -116,11 +116,11 @@ Using a child theme can be a bit technical. To see how you can use a child theme
 
 First, you need to have the theme you want to use as a parent in your store `/themes` folder. Then you can create a new folder with a very minimal theme, containing only the following files, which you can copy directly from the Parent theme:
 
-![](../../../.gitbook/assets/51839422.png)
+![](../../../.gitbook/assets/51839422%20%286%29.png)
 
 Once you have this, you will specify in your child theme `theme.yml` which theme should be used as a parent \(in the example below, we chose PrestaShop's default theme, Classic\). The value must be the theme technical name \(ie: the theme folder name\). Add the following information the `theme.yml` file:
 
-![](../../../.gitbook/assets/51839423%20%283%29.png)
+![](../../../.gitbook/assets/64225412%20%284%29.png)
 
 You can now use this theme in your back office and edit it as you wish.
 

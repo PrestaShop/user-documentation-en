@@ -28,7 +28,7 @@ In this user guide, "cart rule" and "voucher" are synonymous and interchangeable
 
 The "Cart rules" page lists the currently existing cart rules and vouchers, which you can enable or disable by clicking on the icons in the "Status" column.
 
-![](../../../../.gitbook/assets/51839295%20%282%29.png)
+![](../../../../.gitbook/assets/51839295%20%283%29%20%282%29.png)
 
 ## Creating a new cart rule <a id="CartRules-Creatinganewcartrule"></a>
 
@@ -38,7 +38,7 @@ A voucher can be created automatically after a product return, but you can creat
 
 The first tab, "Information", contains the rule's identifiers and main settings.
 
-![](../../../../.gitbook/assets/51839296%20%283%29.png)
+![](../../../../.gitbook/assets/51839296%20%283%29%20%283%29.png)
 
 * **Name**. The name is public, so you should keep it casual.
 * **Description**. The description is not public. It helps your shop employees understand why the rule was created.
@@ -56,7 +56,7 @@ The first tab, "Information", contains the rule's identifiers and main settings.
 
 The second tab, "Conditions", contains a large set of possibilities, enabling you to target precisely who should be able to benefit from this rule.
 
-![](../../../../.gitbook/assets/51839301%20%282%29.png)
+![](../../../../.gitbook/assets/51839297%20%283%29%20%285%29.png)
 
 * **Limit to a single customer**. This is where you indicate that the voucher you are creating is for one customer only. For instance, if you had a delivery delay and you want to make a gesture of goodwill, you can create a voucher for this customer that only he or she can access. To quickly find the customer, type in the first few letters of their first name, last name or e-mail in the text field. If empty, PrestaShop will understand that any customer can use it... unless you have added a customer group as a further condition \(see "Customer group selection" checkbox below\).
 * **Validity**. The default validity is one month, but you can reduce that to one week or even one day.
@@ -68,7 +68,7 @@ The second tab, "Conditions", contains a large set of possibilities, enabling yo
 
 The checkboxes at the bottom of the section are very important, as they help you further filter to what or to whom the rule is to be applied.
 
-![](../../../../.gitbook/assets/57081959.png)
+![](../../../../.gitbook/assets/57081959%20%283%29.png)
 
 * **Carrier selection**. You can make it so that the customer will have a discount if he or she chooses a specific carrier for the package delivery.
 * **Customer group selection**. This is very useful. Thanks to PrestaShop's group creation tool, you can create discounts that apply to a range of users, and build other conditions on top of that discount thanks to the cart rule creation tool.
@@ -93,7 +93,7 @@ Product selections are independent: you can add as many as needed, and they will
 
 The third and last tab, "Actions", is where you choose what the discount actually consists of.
 
-![](../../../../.gitbook/assets/64225545.png)
+![](../../../../.gitbook/assets/64225545%20%283%29.png)
 
 * **Free shipping**. The rule treats benefiting customers to free shipping.
 * **Apply a discount**.
@@ -107,9 +107,9 @@ Once everything has been saved, you can send your voucher code to your customers
 
 Your voucher will appear in the "Cart Rules" page, under the "Price rules" menu. You can delete or edit it at any time. If the voucher was set to a specific group or customer, then it will appear in the front office, in the customer's "Vouchers" section of his account as well as in the cart \(if you chose to\), where they can choose which one to apply to their order.
 
-![](../../../../.gitbook/assets/51839849%20%282%29.png)
+![](../../../../.gitbook/assets/51839849%20%281%29%20%282%29.png)
 
-![](../../../../.gitbook/assets/51839850.png)
+![](../../../../.gitbook/assets/51839850%20%283%29.png)
 
 Cart rules that are set to apply to all customers do not appear in the customer's "My vouchers" page: he or she has to know about them in order to use them. It is up to you to let them know about these public discounts.
 

@@ -4,7 +4,7 @@ The settings from the "Orders" preference page apply to the orders that your cus
 
 ## General preferences <a id="Orderspreferences-Generalpreferences"></a>
 
-![](../../../../.gitbook/assets/51839967%20%283%29.png)
+![](../../../../.gitbook/assets/51839967%20%284%29%20%283%29.png)
 
 * **Enable final summary**. As required in some European countries, you might have to display an order summary \(cart, address, delivery method...\) just before the order confirmation button.
 * **Enable guest checkout**. Allows non-registered visitors to place an order, without having to create an account.
@@ -17,7 +17,7 @@ The settings from the "Orders" preference page apply to the orders that your cus
 
 ## Gift options <a id="Orderspreferences-Giftoptions"></a>
 
-![](../../../../.gitbook/assets/43614325%20%283%29.png)
+![](../../../../.gitbook/assets/43614325%20%282%29%20%283%29.png)
 
 * **Offer gift wrapping**. Have PrestaShop suggest gift-wrapping to customer, and the possibility of adding a printed a message. It is always a nice feature for people who want to send gifts through your shop.
 * **Gift-wrapping price**. Sets the price of your gift-wrapping service.

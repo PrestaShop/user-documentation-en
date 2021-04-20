@@ -8,7 +8,7 @@ Generally speaking, parameters are applied to all the entities belonging to the 
 
 Clicking the "Add a new shop group" button brings a form with few options but a lot of text: you should make sure to read each description from beginning to end, as they help you make a decision about these options. Since some are non-reversible \(you cannot disable them once they are enabled\), it is important to know exactly what you enable.
 
-![](../../.gitbook/assets/57081985%20%281%29.png)
+![](../../.gitbook/assets/57081985%20%284%29%20%281%29.png)
 
 The available settings are:
 

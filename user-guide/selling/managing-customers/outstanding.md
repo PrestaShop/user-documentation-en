@@ -8,7 +8,7 @@ This page displays the outstanding report for some of your customers, meaning th
 
 When the B2B mode is enabled \(Shop Parameters &gt; Customers Setting page\), three fields are added to the customer creation form:
 
-![](../../../.gitbook/assets/51839331.png)
+![](../../../.gitbook/assets/51839331%20%283%29.png)
 
 * **Allowed outstanding amount**. The maximum amount of money this customer can use as an outstanding.
 * **Maximum number of payment days**. The maximum number of days the customer can go before having to pay his outstanding.
@@ -20,5 +20,5 @@ You should fill these fields for all professional customers.
 
 Once a customer with outstanding allowance buys from your shop, it appears in the Customers &gt; Outstanding page. This enables you to get an overview of your current outstanding invoices.
 
-![](../../../.gitbook/assets/51839332%20%282%29.png)
+![](../../../.gitbook/assets/51839332%20%283%29%20%282%29.png)
 

@@ -2,7 +2,7 @@
 
 A referrer means a website that brings you at least one visitor. This website features a link to your shop, and thus it helps you build an audience and eventually make more sales.
 
-![](../../../../.gitbook/assets/43089936%20%283%29.png)
+![](../../../../.gitbook/assets/43089936%20%284%29%20%283%29.png)
 
 Some referrers are more important to you than others: you might have partners that have links to your shop on their own website, and both you and your partners would certainly want to know how many visitors those links brought you. You could even pay your partners to display a link to your shop, depending on how much you value your traffic.  
 This, in effect, is called affiliation, and the "Referrers" page helps you build a complete affiliate program, to which even your partner can connect to see the number of visits and sales their links have generated. Registered affiliates generate traffic to your shop, you want to reward them for those visitors, and the affiliate program is how both of you can access the figures the reward is based on.
@@ -17,7 +17,7 @@ The affiliate space enables you to create privileged access for your partners. T
 
 To create a new affiliate partner, click on the "Add new" button, which will take you to the affiliate creation form.
 
-![](../../../../.gitbook/assets/43089930%20%283%29.png)
+![](../../../../.gitbook/assets/43089930%20%284%29%20%283%29.png)
 
 Each section is important:
 
@@ -33,7 +33,7 @@ Each section is important:
   * **Request URI**. In the "Include" field, set the last part of the query string. The system will track referrers that use a special query string. For instance, you can track referrers that use the `?prestaff=` argument in their URL. This can help you further differentiate referrers.
 * **Technical information - Expert mode**. While the simple mode matches words using MySQL's "LIKE" function, the expert mode enable you to use MySQL regular expressions. This can prove very powerful but also very hard to maintain. Be sure to master the subject of regular expressions before putting anything in these fields.
 
-![](../../../../.gitbook/assets/43089933%20%283%29.png)
+![](../../../../.gitbook/assets/43089933%20%284%29%20%283%29.png)
 
 The "Help" section gives you some precious indications on how to best configure your affiliate. Read it through.
 
@@ -41,7 +41,7 @@ The "Help" section gives you some precious indications on how to best configure 
 
 The referrer settings are mostly tools to help you make the best of your affiliate program.
 
-![](../../../../.gitbook/assets/43089934%20%282%29.png)
+![](../../../../.gitbook/assets/43089934%20%284%29%20%282%29.png)
 
 There are three possibilities:
 
