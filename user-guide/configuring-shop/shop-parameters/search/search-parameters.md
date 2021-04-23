@@ -45,7 +45,7 @@ This section enables you to configure the behavior of your shop's search functio
 * **Fuzzy search.** This feature improves the PrestaShop search functionality by taking into account misspelling or error inputs. For instance, if a customer enters 'ummingbird' in the search bar, the search controller will find the closest word, i.e. 'hummingbird', and display the relevant products. This feature is enabled by default.  If you decide to disable it and a visitor makes a spelling mistake, a “no results found” message will be displayed.
 * **Maximum approximate words allowed by fuzzy search**
 
-  You can determine how many words a query can handle in a fuzzy search. By default, the value is set to 4. It means that in a search like ‘Samsung Galaxi wall charger multiplug’, only the ‘Samsung’, ‘Galaxi’, ‘wall’, and ‘charger’ words will be taken into account. ‘Multiplug’ will not be computed. Note that PrestaShop sets that limitation in order to avoid offensive behaviors that could overstress the server intentionally. You can modify this number, but most stores will not have to do so.
+  You can determine how many words a query can handle in a fuzzy search. By default, the value is set to 4. It means that in a search like ‘Samsung Galaxy wall charger multiplug’, only the ‘Samsung’, ‘Galaxy, ‘wall’, and ‘charger’ words will be taken into account. ‘Multiplug’ will not be computed. Note that PrestaShop sets that limitation in order to avoid offensive behaviors that could overstress the server intentionally. You can modify this number, but most stores will not have to do so.
 
 * **Maximum word length \(in characters\)**
 
