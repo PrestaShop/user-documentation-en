@@ -38,43 +38,24 @@ Finally, the "Indexing" option enables you to have a product be indexed as soon 
 
 This section enables you to configure the behavior of your shop's search function:
 
-![](../../../../.gitbook/assets/51839993%20%284%29%20%284%29.png)
+![](../../../../.gitbook/assets/image%20%2820%29.png)
 
 * **Search within word**. This option improves search by allowing you to make queries that do not only match the start of the search word; for instance, "lou" for "blouse".
 * **Search exact end match**. With this option you can give results that will match exactly the end of the search word. For instance, if you search "book", you will see "notebook", but not "bookcase"
-* **Minimum word length**. You can choose the minimum size at which a word may be registered in the search index and found by your customers. This feature allows you to eliminate short words in the search, such as prepositions or articles \(the, and, of, etc.\).
-* **Blacklisted words**. You can choose the terms that must not be found by your visitors. Enter them directly into the field, separated by "\|" \("pipe" character, not lowercase L\). By default, PrestaShop fills the list with common short words.
-
-### Fuzzy search
-
-The fuzzy search is a new feature of the 1.7.7 version of PrestaShop. This feature will improve both the user experience and the conversion of your online store. 
-
-Sounds like a great feature, right? But what is it exactly?
-
-Let’s say a customer wants to buy the ‘hummingbird printed sweater’ item in the catalog, he is in a rush so he pounces on the search bar and types ‘ummingbird’, hoping to get an instant result. Before, no result was displayed because of the lacking ‘h’. But with the 1.7.7 version, such a situation will not happen anymore! The fuzzy search improves the PrestaShop search functionality by taking into account misspelling or error inputs. In that case, the search controller will find the closest word, i.e. “hummingbird” and the relevant products will be displayed.
-
-To configure this feature, go to the **Shop parameters &gt; Search page.** 
-
-![Fuzzy search feature on the Shop parameters &amp;gt; Search page](../../../../.gitbook/assets/image%20%283%29.png)
-
-By default, the fuzzy search is enabled on your store. If you decide to disable it and a visitor makes a spelling mistake, a “no results found” message will be displayed.
-
+* **Fuzzy search.** This feature improves the PrestaShop search functionality by taking into account misspelling or error inputs. For instance, if a customer enters 'ummingbird' in the search bar, the search controller will find the closest word, i.e. 'hummingbird', and display the relevant products. This feature is enabled by default.  If you decide to disable it and a visitor makes a spelling mistake, a “no results found” message will be displayed.
 * **Maximum approximate words allowed by fuzzy search**
 
-You can determine how many words a query can handle in a fuzzy search. By default, the value is set to 4. It means that in a search like ‘Samsung Galaxi walle cherger multyplug’, only the ‘Samsung’, ‘Galaxi’, ‘walle’, and ‘cherger’ words will be taken into account. ‘Multyplug’ will not be computed.
-
-Note that we PrestaShop sets that limitation in order to avoid offensive behaviors that could overstress the server intentionally. You can modify this number, but most stores will not have to do so.
+  You can determine how many words a query can handle in a fuzzy search. By default, the value is set to 4. It means that in a search like ‘Samsung Galaxi wall charger multiplug’, only the ‘Samsung’, ‘Galaxi’, ‘wall’, and ‘charger’ words will be taken into account. ‘Multiplug’ will not be computed. Note that PrestaShop sets that limitation in order to avoid offensive behaviors that could overstress the server intentionally. You can modify this number, but most stores will not have to do so.
 
 * **Maximum word length \(in characters\)**
 
-This option defines how many characters you allow to run a fuzzy search query. Please note that this parameter will only be taken into account when the fuzzy search is enabled.
+  This option defines how many characters you allow to run a fuzzy search query. Please note that this parameter will only be taken into account when the fuzzy search is enabled. We advise the number of 15 to keep the fuzzy search fast, even when processing long queries. In the case of broad databases, you should decrease the value to 10-14 in order to decrease both server stress and response time. Under 10, the result is likely to be irrelevant. Indeed, the longer the word \(in characters\), the more stressed the server is. 
 
-We advise the number of 15 to keep the fuzzy search fast, even when processing long queries.
+* **Minimum word length**. You can choose the minimum size at which a word may be registered in the search index and found by your customers. This feature allows you to eliminate short words in the search, such as prepositions or articles \(the, and, of, etc.\).
+* **Blacklisted words**. You can choose the terms that must not be found by your visitors. Enter them directly into the field, separated by "\|" \("pipe" character, not lowercase L\). By default, PrestaShop fills the list with common short words.
 
-In the case of broad databases, you should decrease the value to 10-14 in order to decrease both server stress and response time. Under 10, the result is likely to be irrelevant. Indeed, the longer the word \(in characters\), the more stressed the server is. 
-
-{% hint style="info" %}
-If you want to get more technical details about this new feature, you can check the [article on PrestaShop's developer blog](https://build.prestashop.com/news/introduction-to-the-fuzzy-search/).
+{% hint style="success" %}
+ The fuzzy search is a PrestaShop 1.7.7 new feature. It is also the result of a community member's contribution! 😍 If you want to get more details about this feature, you can check the [article on PrestaShop's developer blog](https://build.prestashop.com/news/introduction-to-the-fuzzy-search/).
 {% endhint %}
 
 ## Weight <a id="Searchparameters-Weight"></a>
