@@ -121,6 +121,7 @@
       * [Logs](user-guide/configuring-shop/advanced-parameters/logs.md)
       * [Webservice](user-guide/configuring-shop/advanced-parameters/webservice.md)
       * [Multistore](user-guide/configuring-shop/advanced-parameters/multistore.md)
+      * [Experimental features](user-guide/configuring-shop/advanced-parameters/experimental-features.md)
   * [Managing Multiple Shops](user-guide/managing-multiple-shops/README.md)
     * [The multistore interface](user-guide/managing-multiple-shops/multistore-interface.md)
     * [Creating a new shop group](user-guide/managing-multiple-shops/creating-new-shop-group.md)
