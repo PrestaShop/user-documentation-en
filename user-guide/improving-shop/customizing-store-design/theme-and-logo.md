@@ -1,22 +1,14 @@
+---
+description: >-
+  Its title says it all: the "Theme & Logo" page enables you to efficiently
+  manage your themes, and this is where you go if you want to update your logo.
+---
+
 # Theme and Logo
-
-Its title says it all: the "Theme & Logo" page enables you to efficiently manage your themes, and this where you go if you want to update your logo.
-
-* [Adaptation to Right-to-Left \(RTL\) languages](theme-and-logo.md#ThemeandLogo-AdaptationtoRight-to-Left%28RTL%29languages)
-* [Logos](theme-and-logo.md#ThemeandLogo-Logos)
-* [Your current theme](theme-and-logo.md#ThemeandLogo-Yourcurrenttheme)
-  * [Configure your page layouts](theme-and-logo.md#ThemeandLogo-Configureyourpagelayouts)
-  * [Select a theme for your "\[name\]" shop](theme-and-logo.md#ThemeandLogo-Selectathemeforyour%22[name]%22shop)
-  * [Adding a theme](theme-and-logo.md#ThemeandLogo-Addingatheme)
-  * [Exporting a theme](theme-and-logo.md#ThemeandLogo-Exportingatheme)
-  * [Live from PrestaShop Addons!](theme-and-logo.md#ThemeandLogo-LivefromPrestaShopAddons!)
-* [Homepage Configuration](theme-and-logo.md#ThemeandLogo-HomepageConfiguration)
-* [Advanced customization: parent / child theme](theme-and-logo.md#ThemeandLogo-Advancedcustomization:parent/childtheme)
-  * [Creating a child theme](theme-and-logo.md#ThemeandLogo-Creatingachildtheme)
 
 ## Adaptation to Right-to-Left \(RTL\) languages <a id="ThemeandLogo-AdaptationtoRight-to-Left(RTL)languages"></a>
 
-_New since PrestaShop 1.7.3!_ PrestaShop supports Right-To-Left \(RTL\) languages. Not only the back office and its themes are now fully RTL compatible, but we are also introducing RTL stylesheet generation for front office themes. This means that any front office theme can now be automatically converted to be RTL-compatible. This is extremely important for selling in countries who speak in RTL languages like Arabic, Hebrew or Persian.
+_New since PrestaShop 1.7.3!_ PrestaShop supports Right-To-Left \(RTL\) languages. Not only the back office and its themes are now fully RTL compatible, but we are also introducing RTL stylesheet generation for front office themes. This means that any front office theme can now be automatically converted to be RTL-compatible. This is extremely important for selling in countries that speak in RTL languages like Arabic, Hebrew, or Persian.
 
 ![](../../../.gitbook/assets/64225586%20%282%29%20%281%29%20%283%29.png)
 
@@ -92,15 +84,23 @@ If you are looking for a new theme, PrestaShop Addons is where you should go! Th
 
 By clicking "Discover" for a given theme, a new page from PrestaShop Addons will open, with more details are this specific theme. You can also use the search bar at the bottom of the page to find the theme that best suits your store.
 
-## Homepage Configuration <a id="ThemeandLogo-HomepageConfiguration"></a>
+## Pages configuration
 
-_New since PrestaShop 1.7.4!_ Here is one of the recent features we're really proud of: the homepage's cartography! As each part of the front office belongs to a dedicated module, every little modification brings back to the "Modules" section of the back office to find the right module and finally access its configuration page... not that intuitive, right? Now the cartography allows a double view for quicker theme customization, and happier merchants!
+The "Theme Customization" module allows you to easily customize the front office pages of your store. 
 
-![](../../../.gitbook/assets/64225590%20%284%29%20%284%29%20%281%29.png)
+You can customize the **homepage**, the **category page**, and the **product page**. 
 
-On the left side, an illustration of the homepage enables you to find the part you want to modify. It creates a simplified version of the PrestaShop front office with this interactive wireframe. On the right side, a mirrored view shows the module selection you need to configure for the modification.
+On the left side of your screen is displayed a simplified illustration of the selected page. On the right side, a mirrored view shows the module selection you need to configure for the modification.
 
-Our homepage is divided into 7 different categories: menu, slider, home products, text block, banner, social & newsletter, and footer. Each category is a tab collapsible to display related features from both core pages and native modules. Features can be either installed, configured or disabled. Be aware that clicking on the "Configure" button makes the merchant redirected to the feature configuration page.
+Click on the part of the page you want to modify to know which module\(s\) need to be configured to make the change. Then, click on "Configure" to access the module page and proceed with the modifications.
+
+See the GIF below to see an example of how to modify your homepage slider. 
+
+![](../../../.gitbook/assets/pages-configuration-les-chaussettes-de-larchiduchesse-2-.gif)
+
+{% hint style="info" %}
+Please note that the "Theme Customization" module only works with the PrestaShop default theme and with PrestaShop built-in modules. 
+{% endhint %}
 
 ## Advanced customization: parent / child theme <a id="ThemeandLogo-Advancedcustomization:parent/childtheme"></a>
 

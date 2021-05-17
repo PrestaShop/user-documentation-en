@@ -226,7 +226,7 @@ Read your host's documentation carefully.
 
 Thanks to FileZilla \(and most FTP clients\), you do not have to use any Unix command. Most FTP clients make it possible to change permissions easily and graphically: once you have found a file or folder that needs such a change, right-click on it, and in the context menu choose "File permissions...". It will open a small window.
 
-![](../.gitbook/assets/23038066%20%282%29%20%282%29.png)
+![](../.gitbook/assets/23038066%20%282%29%20%282%29%20%281%29.png)
 
 Depending on your server configuration \(which you don't always have a hand at\), you will need to check both the "Read" and "Execute" columns of boxes, and at least the "Owner" and "Group" rows for the "Write" column. Some hosts might require you to have the public "Write" box checked, but be careful with that: it is rarely a good thing to have anyone on your server be able to edit the content of your PrestaShop installation.
 
