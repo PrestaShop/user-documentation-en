@@ -2,7 +2,7 @@
 
 The SQL manager is a complex feature, which should be reserved for technical people who know how to explore a database using the SQL language. In return for this complexity, it can be extremely powerful and proves immensely useful to those who master it.
 
-![](../../../../.gitbook/assets/23789878%20%284%29%20%284%29.png)
+![](../../../../.gitbook/assets/23789878%20%284%29%20%284%29%20%284%29.png)
 
 This tool enables you to perform SQL queries directly on the PrestaShop database, and save them for use at any later time. Indeed, PrestaShop presents its database data in many ways, but you might need something more, or more simply, something rawer than PrestaShop's clean interface. Using the SQL manager you can perform complex queries which build upon tables of data in the way YOU need them.  
 For instance, using this tool and your knowledge of SQL, you could create a reusable query giving you an updated list of the clients who are subscribed to your newsletter, or get a list of products in HTML or CSV format.
@@ -43,7 +43,7 @@ There is only one setting at this time:
 
 * **Select your default file encoding**. You can configure the character encoding of the downloaded CSV file. The default, UTF-8, is recommended, but you can select ISO-8859-1 if need be.
 
-![](../../../../.gitbook/assets/23789886%20%284%29.png)
+![](../../../../.gitbook/assets/23789886%20%284%29%20%282%29.png)
 
 ## Some sample queries <a id="SQLManager-Somesamplequeries"></a>
 

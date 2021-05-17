@@ -4,7 +4,7 @@ The settings from the "Orders" preference page apply to the orders that your cus
 
 ## General preferences <a id="Orderspreferences-Generalpreferences"></a>
 
-![](../../../../.gitbook/assets/51839967%20%284%29%20%283%29.png)
+![](../../../../.gitbook/assets/51839967%20%284%29%20%284%29%20%283%29.png)
 
 * **Enable final summary**. As required in some European countries, you might have to display an order summary \(cart, address, delivery method...\) just before the order confirmation button.
 * **Enable guest checkout**. Allows non-registered visitors to place an order, without having to create an account.

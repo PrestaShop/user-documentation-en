@@ -1,214 +1,230 @@
 # Browsing the front office
 
-The front office is what customers constantly see when browsing your shop. It is the interface, the products, the pictures, the descriptions, the whole purchase process, etc.
+The front office is the visible part of your site. It is what customers see when browsing your store and throughout the buying process.
 
-As a customer, this is all you will see of a shop during your browsing and buying experience, from start to finish.
+As a merchant, you should know your front office like the back of your hand, not only because you owe it to yourself to know your shop inside and out, but also because you need to understand what your customers face, the number of pages and clicks they go through during a typical buying session, where they might get stuck and how to help them out, etc.
 
-As a shop owner, you should know your front office like the back of your hand, not only because you owe it to yourself to know your shop inside and out, but also because you need to understand what your customers face, the number of pages and clicks they go through during a typical buying sessions, where they might get stuck and how to help them out, etc.
+Even if you think you know your front office by heart, don't forget to go back from time to time as if you were a user visiting the site for the first time. Browse your store, buy a product, contact customer service... put yourself in your customers' shoes! You might make some discoveries and note some points to improve.
 
-Even though you think you know your front office by heart, it is important you should get back it from time to time,as if you were a first time visitor. Browse your website, buy a product, contact the customer service: you might make some discoveries and see a few things that you can improve!
+Note that this page of documentation will be based only on the default theme, settings, and modules. Indeed, enabling other modules or using another theme could drastically change the shopping experience.
+
+{% hint style="success" %}
+If you want to change your theme, you can choose one among the large choice of themes available on [PrestaShop Addons](https://addons.prestashop.com/en/3-templates-prestashop).
+{% endhint %}
 
 ## The default theme
 
-PrestaShop comes with a default theme, which uses white on light gray background. This simple design is intentional, in order to be adaptable to just about any line of business: cars, photographs, antiques, or anything at all! It was designed to be easy to browse, ergonomic, standard-compliant, and adapted to all screen sizes and devices. 
+![](../.gitbook/assets/image-8-.png)
 
-If you installed PrestaShop with its sample data, you will see clothing products.
+PrestaShop comes with a default theme that uses a simple, clean, gray and white design. This minimalism makes it suitable for almost any industry. It was designed to be easy to browse, ergonomic, standard-compliant, and adapted to all screen sizes and devices.
 
-While the shop owner can change the front office theme at any time, thanks to the wealth of themes that are available on the PrestaShop Addons website \([http://addons.prestashop.com/](http://addons.prestashop.com/)\), we will base this chapter on the default theme only.
+If you installed PrestaShop with its sample data, you will see clothing products and home accessories. 
 
-Note that we here are describing the default theme with its default settings and modules. Activating other modules, or obviously using another theme, can dramatically change the shopping experience.
+## Browsing the store
 
-## Navigating the shop
+The header is a thin bar of content at the top of the page, accessible from all the front office pages. 
 
-Whether your customer arrives on the front page by typing the shop web addresses or lands on a sub-page through a search engine, he or she will always have many options to navigate through the catalog.
+The header is divided into two parts. 
 
-### The header
+The upper part of the header contains:
 
-The header is a thin bar of content, accessible from any of the front office pages.
+![Upper part of the header](../.gitbook/assets/image%20%2829%29.png)
 
-It contains several essential tools and links, which apply to the whole shop and is seperated into two parts.
+* **A link to the contact page** 
+* **A language selector:** if more than one language is available on the store, customers can choose in which language they want to see the store. 
+* **A currency selector:** if more than one currency is available on the store, customers can choose in which currency they want to see the prices of the products displayed. This can be very useful when comparing prices with other international stores. 
+* **A link to the authentication page:** once logged in, customers have access to their account and a "Sign out" link appears next to their name.
+* **A link to the customer's shopping cart:** at a glance, customers can see how many items there are in their cart. They can also click on the "Shopping cart" button to access the content of the cart and finalize their order.
 
-A thin container with:
+The lower part of the header is larger, it contains:
 
-* A link to the **contact page**.
-* The **language** \(if more than one language is available\). The customer can choose the language in which the shop should display texts.
-* The **currency** selectors \(if more than one currency is available\). The customer can choose the currency in which the shop should display prices. This is great in order to compare prices with other international shops.
-* A link to the **sign-up page**. When the customer is logged in, it displays his first name and last name as a link to the customer's account.
+![Lower part of the header](../.gitbook/assets/image%20%2825%29.png)
 
-  Once connected, the customers is taken to the "Your account" page, and a "Sign out" link appears.
+* **The store logo:** by clicking on this logo, customers will be automatically redirected to the homepage of the store. Don't forget to change the default logo by adding your own from the Design &gt; Theme & Logo page of the back office!
+* **The menu:** by default, the categories "Clothing", "Accessories" and "Art" are displayed, and subcategories appear on mouseover. To customize the menu with your own categories, you must configure the "Main Menu" module. 
+* **The search bar:** essential to facilitate the search on your store, the search bar allows customers to quickly find the items of their choice thanks to keywords.
 
-* **Cart \(0\)**. A quick reminder of the current status of the customer's cart \(by default it is "\(0\)" for empty\). Sometimes customers select items while browsing and forget about them after a few pages. It is therefore essential to give them a way to keep these products in mind.
+{% hint style="info" %}
+The fuzzy search option now takes into account possible typos in the entries your visitors search for! 
+{% endhint %}
 
-A larger container with:
+### **The central section**
 
-* **The shop logo**. A click on the logo brings the customer back to the homepage, from anywhere in the shop. The default logo reads "Classic" \(after the default theme's name\): this is an incentive for you to use your own logo rather than keeping the default one.
-* **The menu**. By default, it displays the "Women" category, and its subcategories when you mouse hover it. To update the menu with your own categories, you should configure the "Main menu" module.
-* **The search engine**. Many customers prefer to look for a specific item through the search engine rather than browsing through categories after categories of products. On some online shop, this is even the only way to browser the site's content for most customers. This is the module "Search bar".
+The default homepage gives the customer a broad overview of the store and its possibilities. What do you want to show your customers? 
 
-The header hardly ever changes throughout the whole buying experience.
+At the top of the page, there is an image slider: three images scroll by. You can configure this slider with the help of the module "Image slider" to highlight your new collections, promotions, etc.
 
-**The cart**
+![](https://media.giphy.com/media/2oUFsps8xUl4H2TK80/giphy.gif)
 
-The header's essential part is the cart. By default, it is folded in order to only show the number of products it currently contains \(if any\). The customer can click on the text to access the shopping cart summary, from which the checkout process can be started.
+Just below the image slider are displayed the popular products of your store.
+
+You can also customize a banner or add a text block. Feel free to consult the dedicated documentation to learn how to[ configure the front-office pages of your store.](improving-shop/customizing-store-design/theme-and-logo.md#ThemeandLogo-HomepageConfiguration)
 
 ### The footer
 
-The footer begins with a short container which presents two things:
+The footer is divided into two parts.
 
-* A "Get our latest news and special sales" form, in order for the customer to subscribe to your newsletter. Customers can register to your shop's newsletter directly using this form. Afterwards, the newsletter itself is entirely managed by you; PrestaShop does not handle the transmission of emails to the customers. The "Newsletter" module enables you to generate a .CSV file of all the registered customers and their e-mails, and you should be able to import that CSV file in any emailing system. The form is handled by the "Newsletter subscription" module.
+![The footer](../.gitbook/assets/image%20%2827%29.png)
 
-The footer gives access to pages that could be useful to your users.
+➡The upper part of the footer contains a subscription block for your newsletter, allowing customers to receive special offers. This subscription form is managed by the "Newsletter subscription" module.
 
-* The "Products" block contains: 
-  * Three links to products lists:
-    * **Specials**. All the current promotions.
-    * **New products**. Recently added items.
-    * **Top sellers**. Most popular items.
-* The "Our company" block links to informational pages:
-  * * Delivery
-    * Legal notice
-    * Terms and Conditions of use
-    * About us
-    * Secure payment
-    * Contact us
-    * Sitemap, which lists all the pages on your store.
-    * Stores
-* The "Your account" block contains links to the main pages of the user's profile \(or the authentication page\). The title "Your account" is also a link to the customer account.
-  * **Addresses**. A customer can add multiple addresses for different delivery options. ****
-  * **Credit slips**. Received when an order has been canceled. Credit slips can be used for any future order.
-  * **Orders**. All past and currently processing orders.
-  * **Personal info**. First name, last name, e-mail address, home address, phone number, date of birth: all the necessary information about a customer.
-  * **Vouchers**. All coupons code that have not yet been used \(if there are any\).
-* The "Store information" block contains the address, phone number and e-mail address of your business.
+![Newsletter subscription block](../.gitbook/assets/image%20%2828%29.png)
 
-Note that all this content can be changed by the shop owner from within the back office, either through preference settings or through module configuration.
+{% hint style="info" %}
+Please note that sending the newsletter is your responsibility. With the "Newsletter" module you can generate a .csv file containing all registered customers and their e-mails. You will then be able to import this file into any emailing system.
+{% endhint %}
 
-### The left column
+The lower part of the footer contains 4 blocks giving access to very useful pages for your customers:
 
-The default theme's left column only appears on a category page, when activated from the back office. It mainly serves as a handy placeholder for navigation and tools.
+{% tabs %}
+{% tab title="Products" %}
+**The "Products" block allows quick access to the following pages:** 
 
-**Categories block**
+* Promotions 
+* New products
+* Best sales
+{% endtab %}
 
-A category is a hierarchical way of sorting items: it can contain any number of sub-categories, making it possible to easily browse from the more general category listings to the more specific products by following a logical path.
+{% tab title="Our company" %}
+**The "Our company" block allows quick access to the following** **pages:** 
 
-A PrestaShop shop can have as many categories and sub-categories as needed, with an infinite number of products in a given category level. All categories are actually sub-categories of the root category, "Home."
+* Delivery 
+* Legal Notice 
+* Terms and conditions of use 
+* About us 
+* Secure payment
+* Contact us 
+* Sitemap 
+* Stores
+{% endtab %}
 
-**Faceted navigation**
+{% tab title="Your account" %}
+**The "Your account" block redirects to the main pages of the customer account \(or the authentication page, if the customer is not logged in\):**
 
-The faceted navigation displays a block with different criteria available to filter the products, mostly attributes, features, and price ranges. It is very handy to help the customers easily find a product.
+* Personal info
+* Orders
+* Credit slips
+* Adresses
+{% endtab %}
 
-### The central section
+{% tab title="Store information" %}
+**The "Store information" block contains all the information about your store:**
 
-This is where the magic happens. The central section changes constantly in response to the customer's choices.
+* The name of the store
+* The address
+* The phone number
+* The email
+{% endtab %}
+{% endtabs %}
 
-**The front page**
+### The category pages
 
-The default front page gives the customer a broad overview of the shop and its possibilities. An image slider serves as an introduction to the shop, with three alterning images.
+#### The left column
 
-The slider is followed by a list of "Popular products" that highlights products depending on their popularity.
+![In red, the &quot;Category&quot; block. In blue, the &quot;Filter by&quot; block.](../.gitbook/assets/image%20%289%29.png)
 
-Most seasoned web surfers will visit a shop via a search engine, landing directly on a product or category. Few stumble upon the home page, and this is why it should be tailored to new users.
+A category is a hierarchical way of sorting products: it can contain an unlimited number of subcategories, which allows you to easily switch from general listings to more specific products by following a logical path. 
 
-**Product listing pages**
+A PrestaShop store can have as many categories and subcategories as needed, with an infinite number of products in a given category level. 
 
-Categories, tags, brands, suppliers, search, specials page, best sellers page or new products page: PrestaShop has many paths to a product, but in the end, the customers are given a familiar listing of products, within the chosen context.
+On the category pages, in the left column, customers can see in which category or subcategory the product is. 
 
-Despite the differing content, these listing designs are very similar, in order to keep it familiar even for the newcomers. They all display a list of concerned products organized in a grid, with:
+Please note that all categories are subcategories of the root category, "Home". You can configure the categories from your back office, on the Catalog &gt; Categories page.
 
-* A thumbnail,
-* Discount or state flags on the top-left hand side,
-* Product name
-* Product price
+{% page-ref page="selling/managing-catalog/managing-categories.md" %}
 
-This list view enables the customer to see at a glance the products' main information when they already know everything they need about a product, allowing for a quicker decision process.
+#### The "Filter by" block
 
-Hovering over the product triggers a quick animation, displaying the different combinations and a "Quick view" link. By clicking the "Quick view" link, a pop-up window opens with the main product information and an "Add to cart" button.
+Filtering their search allows customers to find the product they are looking for faster. On the left column of a category page, it is possible to refine a search by filtering it by attributes, characteristics or price range. The "Filter by" block can be configured via the "Faceted Search" module.
 
-**Category header: image and image map**
+#### The category header
 
-Categories can feature a header image with an introductory message, as set by the shop owner.
+![](../.gitbook/assets/image%20%2830%29.png)
 
-**Product sorting**
+Categories have a header image and a description. You can configure this header from your back office on the Catalog &gt; Categories page. 
 
-Product listing by category or brand can be further sorted by price \(low to high or high to low\), name \(A to Z or Z to A\) or relevancy.
+### Product listings 
 
-**Product page**
+All product lists are identical on PrestaShop, regardless of the nature of the page concerned \(new products, best sellers, category pages, etc\). Products are organized in a grid, with:
 
-This is where all the information entered by the shop owner is available to the user. Depending on the theme design, a product page can be very thorough, with extensive information, or simply present the most essential facts. The default theme is typical in that its most prominent feature is the product images, with a tool below it enabling customers to view the various available images.
+* A thumbnail image 
+* Promotional or status flags at the top left of the image 
+* The name of the product
+* The price of the product
 
-Next to the images are two blocks:
+![](../.gitbook/assets/image%20%2833%29.png)
 
-* A "summary" block, presenting the main facts for the current product.
-* The "Add to cart" block, with the option to choose among the available combinations \(as defined by the shop owner\) and the quantity to be ordered.
+This presentation in a grid allows customers to see the main product information at a glance, therefore speeding up the decision-making process.
 
-Below the cart block you will find a reassurance block, to let your customers know about the various benefits of buying on your shop, or to be more transparent on your payment and delivery policies.
+On mouseover, customers can click on the magnifying glass to access a quick overview of the product. They will then have access, in addition to the information previously stated, to the product description, and will be able to add the product to their cart after having selected the attributes \(if any\) and entered the desired quantity.
 
-At the bottom of the product page is a tab section. The most usual ones are:
+![](../.gitbook/assets/image%20%287%29.png)
 
-* **Description**. This gives the full description for the product, as entered by the shop owner.
-* **Product details**. _This tab only appears if the shop owner has entered data in the product's "Features" sheet._ This gives all the detailed features that were entered into database. The content of this tab is very sparsely written: these are just raw facts, far from the product description.
+#### Products sorting
 
-**The cart page**
+Products can be sorted by price \(high to low or low to high\), name \(A to Z or Z to A\), or by relevance.
 
-Clicking on the "Cart: XX products" link in the header brings the customer to the shopping cart summary page, which is the first step in the order process, before entering the checkout page. It sums up the cart and shows again the reassurance block. This is where the customer makes sure that the order only contains the wanted products, no more, no less.
+### The product page
 
-When clicking the "Checkout" button, the user is redirected to the one-page checkout, divided into 4 sections:
+![](../.gitbook/assets/image%20%2834%29.png)
 
-1. **Personnal information**. Where the non-logged customer is asked to log in or create an account. This step is skipped over if the customer is already logged in. However, it is still available if the customer wants to sign in with another account.
-2. **Addresses**. Where the customer is presented with his or her currently registered addresses in PrestaShop, and has to choose the one where the delivery is to be made.
-3. **Shipping method**. Where the customer chose the shipping options.
-4. **Payment**. Where the customer is presented with the final price of the order \(now including the shipping price\), and is asked to choose a payment method.
+The product page presents the information you entered from the Catalog &gt; Products page of your back office. Depending on the theme used, a product page can be very complete, with detailed information, or simply present the essential information.
 
-The customer can come back to any previous step by clicking on its title.
+The default theme allows you to display one or more product images. Next to the images, other information about the product appears: the product name, the price and possible discounts, and a short summary. 
 
-The checkout page has been voluntarily stripped of any distraction such as the left column, the footer and other links that can lead the customer away from the purchase. It is still possible to exit the checkout process by clicking on the shop logo in the header.
+Just below this product information, customers can choose from the available combinations \(if any\) and select the desired quantity. 
 
-## Creating a customer account
+Below the "Add to cart" button, reassurance elements inform your customers about the different payment, delivery, return policies, etc. To modify this information, you must configure the "Reassurance" module. 
 
-Because it is one of the main sources of lost customers for online shops, PrestaShop makes it simple and straightforward to create a customer account.
+Finally, at the bottom right of the page, a block displays two tabs: 
 
-When clicking the "Sign in" link in the header, the visitor is taken to the authentication page, where he or she can sign in. If he or she needs to create a new account, the link "No account? Create one here" will redirect to the account creation form.
+**Description:** here appears a complete description of the product, as it was entered in the back office. 
 
-There are two parts to the account creation form:
+**Product details:** this tab only appears if characteristics have been associated with the product from the back office, for example, the brand or the composition. 
 
-* **Personal information**. There the customer should fill in everything that can uniquely identify the customer: first name, last name, e-mail, password, and date of birth.
-* **Subscriptions**. The customer can choose to subscribe to your newsletter and to receive or not your partner offers. Make sure you only display these fields if you actually send this kind of content.
+For more information on the configuration of the product page, please visit the [dedicated documentation page.](selling/managing-catalog/managing-products.md)
 
-Once registered, the customer is redirected to the "Your account" page, where many options can be accessed: order history, credit slips, vouchers, and access to the previously entered information.
+### The cart
 
-Among the available links is "Add first address". This will be the default address for this customer - there can be many more.
+From the header, customers can see how many items are in their cart. By clicking on the "Cart" button, customers can access the content of the cart and finalize their order.
 
-If the customer only has one registered address, it will be used both as the shipping and the billing address. During the order process, the customer can choose to use a different address for the billing address, and create that new address on the fly.
+![The &quot;Cart&quot; page](../.gitbook/assets/image%20%2832%29.png)
 
-## Buying a product
+A summary of the content of the cart is displayed. After checking that the content of the order is correct, customers can click on the "Proceed to checkout" button. They are then redirected to the checkout page.
 
-The whole process of buying a product on a PrestaShop site can follow different paths, but they all reach the same conclusion, which in e-commerce lingo is called the "conversion funnel": from the moment the cart is filled and the customer starts to check out, he or she has to progress through various validation screens until the order is validated and can be processed.
+## Buy a product 
 
-The purchase path is called a _conversion funnel_ because this is where a lot of online shops lose clients due to overly long, complicated or numerous screens. Read more on Wikipedia: [http://en.wikipedia.org/wiki/Conversion\_funnel](http://en.wikipedia.org/wiki/Conversion_funnel).
+Once the shopping cart is filled with all the desired items and the ordering process is started, customers will have to validate a series of steps until the validation of their order. 
 
-This process starts when the customer clicks the cart summary's "Checkout" button, and always follows the same sequence of screens:
+PrestaShop makes sure that the purchase process is fast and efficient. This process takes place in 5 steps: 
 
-1. _\(if the visitor is not logged in\)_ The authentication screen, where the visitor can either go to the account creationpage, or log in.
-2. The delivery address page. If the user account has no registered address, the customer is directly taken to the address creation form.
+**Personal information:** if the customer is not connected, they can choose to order as a guest, create an account or log in.
 
-   Two addresses are necessary for an order:
+**Addresses:** If no address has been previously registered, the customer must fill in the address creation form. Otherwise, they can directly select the address to which they want to be delivered. If the delivery address and the billing address are different, the customer can uncheck the box "Use the same address for billing" and either select an address from those already entered or enter a new one.
 
-   * The delivery address, where the order should be sent.
-   * The billing address, which should be the one that is tied to the payment method.
+**Shipping method:** this is where the customer must choose from the delivery and packaging options. Depending on what the store offers, the customer can choose a recycled package and/or gift wrap for their order. The customer can take advantage of this step if they wish to share a message about their order.
 
-   If the customer needs to have the order billed to an address other than the delivery one, he or she can click the "Billing address differs from shipping address" link and either select an address from the currently registered ones,or create a new one.
+**Payment:** the customer can choose several payment options depending on what the merchant has set up. The customer clicks on the chosen method and depending on it, they are either sent to the third party vendor's manager or to a page in PrestaShop where they can enter the necessary details. PrestaShop makes it easy to add payment methods like PayPal, Hipay, or other third-party providers. Go to the "Modules" page of the back office to discover all the payment modules available natively, and discover many others on the Addons marketplace.
 
-   If an address turns out to be wrong, the customer can use the "Edit" link to correct it.
+**Validation and summary:** once the customer has validated everything and accepted the general sales conditions, their order is confirmed, and they can access the summary of his order. Depending on the payment method chosen, some final information may be sent to the customer, with a notification of the confirmation by e-mail and a link to the support page. The customer must click on "I confirm my order" in order to have it validated.
 
-3. The shipping page. This is where the customer can choose from different shipping- and packaging-related options:
-   * Depending on what the shop can offer, the customer may be able to choose recycled packaging and gift-wrapping \(with an optional gift note\)
-   * The customer MUST choose a carrier in order to reach the next step.
-4. The payment page.  
-   The customer can choose many payment options, depending on what the shop owner has set up. The customer clicks on the chosen method and depending on the method, is either sent over to the chosen third-party handler or continues to one of PrestaShop's pages where he or she can enter the needed details, such as a validation before displaying check or bank wire information.
+## Create a customer account
 
-   Check and bank wire are installed by default, but PrestaShop makes it easy to offer payment through PayPal, Hipay or any other 3rd party providers. See the modules available in PrestaShop's back office, or check the Addons marketplace for even more modules: [http://addons.prestashop.com/](http://addons.prestashop.com/).
+{% hint style="success" %}
+PrestaShop allows the visitors of your store to create an account simply and quickly!
+{% endhint %}
 
-   The customer needs to agree with the shop's terms of service before completing the purchase and validation the order. Which is done by clicking on the "Order with an obligation to pay" button.
+By clicking on "Sign in" in the header, visitors are redirected to an authentication page. If they do not have an account, they can create one from the same page.
 
-5. Once the customer has validated everything, the summary page is displayed. It begins with "Your order is confirmed". Depending on the chosen method of payment, some final information should be provided to the customer, along with a notification that a confirmation email has been sent and a link to the customer support page. 
+The account creation form is composed of two parts: 
+
+**Personal information:** customer indicates their personal information \(name, first name, e-mail, password, and date of birth\). This functionality is managed by the "Customer 'Sign In' link" module. 
+
+**Subscriptions:** customers can choose to subscribe to your newsletter and to receive or not your partner offers. Make sure to display these fields only if you actually send this type of content. 
+
+Once registered, customers access their customer account where many options are available. In particular, they can add a first address - their default address, but they can have more! If the customer has only one address registered, it will be used as both the shipping and billing address. During the checkout process, the customer can always choose to use a different address.
+
+{% hint style="success" %}
+Guest checkout \(feature available on the Shop Parameters &gt; Order Settings page\) allows visitors to purchase products without creating an account. Essential delivery and payment information is still required but the customer will never have to create a password.
+{% endhint %}
 

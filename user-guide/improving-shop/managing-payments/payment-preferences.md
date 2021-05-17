@@ -27,7 +27,7 @@ If you change the default currency after having configured some first products, 
 
 You can limit the choice of available payment methods depending on the group of customers: you can have a set number of customer groups where people can have access to more payment methods than regular customers.
 
-![](../../../.gitbook/assets/64225553%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/64225553%20%282%29%20%281%29%20%281%29.png)
 
 For instance, you could choose to have regular customers pay with PayPal, Skrill, and Hipay, while professionals would only be able to pay by bank wire. Depending on the type of customers and on your choices, customers will only pay using the methods that match with your decisions.
 

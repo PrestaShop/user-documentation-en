@@ -19,5 +19,5 @@ This chapter contains the following sections:
 * [Managing Discounts](managing-discounts/)
 * [Managing Stock](managing-stock/)
 
-![](../../../.gitbook/assets/51839831%20%285%29%20%288%29.png)
+![](../../../.gitbook/assets/51839831%20%285%29%20%289%29%20%288%29.png)
 

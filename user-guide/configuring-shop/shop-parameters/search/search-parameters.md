@@ -6,7 +6,7 @@ The "Search" page enables you to configure your shop's search features.
 
 When customers make a request using your shop's internal search engine, they may make mistakes in spelling. If PrestaShop does not display the right results, the "alias" feature can address them. You will be able to take words containing spelling errors, and point them to the real products sought by customers.
 
-![](../../../../.gitbook/assets/45580489%20%284%29%20%284%29.png)
+![](../../../../.gitbook/assets/45580489%20%284%29%20%284%29%20%284%29.png)
 
 To create a new useful alias, you should first find the spelling errors most often typed by your users:
 
@@ -16,7 +16,7 @@ To create a new useful alias, you should first find the spelling errors most oft
 
 The creation form is very straightforward: indicate the typo you want corrected, and the correct word it should lead to.
 
-![](../../../../.gitbook/assets/45580490%20%284%29%20%283%29.png)
+![](../../../../.gitbook/assets/45580490%20%284%29%20%282%29%20%283%29.png)
 
 For instance, let's say your visitors frequently type "player" as "palyer" and "plaier". You can create an alias for each of these typos, which will match the word "Player". Your aliases can be used as soon as they are saved.
 
@@ -28,7 +28,7 @@ This section provides information on the number of products that can be searched
 If the values do not match, you must click the "Add missing products to the index" link. Only the new products will be indexed.  
 If you have made several changes to already indexed products, you might prefer to choose to re-build the whole index. The "Re-build entire index" process takes more time, but it is more thorough.
 
-![](../../../../.gitbook/assets/45580491%20%284%29%20%281%29.png)
+![](../../../../.gitbook/assets/45580491%20%284%29%20%283%29%20%281%29.png)
 
 PrestaShop also gives you the URL to let you create a cron task for regular re-building of the index. If you do not know about cron and crontab, ask your web host about it.
 
@@ -62,7 +62,7 @@ This section enables you to configure the behavior of your shop's search functio
 
 PrestaShop enables you to prioritize certain data when a search is performed on your shop.
 
-![](../../../../.gitbook/assets/51839994%20%284%29.png)
+![](../../../../.gitbook/assets/51839994%20%284%29%20%284%29.png)
 
 As indicated in the section, the search "weight" of a product represents its importance and relevance for the ranking of the products when customers try a new search. An item with a weight of 8 will have 4 times more value than an item with a weight of 2.
 

@@ -7,9 +7,9 @@ If you have already read the instructions on that page, skip to the "Creating a 
 
 PrestaShop is very easy to install. Once all the files are on your web server, you should be able to start configuring your shop in no less than 5 minutes in most cases: the installation process is very simple, as the installer takes care of everything for you. Less experienced users might need between 10 and 20 minutes to complete the whole process.
 
-Before you get started, make sure you have all the requirements available: server space at a hosting provider, domain name, FTP client, text editor. Makes sure to follow the instructions in the "What you need to get started" page first: [http://doc.prestashop.com/display/PS17/What+you+need+to+get+started]().
+Before you get started, make sure you have all the requirements available: server space at a hosting provider, domain name, FTP client, text editor. Makes sure to follow the instructions in the "What you need to get started" page first: [http://doc.prestashop.com/display/PS17/What+you+need+to+get+started](installing-prestashop.md).
 
-Our web hosting partner 1&1 IONOS offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users. 
+Our web hosting partner 1&1 IONOS offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users.
 
 * [1&1 IONOS Hosting](https://www.ionos.com/ecommerce-solutions/prestashop-hosting?ac=OM.US.USs96K414029T7073a) 
 
@@ -199,7 +199,7 @@ Here is a list of the checks that are performed during this third step:
 | Recursive write permission on ~/upload/ | File browser / FTP client / command line |
 | Recursive write permission on ~/download/ | File browser / FTP client / command line |
 | Recursive write permission on ~/sitemap.xml | File browser / FTP client / command line |
-| Can PrestaShop open external URLs?  | [php.in](http://php.in) file \(`allow_url_fopen`\) |
+| Can PrestaShop open external URLs? | [php.in](http://php.in) file \(`allow_url_fopen`\) |
 | Is PHP's "register global" option off? | php.ini file \(`register_globals`\) |
 | Is GZIP compression activated? | .htaccess file |
 | Is the Mcrypt extension available? | php.ini file \(see [http://php.net/manual/en/mcrypt.setup.php](http://php.net/manual/en/mcrypt.setup.php)\) |

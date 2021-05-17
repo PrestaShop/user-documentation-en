@@ -18,7 +18,7 @@ This section provides you with an extensive list of existing localization packs 
 
   You should select this option only if you are importing a localization pack for the default country of your shop, as it could change the tax display methods for all groups and all countries.
 
-  ![](../../../../.gitbook/assets/64225597%20%282%29%20%281%29.png)
+  ![](../../../../.gitbook/assets/64225597%20%282%29%20%281%29%20%281%29.png)
 
 As you can see, these additional data are optional: you can choose to import the currency and language for a given country, and not its taxes, for instance. While you should not add too many local data for fear of overwhelming both yourself and your customers with it, it may be useful to import the localization pack for your most visited countries \(according to your stats\).
 
@@ -38,7 +38,7 @@ The "Default language" and "Default country" settings each have an additional se
 * For "_Default language_": **Set language from browser**. PrestaShop will set the store's language depending on the language of the visitor's browser's locale code \(for instance: fr\_CA gives French\)
 * For "_Default country_": **Set default country from browser language**. PrestaShop will set the store's country depending on the territory of the visitor's browser's locale code \(for instance, fr\_CA gives Canada\).
 
-![](../../../../.gitbook/assets/64225598%20%283%29%20%284%29.png)
+![](../../../../.gitbook/assets/64225598%20%283%29%20%281%29%20%284%29.png)
 
 ## Local units <a id="Localizationsettings-Localunits"></a>
 
@@ -55,7 +55,7 @@ This last section asks you to set your server's local language and country, as I
 * For the language: ISO 639-1 code \([http://en.wikipedia.org/wiki/List\_of\_ISO\_639-1\_codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)\).
 * For the country: ISO 3166-1 Alpha 2 code \([http://en.wikipedia.org/wiki/ISO\_3166-1\_alpha-2](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)\).  
 
-![](../../../../.gitbook/assets/64225600%20%284%29%20%281%29.png)
+![](../../../../.gitbook/assets/64225600%20%284%29%20%282%29%20%281%29.png)
 
 These values can be set when you import the localization package for a country, but you can edit them manually at any time.
 

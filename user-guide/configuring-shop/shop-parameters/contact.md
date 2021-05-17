@@ -21,13 +21,13 @@ Click the "Add new contact" button to access the contact creation form:
 * **Save messages?**. Indicate if the e-mail is to be saved in the "Customer Service" tool, or simply sent to the e-mail address. If disabled, PrestaShop will not help you handle customer service for this contact. This might be useful for "Partner e-mail", as you might not want your customer service employees to have access to these.
 * **Description**. Make it short, no more than a single line, as it can be displayed to the customer in the contact form \(depending on your theme\).
 
-![](../../../.gitbook/assets/30670852%20%284%29%20%284%29.png)
+![](../../../.gitbook/assets/30670852%20%284%29%20%284%29%20%284%29.png)
 
 ### How the customer can contact you
 
 To contact the appropriate team of employees from your shop's front office, the customer clicks either on the "Contact us" link at the top of the page, or one at the bottom of the page. The contact form appears.
 
-![](../../../.gitbook/assets/51839985%20%284%29%20%282%29.png)
+![](../../../.gitbook/assets/51839985%20%284%29%20%284%29%20%282%29.png)
 
 The customer is then asked to choose the service to contact, enter the e-mail address and then complete the message. A drop-down menu makes it possible to choose which order is being discussed, and even which product from that order.
 
@@ -60,21 +60,21 @@ If some day you want to have the "Stores" page back, you should create a new pag
 
 You can choose how these stores are displayed in the front office. The customer can access them through the "Stores" link \(depending on the theme\)
 
-![](../../../.gitbook/assets/51839987%20%284%29%20%282%29.png)
+![](../../../.gitbook/assets/51839987%20%284%29%20%284%29%20%282%29.png)
 
 In your interface, all your stores are listed in a handy list, giving every store's information as well as an indicator telling whether the store is currently active or not – you might for instance want to gather the information for a new store in advance, in order to have its page ready for the launch.
 
-![](../../../.gitbook/assets/45580496%20%284%29%20%282%29.png)
+![](../../../.gitbook/assets/45580496%20%284%29%20%284%29%20%282%29.png)
 
 #### Adding a new physical store <a id="StoresandContactDetails-Addinganewphysicalstore"></a>
 
 As usual, click "Add new store" to reach the store creation form.
 
-![](../../../.gitbook/assets/45580497%20%284%29.png)
+![](../../../.gitbook/assets/45580497%20%284%29%20%284%29.png)
 
 Fill as many of the fields as possible, as they will be displayed to your customers.
 
-![](../../../.gitbook/assets/51839988%20%285%29%20%282%29.png)
+![](../../../.gitbook/assets/51839988%20%285%29%20%285%29%20%282%29.png)
 
 One important field is the "Latitude/Longitude" one, as this is what your theme might use to indicate the location of your store. You can use Steve Morse's online tool to get the lat/long coordinates of a given address: [http://stevemorse.org/jcal/latlon.php](http://stevemorse.org/jcal/latlon.php).
 
@@ -86,7 +86,7 @@ Finally, the business hours are an essential part of any physical store, and you
 
 This section enables you to give the main details of your company, rather than those of a specific shop. You should fill all the fields with information on your headquarters, as this is certainly the address customers will use to contact you, or even visit you.
 
-![](../../../.gitbook/assets/45580500%20%284%29.png)
+![](../../../.gitbook/assets/45580500%20%284%29%20%284%29.png)
 
 These fields should be carefully filled:
 

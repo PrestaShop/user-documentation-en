@@ -13,5 +13,5 @@ You should pay a lot of attention to the settings, and make sure they do point t
 
 Video - 4 ways to improve conversion with payments
 
-[![](../../../.gitbook/assets/51839799%20%287%29%20%285%29.png)](https://www.youtube.com/watch?v=i_wwnGt7JKM&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c&index=19)
+[![](../../../.gitbook/assets/51839799%20%287%29%20%287%29%20%285%29.png)](https://www.youtube.com/watch?v=i_wwnGt7JKM&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c&index=19)
 

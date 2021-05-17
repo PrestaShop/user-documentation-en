@@ -38,7 +38,7 @@ The import process requires preparation, and starts with a form made of primary 
 When changing the entity you wish to import, the section on the right, titled "Available fields", changes to present the expected data fields. Although the importing tool helps you by taking care of matching your file's fields with PrestaShop's, you should strive to make your data more import-friendly by following the naming scheme and order of the presented fields. If not, the import will be more tedious, but not impossible.  
 Some fields have a little information popup available \(represented by an "i" logo\), which you can display by hovering the mouse cursor over it. They mostly pertain to PrestaShop's multistore or advanced stock management features. Make sure to read them all in order to better build/edit your data files.
 
-![](../../../.gitbook/assets/45580389%20%284%29.png)
+![](../../../.gitbook/assets/45580389%20%284%29%20%284%29.png)
 
 ## Data format <a id="Import-Dataformat"></a>
 

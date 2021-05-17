@@ -8,7 +8,7 @@ Likewise, another shop might sell t-shirts variations based on attributes \(colo
 
 Features are configured on a per-product basis, from the "Product" page under the "Catalog" menu, but they must first be registered on your shop using the tool on the "Features" tab under the "Attributes & Features" page from the "Catalog" menu.
 
-![](../../../.gitbook/assets/51839269%20%283%29%20%282%29.png)
+![](../../../.gitbook/assets/51839269%20%283%29%20%283%29%20%282%29.png)
 
 You can set the features' order using the arrows in the "Position" column. The "Actions" column gives an Edit action, a Delete action and a View action which you can click to display the available values for this feature. From there, you can sort, edit and delete values if you need to.
 
@@ -16,7 +16,7 @@ You can set the features' order using the arrows in the "Position" column. The "
 
 Click on "Add new feature". A very simple form appears. This is where you name the feature itself: for example, the types of headphones provided with a music player.
 
-![](../../../.gitbook/assets/64225514%20%283%29.png)
+![](../../../.gitbook/assets/64225514%20%283%29%20%283%29.png)
 
 Give a name to this new feature, an URL and define its meta title. If you want to make this feature available for the Faceted Search module, select its indexation. Save your new feature to return to the attributes list.
 
@@ -24,7 +24,7 @@ Give a name to this new feature, an URL and define its meta title. If you want t
 
 Click on "Add new feature value". Another form appears.
 
-![](../../../.gitbook/assets/64225515%20%283%29%20%281%29.png)
+![](../../../.gitbook/assets/64225515%20%283%29%20%283%29%20%281%29.png)
 
 Fill out the form:
 

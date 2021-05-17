@@ -2,17 +2,17 @@
 
 By clicking on the "Addresses" page, you will have access to the list of your customer's addresses \(home, work, etc.\). You can edit them using the "Edit" button, or delete them altogether.
 
-![](../../../.gitbook/assets/51839324%20%283%29%20%283%29.png)
+![](../../../.gitbook/assets/51839324%20%283%29%20%283%29%20%283%29.png)
 
 Below the addresses table is the "Set required fields for this section" button. It opens a form where you can indicate if a database field is necessary or not by checking the appropriate boxes: this way, you can make it so fields such as "company" or "phone number" are mandatory when a customer is registering a new address on your shop.
 
-![](../../../.gitbook/assets/51839325%20%283%29%20%283%29.png)
+![](../../../.gitbook/assets/51839325%20%283%29%20%283%29%20%283%29.png)
 
 ## Adding a new address <a id="Customeraddresses-Addinganewaddress"></a>
 
 You have the possibility to create new addresses for a client yourself with the "Add new address" button. It opens a form with the kind of field you might expect.
 
-![](../../../.gitbook/assets/51839326%20%283%29%20%281%29.png)
+![](../../../.gitbook/assets/51839326%20%283%29%20%283%29%20%281%29.png)
 
 Some fields, however, require special care:
 

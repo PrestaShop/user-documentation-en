@@ -6,13 +6,13 @@ Categories are determinant of how people will navigate on your site and search f
 
 Categories are managed in the "Categories" page of the "Catalog" menu. This page displays a table with the currently existing categories, with the main information displayed. In order to display sub-categories, click on the parent category or select "View" in the action menu.
 
-![](../../../.gitbook/assets/64225507%20%283%29%20%282%29.png)
+![](../../../.gitbook/assets/64225507%20%283%29%20%283%29%20%282%29.png)
 
 Thanks to the icon in the "Displayed" column of the table, you can indicate the ones you want to hide from the customer by clicking on the green check-mark icon, thus turning it into a red "x" mark.
 
 All the categories are actually sub-categories of the "Home" category. And to edit the "Home" category \(or any currently selected category\), click on "Edit". If you want to create a new category \(or a sub-category of an existing category\), click on the "Add new category" button from any level of categories.
 
-![](../../../.gitbook/assets/64225508%20%283%29.png)
+![](../../../.gitbook/assets/64225508%20%283%29%20%283%29.png)
 
 Translate your categories!
 

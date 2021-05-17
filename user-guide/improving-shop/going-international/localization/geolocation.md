@@ -12,7 +12,7 @@ You can choose which countries can access your shop \(by default, all of them\),
 
 * Visitors cannot see your catalog.
 * Visitors can see your catalog but cannot make an order. In effect, your store is in "Catalog mode".
-* All features are available \(only for unrestricted countries\).  ![](../../../../.gitbook/assets/64225611%20%284%29%20%281%29.png)
+* All features are available \(only for unrestricted countries\).  ![](../../../../.gitbook/assets/64225611%20%284%29%20%282%29%20%281%29.png)
 
 You can select or deselect all countries at once by checking the box at the top of the list \(next to "Name"\). When selecting countries that can access your online shop, make sure to not block any country by mistake, as you would lose all potential sales to its inhabitants!
 
@@ -20,5 +20,5 @@ You can select or deselect all countries at once by checking the box at the top 
 
 This section enables you to accept specific IPs address despite a blockade. It can be useful in case of spammers, bots or attacks. It is already filled with a list of known good IPs. Add as many as needed, one per line, and click "Save".
 
-![](../../../../.gitbook/assets/64225612%20%284%29%20%283%29.png)
+![](../../../../.gitbook/assets/64225612%20%284%29%20%283%29%20%283%29.png)
 

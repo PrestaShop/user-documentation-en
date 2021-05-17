@@ -2,7 +2,7 @@
 
 Errors happen. Most of the time, you are not aware of them because PrestaShop handles them silently. But you might want to know about them, in order to be able to correct the most regular ones and ensure a better stability for your shop.
 
-![](../../../.gitbook/assets/43417626%20%284%29%20%283%29.png)
+![](../../../.gitbook/assets/43417626%20%284%29%20%282%29%20%283%29.png)
 
 The "Logs" page is where you can have a look at all the actions performed in your shop, and thus find the PHP errors which could plague your shop. They are listed in the page's central table, and are presented in 4 levels:
 
@@ -18,7 +18,7 @@ These explanations are the official ones from the PHP manual. Read more: [http:/
 The error levels also serve as values for the "Logs by email" feature.  
 PrestaShop adds one last value, 5, which indicates that the administrator does not want to receive any notification, either for minor or major errors.
 
-![](../../../.gitbook/assets/23789888%20%284%29%20%281%29.png)
+![](../../../.gitbook/assets/23789888%20%284%29%20%284%29%20%281%29.png)
 
 The error logging tool enables you to receive an email notification when an error occurs. Notifications are sent to the shop owner's email address, and you can configure the degree of importance at which you should start receiving such e-mails:
 

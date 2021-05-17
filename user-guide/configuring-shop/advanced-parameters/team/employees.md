@@ -2,7 +2,7 @@
 
 The "Employees" administration page lists all the user accounts that have access to your shop's back office. By default, you will find the account that was created during the store's installation, which is automatically set as SuperAdmin. The SuperAdmin has access to all of PrestaShop's features without restriction.
 
-![](../../../../.gitbook/assets/43089945%20%284%29.png)
+![](../../../../.gitbook/assets/43089945%20%284%29%20%284%29.png)
 
 You should make sure to create a new employee account for every actual employee that has anything to do you with your online business. This means that you should never have a general use account that everyone can use, because you need to keep track of who did what in your shop. Indeed, employees can edit orders, accept payments and refund customers, and you need to know who did what. Having a personal administration account for each employee is a good way for you to ensure that your team manages your shop responsibly.
 
@@ -10,7 +10,7 @@ You should make sure to create a new employee account for every actual employee 
 
 The "Add new employee" button takes you to the employee creation form.
 
-![](../../../../.gitbook/assets/51840008%20%284%29%20%281%29.png)
+![](../../../../.gitbook/assets/51840008%20%284%29%20%283%29%20%281%29.png)
 
 It has the following settings:
 
@@ -32,5 +32,5 @@ The section at the bottom of the "Employees" page, right below the list of emplo
 * **Password regeneration**. Enables you to set the frequency at which an employee can change his or her password.
 * **Memorize the language used in Admin panel forms**. If "Yes", enables employees to save their own default form language.
 
-![](../../../../.gitbook/assets/43089948%20%284%29%20%281%29.png)
+![](../../../../.gitbook/assets/43089948%20%284%29%20%284%29%20%281%29.png)
 

@@ -6,7 +6,7 @@ When you upload an image on PrestaShop, PrestaShop automatically generates vario
 
 If you want to make sure your image is correctly resized, you should upload an image that fits the size ratio of the various image sizes. If your uploaded image does not have the same width-to-height ratio than the settings in place, you are taking the risk to see whitespace on the resized image.
 
-![](../../../.gitbook/assets/64225495%20%284%29%20%283%29.png)
+![](../../../.gitbook/assets/64225495%20%284%29%20%284%29%20%283%29.png)
 
 You can enable image size for specific types of content, directly in the image sizes list.
 
@@ -16,7 +16,7 @@ When you add a new theme to your store, the theme will add itself the image size
 
 You can easily add a new image size, and even set to which type of content it applies.
 
-![](../../../.gitbook/assets/51839910%20%284%29.png)
+![](../../../.gitbook/assets/51839910%20%284%29%20%284%29.png)
 
 Click the "Add new image type" button, then:
 
@@ -26,7 +26,7 @@ Click the "Add new image type" button, then:
 
 ## Images preferences <a id="ImageSettings-Imagespreferences"></a>
 
-![](../../../.gitbook/assets/38469761%20%284%29%20%283%29.png)
+![](../../../.gitbook/assets/38469761%20%284%29%20%283%29%20%283%29.png)
 
 * **Image format**. You have the choice between two of the major file formats: JPEG and PNG. Both are well established among browsers. JPEG has a good compression ratio but can result in visible artifacts. PNG's compression algorithm is not as good as JPEG's, but there are comparatively fewer visible artifacts; nonetheless, older browsers might not recognize this format. Choosing between one and the other is often a matter of taste. That being said, JPEG remains the recommended choice. If you would rather prevent information loss because of a format change, choose the second option, "Use PNG only if the base image is in PNG format".
 * **JPEG compression**. Do not choose anything below 80 or at worst 75, for fear of visible compression artifacts.
@@ -44,7 +44,7 @@ Click the "Add new image type" button, then:
 
 You may be dissatisfied with your shop's current thumbnails size. This section makes it possible for you to regenerate them all – or only those for a specific type of content:
 
-![](../../../.gitbook/assets/46170135%20%284%29%20%281%29.png)
+![](../../../.gitbook/assets/46170135%20%284%29%20%284%29%20%281%29.png)
 
 1. Change the image size settings in the table at the top of the "Images" preference page.
 2. Select which content's images should be regenerated.

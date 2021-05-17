@@ -2,7 +2,7 @@
 
 The “Selection” tab is about discovering new modules and service to improve your store. Here you’ll find a list of all the modules you can install \(and not the ones you’ve already installed\).
 
-![](../../../../.gitbook/assets/51185191%20%285%29%20%284%29.png)
+![](../../../../.gitbook/assets/51185191%20%285%29%20%2810%29%20%284%29.png)
 
 This selection of recommended modules is based on your country, language, and version of PrestaShop. It includes the most popular modules from our Addons marketplace and free partner modules.
 
@@ -34,7 +34,7 @@ If you have a specific need and are looking for a module to help you, there are 
 
 You can use both the search bar and the categories simultaneously, to further narrow down your results.
 
-![](../../../../.gitbook/assets/51185195%20%285%29%20%283%29.gif)
+![](../../../../.gitbook/assets/51185195%20%285%29%20%285%29%20%283%29.gif)
 
 If your search doesn't give any results, a link invites you to go to Addons marketplace where you will find more modules.
 
@@ -114,13 +114,13 @@ If you haven't linked you store to your Addons account, there are two ways to in
 
 To install a new PrestaShop module automatically, click on the "Upload a module" button at the top of the page. A pop-up window will open.
 
-![](../../../../.gitbook/assets/51185188%20%284%29%20%284%29.png)
+![](../../../../.gitbook/assets/51185188%20%284%29%20%282%29%20%284%29.png)
 
 This block enables you to upload the archive file of the module, as downloaded from Addons. You can either upload a `zip` file, or a `tar.gz` one \(tarball\). Simply drop the module's file here, or browse to the file that you downloaded by clicking on "select file". Do not point to the module's uncompressed folder or any of its unpacked files: only the archive file! 
 
 Once the file is detected, the installation will start automatically: PrestaShop will upload the module from your computer to its server, unpack it, place the files in the correct location, and update the page, all this in a handful of seconds. PrestaShop will then display "Module installed!".
 
-![](../../../../.gitbook/assets/51185193%20%286%29%20%282%29.gif)
+![](../../../../.gitbook/assets/51185193%20%286%29%20%289%29%20%282%29.gif)
 
 Modules are not installed by default: you still have to click the module's "Install" button, and then possibly configure its settings via the "Installed modules" tab.
 
@@ -153,7 +153,7 @@ PrestaShop Addons is the central marketplace where you can get new modules and t
 
 Creating an account is free is easy. Click on the 'Connect to Addons marketplace" button, then click on the "Sign up now" link, which will take you here: [https://addons.prestashop.com/en/login](https://addons.prestashop.com/en/login)
 
-![](../../../../.gitbook/assets/51185189%20%284%29%20%281%29.png)
+![](../../../../.gitbook/assets/51185189%20%284%29%20%283%29%20%281%29.png)
 
 From there you can create a new account and browse among all the modules and themes available on our Addons marketplace.
 
@@ -161,7 +161,7 @@ From there you can create a new account and browse among all the modules and the
 
 If you already have an Addons account, click on the "Connect to Addons marketplace" button to open the login window.
 
-![](../../../../.gitbook/assets/51185190%20%285%29%20%283%29.png)
+![](../../../../.gitbook/assets/51185190%20%285%29%20%285%29%20%283%29.png)
 
 Enter your credentials, click on "Let's go": your installation of PrestaShop is now tied to your Addons account, and will start comparing your local modules with the ones that you got from Addons, making sure to keep each available and up to date!
 

@@ -4,13 +4,13 @@ When you have to send a message to your customers using the PrestaShop interface
 
 To do this, go to the "Order Messages" page under the "Customer Service" menu. One default message is already saved: "Delay".
 
-![](../../../.gitbook/assets/23038637%20%283%29.png)
+![](../../../.gitbook/assets/23038637%20%283%29%20%283%29.png)
 
 ## Creating a new message <a id="OrderMessages-Creatinganewmessage"></a>
 
 To add another pre-defined message, click on the "Add new order message" button. You can also edit the default message.
 
-![](../../../.gitbook/assets/23038638%20%283%29%20%282%29.png)
+![](../../../.gitbook/assets/23038638%20%283%29%20%283%29%20%282%29.png)
 
 The form goes to the essentials:
 
@@ -30,7 +30,7 @@ Once you pre-written messages are all set, you can send them by going directly i
 3. Enable the "Display to customer?" option.
 4. Click "Send message".
 
-![](../../../.gitbook/assets/39125026%20%283%29%20%282%29.png)
+![](../../../.gitbook/assets/39125026%20%283%29%20%283%29%20%282%29.png)
 
 Your customer will receive the message on the email address associated with this account. To follow-up on the conversion, go to "Customer Service" page, in the "Customers" menu.
 

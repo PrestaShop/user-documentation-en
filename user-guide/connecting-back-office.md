@@ -8,11 +8,11 @@ The name change is done automatically by PrestaShop. Be careful to memorize that
 
 You will see the login page for your shop's control panel.
 
-![](../.gitbook/assets/63406126%20%284%29%20%283%29.png)
+![](../.gitbook/assets/63406126%20%284%29%20%284%29%20%283%29.png)
 
 Enter the e-mail address and password that you registered with when installing PrestaShop. Click in the "Log In" button, and you are taken to the back office's dashboard, a sort of welcome page for this control panel.
 
-![](../.gitbook/assets/63406125%20%284%29.png)
+![](../.gitbook/assets/63406125%20%284%29%20%284%29.png)
 
 From this step onward, you can begin to configure your shop and sell products to your customers.
 

@@ -22,5 +22,5 @@ The "General" page features a handful of specific settings that could not fit in
 * **Display brands and suppliers**.  Enable the suppliers and brands pages on your front office even when their respective modules are disabled.
 * **Display best sellers**. Enable the best-sellers pages on your front office even when the "Best-selling products" module is disabled.
 * **Enable Multistore**. This little option has major implications: it turns your single-shop installation of PrestaShop into a multiple stores installation. This gives you access to the new "Multistore" page in the "Advanced parameters" menu, and every administration page can be contextualized to apply its settings to either all stores, a specific group of stores, or a single store. You can read more about PrestaShop's multistore feature by reading the "Managing multiple shops" chapter of this guide.
-* **Main Shop Activity**. You might have set the wrong shop activity when installing PrestaShop. You can choose the correct activity here.  ![](../../../../.gitbook/assets/51839963%20%284%29%20%282%29.png)
+* **Main Shop Activity**. You might have set the wrong shop activity when installing PrestaShop. You can choose the correct activity here.  ![](../../../../.gitbook/assets/51839963%20%284%29%20%284%29%20%282%29.png)
 

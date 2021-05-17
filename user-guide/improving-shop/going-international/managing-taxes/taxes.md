@@ -2,13 +2,13 @@
 
 This page lists all the taxes already created in your shop. It allows you to also create new taxes if needed. For each tax, you will see its name, rate, and status. You can activate or deactivate it right from the tax list, or you can edit or delete a tax using the action button at the far right.
 
-![](../../../../.gitbook/assets/64225614%20%284%29%20%283%29.png)
+![](../../../../.gitbook/assets/64225614%20%284%29%20%284%29%20%283%29.png)
 
 ## Tax options <a id="Taxes(EN)-Taxoptions"></a>
 
 At the bottom of the page is the "Tax options" section. These options apply to the whole shop and to all of the orders.
 
-![](../../../../.gitbook/assets/64225615%20%284%29%20%282%29.png)
+![](../../../../.gitbook/assets/64225615%20%284%29%20%284%29%20%282%29.png)
 
 * **Enable tax**. Whether or not taxes are included in each purchase.
 * **Display tax in the shopping cart**. You might prefer the customer not to be aware of the taxes that are applied to the order. In that case, disable this option.

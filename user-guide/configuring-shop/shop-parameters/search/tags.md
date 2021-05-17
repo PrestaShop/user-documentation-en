@@ -20,7 +20,7 @@ The "Tags" page under the "Search" menu enables you to create new tags and manag
 
 To create a new one, click on "Add new tag", and a creation page appears.
 
-![](../../../../.gitbook/assets/23038581%20%284%29%20%283%29.png)
+![](../../../../.gitbook/assets/23038581%20%284%29%20%284%29%20%283%29.png)
 
 This interface enables you to add tags to one or many of your products.
 

@@ -43,7 +43,7 @@ Divided into **6 sections**, the page provides you all the details about an orde
 
 ↙ Finally, in **the bottom left-hand corner**, the **Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
 
-![](../../../../.gitbook/assets/image%20%287%29.png)
+![](../../../../.gitbook/assets/image%20%287%29%20%281%29.png)
 
 ## **In this section**
 

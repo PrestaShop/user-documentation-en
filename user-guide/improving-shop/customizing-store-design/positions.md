@@ -66,7 +66,7 @@ Each module has an action button on the right side of its row, with two possible
 
 Editing a module's setting uses the same interface as the one used for transplanting a module. The only difference is that you cannot change the "Module" field, as it is disabled, and thus grayed out. You can edit both the "Transplant to" setting and the exceptions, which works just as described in the "Attaching a module to a hook" method above.
 
-![](../../../.gitbook/assets/64225504%20%284%29%20%287%29.png)
+![](../../../.gitbook/assets/64225504%20%284%29%20%285%29%20%287%29.png)
 
 Always check your front office to make sure the module is indeed where you intended it to be.
 

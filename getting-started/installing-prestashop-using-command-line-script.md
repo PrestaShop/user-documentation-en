@@ -20,7 +20,7 @@ $ php index_cli.php
 
 This will display the various available options.
 
-![](../.gitbook/assets/54264260%20%285%29.png)
+![](../.gitbook/assets/54264260%20%281%29%20%285%29.png)
 
 All the options from the regular in-browser installer are available, with their default value listed. Almost all default values can be left as is, because you can edit them all from the PrestaShop back office once the installation is done. Note that the e-mail and password are the ones used to create the administrator's back office account...
 

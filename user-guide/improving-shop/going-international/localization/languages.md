@@ -12,7 +12,7 @@ Adding a new language is simply a question of importing the localization pack fr
 
 You can also add a new language from the "Translations" page, "Add / Update a language" section. Contrary to a localization pack, this will only import the language, and no localization settings \(units, currency, etc.\).
 
-![](../../../../.gitbook/assets/64225603%20%284%29.png)
+![](../../../../.gitbook/assets/64225603%20%284%29%20%284%29.png)
 
 ## Adding a new language <a id="Languages-Addinganewlanguage"></a>
 
@@ -20,7 +20,7 @@ Before creating a new language, you should check if this language is available i
 
 Creating a new language means you will have to translate all of the text for PrestaShop's front office, back office, modules, etc., or risk using the default English strings. To complete its translation, you should use the "Modify translations" option in the "Translations" page, under the "International" menu.
 
-![](../../../../.gitbook/assets/64225604%20%284%29%20%282%29.png)
+![](../../../../.gitbook/assets/64225604%20%284%29%20%284%29%20%282%29.png)
 
 In order to create a new language, you must fill as many of the form's field as possible:
 
