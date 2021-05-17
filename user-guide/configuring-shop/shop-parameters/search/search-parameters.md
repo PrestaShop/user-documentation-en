@@ -54,8 +54,16 @@ This section enables you to configure the behavior of your shop's search functio
 * **Minimum word length**. You can choose the minimum size at which a word may be registered in the search index and found by your customers. This feature allows you to eliminate short words in the search, such as prepositions or articles \(the, and, of, etc.\).
 * **Blacklisted words**. You can choose the terms that must not be found by your visitors. Enter them directly into the field, separated by "\|" \("pipe" character, not lowercase L\). By default, PrestaShop fills the list with common short words.
 
+{% hint style="info" %}
+Note that PrestaShop sets that limitation in order to avoid offensive behaviors that could overstress the server intentionally. You can modify this number, but most stores will not have to do so.
+{% endhint %}
+
+*  **Maximum word length \(in characters\)** This option defines how many characters you allow to run a fuzzy search query. We advise the number of 15 to keep the fuzzy search fast, even when processing long queries. This will not prevent your customers from entering longer words, but only the first 15 characters entered will be taken into account. For example, in "thisisaverylongword \(19 char.\) only "thisisaverylongw" \(15 char.\) will be taken into account in the search. When modifying the minimum word length, keep in mind that the longer the word \(in characters\), the more stressed the server is. So, the larger your database, the more resources a search will consume and the longer it will take.
+* **Minimum word length**. You can choose the minimum size at which a word may be registered in the search index and found by your customers. This feature allows you to eliminate short words in the search, such as prepositions or articles \(the, and, of, etc.\).
+* **Blacklisted words**. You can choose the terms that must not be found by your visitors. Enter them directly into the field, separated by "\|" \("pipe" character, not lowercase L\). By default, PrestaShop fills the list with common short words.
+
 {% hint style="success" %}
- The fuzzy search is a PrestaShop 1.7.7 new feature. It is also the result of a community member's contribution! 😍 If you want to get more details about this feature, you can check the [article on PrestaShop's developer blog](https://build.prestashop.com/news/introduction-to-the-fuzzy-search/).
+Fuzzy search is one of PrestaShop 1.7.7's new features. It is also the result of a community member's contribution! 😍 Check on the [article on PrestaShop's developer blog](https://build.prestashop.com/news/introduction-to-the-fuzzy-search/) to get more details about this feature.
 {% endhint %}
 
 ## Weight <a id="Searchparameters-Weight"></a>
@@ -70,5 +78,5 @@ For instance, by default "Product Name Weight" is at 6, "Tags weight" is at 4, a
 
 You have many factors that you can assign a weight to: short description, category, tags, attributes, etc. You will find that the display order of results can be reversed because you changed the weight of the various fields. Fine-tuning these settings will be more visible on a large catalog with many references.
 
-Once your changes are saved, they take effect immediately.
+Once your changes are saved, they take effect immediately
 
