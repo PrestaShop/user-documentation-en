@@ -40,24 +40,16 @@ This section enables you to configure the behavior of your shop's search functio
 
 ![](../../../../.gitbook/assets/image%20%2820%29.png)
 
-* **Search within word**. This option improves search by allowing the customer to make queries that do not only match the start of the search word; for instance, "lou" for "blouse".
-* **Search exact end match**. With this option, the search can give results that will match exactly the end of the search word. For instance, if a customer searches "book", they will see "notebook", but not "bookcase"
-* **Fuzzy search.** This feature improves the PrestaShop search functionality by taking into account misspelling or error inputs. For instance, if a customer enters 'ummingbird' in the search bar, the search controller will find the closest word, i.e. 'hummingbird', and display the relevant products.
-* **Maximum approximate words allowed by fuzzy search**
-
-  You can determine how many words a query can handle in a fuzzy search. By default, the value is set to 4. It means that in a search like ‘Samsung Galaxy wall charger multiplug’, only the ‘Samsung’, ‘Galaxy, ‘wall’, and ‘charger’ words will be taken into account. ‘Multiplug’ will not be computed. 
+* **Search within word:** This option improves search by allowing the customer to make queries that do not only match the start of the search word; for instance, "lou" for "blouse".
+* **Search exact end match:** With this option, the search can give results that will match exactly the end of the search word. For instance, if a customer searches "book", they will see "notebook", but not "bookcase"
+* **Fuzzy search:** This feature improves the PrestaShop search functionality by taking into account misspelling or error inputs. For instance, if a customer enters 'ummingbird' in the search bar, the search controller will find the closest word, i.e. 'hummingbird', and display the relevant products.
+* **Maximum approximate words allowed by fuzzy search:** You can determine how many words a query can handle in a fuzzy search. By default, the value is set to 4. It means that in a search like ‘Samsung Galaxy wall charger multiplug’, only the ‘Samsung’, ‘Galaxy, ‘wall’, and ‘charger’ words will be taken into account. ‘Multiplug’ will not be computed. 
 
 {% hint style="info" %}
 Note that PrestaShop sets that limitation in order to avoid offensive behaviors that could overstress the server intentionally. You can modify this number, but most stores will not have to do so.
 {% endhint %}
 
-* **Maximum word length \(in characters\)**
-
-  This option defines how many characters you allow to run a fuzzy search query. We advise to set the maximum word length at 15 to keep the fuzzy search fast, even when processing long queries. This will not prevent your customers from entering longer words in the search bar, but only the first 15 characters of each word entered will be taken into account for the search. For example, in "thisisaverylongword \(19 char.\) only "thisisaverylongw" \(15 char.\) will be taken into account. When modifying the minimum word length, keep in mind that the longer the word \(in characters\), the more stressed the server is. So, the larger your database is, the more resources a search will consume and the longer it will be. 
-
-* **Minimum word length**. You can choose the minimum size at which a word may be registered in the search index and found by your customers. This feature allows you to eliminate short words in the search, such as prepositions or articles \(the, and, of, etc.\).
-* **Blacklisted words**. You can choose the terms that must not be found by your visitors. Enter them directly into the field, separated by "\|" \("pipe" character, not lowercase L\). By default, PrestaShop fills the list with common short words.
-*  **Maximum word length \(in characters\)** This option defines how many characters you allow to run a fuzzy search query. We advise the number of 15 to keep the fuzzy search fast, even when processing long queries. This will not prevent your customers from entering longer words, but only the first 15 characters entered will be taken into account. For example, in "thisisaverylongword \(19 char.\) only "thisisaverylongw" \(15 char.\) will be taken into account in the search. When modifying the minimum word length, keep in mind that the longer the word \(in characters\), the more stressed the server is. So, the larger your database, the more resources a search will consume and the longer it will take.
+* **Maximum word length \(in characters\):** This option defines how many characters you allow to run a fuzzy search query. We advise setting the maximum word length at 15 to keep the fuzzy search fast, even when processing long queries. This will not prevent your customers from entering longer words in the search bar, but only the first 15 characters of each word entered will be taken into account for the search. For example, in "thisisaverylongword \(19 char.\) only "thisisaverylongw" \(15 char.\) will be taken into account. When modifying the maximum word length, keep in mind that the longer the word \(in characters\), the more stressed the server is. So, the larger your database is, the more resources a search will consume and the longer it will be. 
 * **Minimum word length**. You can choose the minimum size at which a word may be registered in the search index and found by your customers. This feature allows you to eliminate short words in the search, such as prepositions or articles \(the, and, of, etc.\).
 * **Blacklisted words**. You can choose the terms that must not be found by your visitors. Enter them directly into the field, separated by "\|" \("pipe" character, not lowercase L\). By default, PrestaShop fills the list with common short words.
 
