@@ -58,7 +58,7 @@ At the top of the page, there is an image slider: three images scroll by. You ca
 
 Just below the image slider are displayed the popular products of your store.
 
-You can also customize a banner or add a text block. Feel free to consult the dedicated documentation to learn how to[ configure the front-office pages of your store.](improving-shop/customizing-store-design/theme-and-logo.md#ThemeandLogo-HomepageConfiguration)
+You can also customize a banner or add a text block. Feel free to have a look at the dedicated documentation to learn how [to configure the front office pages of your store.](improving-shop/customizing-store-design/theme-and-logo.md#pages-configuration)
 
 ### The footer
 
