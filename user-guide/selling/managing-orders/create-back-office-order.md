@@ -4,7 +4,7 @@ description: >-
   back office.
 ---
 
-# Creating a back-office order
+# Creating a back office order
 
  Creating an order directly from the back office of your store can be very useful! Imagine that you are on the phone with a customer who wants to buy a product but, for some reason, does not succeed. You can offer to create the order for them. 
 

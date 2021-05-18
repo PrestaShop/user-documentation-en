@@ -20,7 +20,7 @@
       * [Order page management](user-guide/selling/managing-orders/order-page-management/README.md)
         * [Editing an order](user-guide/selling/managing-orders/order-page-management/editing-order.md)
         * [Creating returns and refunds](user-guide/selling/managing-orders/order-page-management/creating-returns-and-refunds.md)
-      * [Creating a back-office order](user-guide/selling/managing-orders/create-back-office-order.md)
+      * [Creating a back office order](user-guide/selling/managing-orders/create-back-office-order.md)
       * [Invoices](user-guide/selling/managing-orders/invoices.md)
       * [Credit slips](user-guide/selling/managing-orders/credit-slips.md)
       * [Delivery slips](user-guide/selling/managing-orders/delivery-slips.md)
