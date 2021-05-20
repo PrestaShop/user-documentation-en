@@ -1,5 +1,9 @@
 # Browsing the front office
 
+![](../.gitbook/assets/recent-updates.png)
+
+➡[Contribute](https://prestashop.gitbook.io/howtocontribute/)
+
 The front office is the visible part of your site. It is what customers see when browsing your store and throughout the buying process.
 
 As a merchant, you should know your front office like the back of your hand, not only because you owe it to yourself to know your shop inside and out, but also because you need to understand what your customers face, the number of pages and clicks they go through during a typical buying session, where they might get stuck and how to help them out, etc.

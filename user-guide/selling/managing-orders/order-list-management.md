@@ -7,6 +7,10 @@ description: >-
 
 # Order list management
 
+![](../../../.gitbook/assets/recent-updates.png)
+
+➡[Contribute](https://prestashop.gitbook.io/howtocontribute/)
+
 ## **Finding an order** 🔎 
 
 The orders are organized by date, from newest to oldest. 

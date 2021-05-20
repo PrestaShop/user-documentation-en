@@ -7,6 +7,12 @@ description: >-
 
 # Order page management
 
+##  
+
+![](../../../../.gitbook/assets/recent-updates.png)
+
+➡[Contribute](https://prestashop.gitbook.io/howtocontribute/)
+
 ## Understanding the order page organization
 
 Divided into **6 sections**, the page provides you all the details about an order. 
