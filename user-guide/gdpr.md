@@ -20,15 +20,21 @@ Article 83 of the GDPR provides sanctions up to €20 million or, for a company,
 
 This tab will help you become familiar with the General Data Protection Regulation \(GDPR\) and our module. Here, you will find general information about this EU regulation \(our whitepaper, video, article, etc.\) and the user guide for our module to download in PDF format to help you get set up.
 
+![](../.gitbook/assets/capture-de-cran-2018-05-23-a-11.00.15.png)
+
 #### Personal Data Management <a id="ComplyingwiththeGDPR-PersonalDataManagement"></a>
 
 In this tab, you will first find the list of modules installed in your store that are GDPR compliant.
+
+![](../.gitbook/assets/capture-de-cran-2018-05-23-a-11.02.06.png)
 
 If you consider that one or several modules collect personal data and that they don’t appear on this list, please make sure that you have access to the latest version of these modules to fully benefit the GDPR update.
 
 If they are still not displayed in the list, we invite you to contact their respective developers to have [more information](http://build.prestashop.com/howtos/module/how-to-make-your-module-compliant-with-prestashop-official-gdpr-compliance-module) about these modules.
 
 Next, you can search for a customer and an unknown or guest user who has given his email address or phone number in your database and view all of his data collected by the PrestaShop solution and the GDPR-compliant modules installed in your store. To search for a user, please enter the first letters of the name, email address or phone number: 
+
+![](../.gitbook/assets/image%20%2840%29.png)
 
 The personal data that you can visualize in this interface will be used at two different levels:
 
@@ -56,6 +62,8 @@ You can activate and customize the consent confirmation checkboxes in two places
 
 We recommend you to write your consent request messages in all available languages of your online store.
 
+![](../.gitbook/assets/capture-de-cran-2018-05-23-a-11.04.22.png)
+
 Depending on your stores installed modules and if they have been updated for GDPR compliance, the corresponding text fields will be shown on this interface so that you can personalize your permission request messages.
 
 #### Customer Activity Tracking <a id="ComplyingwiththeGDPR-CustomerActivityTracking"></a>
@@ -71,4 +79,6 @@ In this summary table, you will find the information below:
 #### Help <a id="ComplyingwiththeGDPR-Help"></a>
 
 In this tab, you will find a list of questions frequently asked by our merchants as well as answers provided by our module and GDPR experts.
+
+![](../.gitbook/assets/image%20%2841%29.png)
 
