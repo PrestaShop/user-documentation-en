@@ -5,22 +5,22 @@
 Here is a quick list of what you need to get started with the installation of PrestaShop 1.7. Should you not feel comfortable with the lack of details, you will find detailed instructions in the sections following this one.
 
 * System requirements:
-  * PHP 5.4 or later.
+  * PHP 7.1 or later.
     * Useful settings \(in the `php.ini` file\):  
       * `allow_url_fopen` set to On, 
       * `register_globals` set to Off`,`
       * `upload_max_filesize` set to "16M" \(or more\).
-    * Must-have PHP extensions \(in the `php.ini` file\): PDO\_MySQL, cURL, SimpleXML, mcrypt, GD, OpenSSL, DOM, SOAP, Zip, fileinfo.
+    * Must-have PHP extensions \(in the `php.ini` file\): CURL, DOM, Fileinfo, GD, Intl, Mbstring, Zip, JSON, Iconv.
     * Useful server tools: cron/crontab, Memcached.
-  * MySQL 5.0 or later.
+  * MySQL 5.6 or later.
   * Better if:  
     * Unix/Linux hosting.
-    * Apache Web Server 2.0 or later or nginx Web Server.
+    * Apache Web Server 2.2 or later or nginx Web Server.
       * Apache module settings:  
         * `mod_rewrite` enabled, 
         * `mod_security` disabled,
         * `mod_auth_basic` disabled.
-    * At least 128 Mb of RAM is dedicated to PHP. The more the better.
+    * At least 256 Mb of RAM is dedicated to PHP. The more the better.
 * Access codes to your FTP server, your MySQL database 
   * These should be provided by your web host if you are not doing a local installation.
 * Any text editor.
@@ -66,7 +66,7 @@ Now that you have a domain name, you need to have it lead to PrestaShop. This me
 
 Before starting an online store, you will first need to select a hosting provider. Just about every web host can effectively handle the PrestaShop solution. However, only a few hosting providers offer optimized servers for PrestaShop \(with 1-click install and up-to-date version\). Here is our[ list of hosting partners](https://www.prestashop.com/en/ecommerce-hosting).
 
-When choosing your host, remember one crucial requirement: it must provide you with support for PHP 5.4 \(or more recent\), the programming language with which PrestaShop is written, and MySQL 5 \(or more recent\), the database system where PrestaShop stores all its data. There are more requirements: see the "Technical requirements" section below.
+When choosing your host, remember one crucial requirement: it must provide you with support for PHP 7.1 \(or more recent\), the programming language with which PrestaShop is written, and MySQL 5.6 \(or more recent\), the database system where PrestaShop stores all its data. There are more requirements: see the "Technical requirements" section below.
 
 ### Technical requirements
 
@@ -79,10 +79,10 @@ MySQL is an open-source database management system. Also created in 1995, it has
 Whichever hosting service you choose, the following components shall be installed on your web server:
 
 * **System**: Unix, Linux, or Windows. Unix is highly recommended.
-* **Web server**: Apache Web server 2.0 or later.
-* **PHP 5.4 or later**. You may have to activate PHP 5 \(ask your hosting provider\).
-* **MySQL 5.0 or later**.
-* At least 128 Mb of RAM on your server.
+* **Web server**: Apache Web server 2.2 or later.
+* **PHP 7.1 or later**. You may have to activate PHP 5 \(ask your hosting provider\).
+* **MySQL 5.6 or later**.
+* At least 256 Mb of RAM on your server.
 
 PrestaShop can also work with Microsoft's IIS Web server 6.0 or later, and nginx 1.0 or later.
 
