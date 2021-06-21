@@ -80,7 +80,7 @@ Whichever hosting service you choose, the following components shall be installe
 
 * **System**: Unix, Linux, or Windows. Unix is highly recommended.
 * **Web server**: Apache Web server 2.2 or later.
-* **PHP 7.1 or later**. You may have to activate PHP 5 \(ask your hosting provider\).
+* **PHP 7.1 or later**. 
 * **MySQL 5.6 or later**.
 * At least 256 Mb of RAM on your server.
 
