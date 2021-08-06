@@ -130,5 +130,10 @@
     * [Sample Usages and Specifics](user-guide/managing-multiple-shops/sample-usages-and-specifics.md)
   * [Browsing the front office](user-guide/browsing-front-office.md)
   * [Complying with the GDPR](user-guide/gdpr.md)
-* [French documentation](https://prestashop.gitbook.io/documentation-francaise-1-7/)
+
+## 1.7 DOCUMENTATIONS
+
+---
+
+* [French 1.7 documentation](https://prestashop.gitbook.io/documentation-francaise-1-7/)
 
