@@ -51,7 +51,7 @@ Save time, by opening several orders in new tabs:
 
 Do not forget to allow the opening of multiple tabs in your navigator settings. 
 
-## **Open the customer page in a new tab**
+## **Opening the customer page in a new tab**
 
 To open the customer page in a new tab, make a right-click on their name, and click on “Open in a new tab”.
 
@@ -71,7 +71,7 @@ Changing the status from the order listing can also be very useful if you want t
 You may have noticed a color change of the order status: you have a good eye! We indeed changed the color for better readability when releasing the 1.7.7 version of PrestaShop.
 {% endhint %}
 
-## **Download the invoice and delivery slip**
+## **Downloading the invoice and delivery slip**
 
 Once an invoice or a delivery slip is generated into the order, it is possible to download it in the action column.
 
