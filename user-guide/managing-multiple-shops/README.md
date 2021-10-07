@@ -6,8 +6,8 @@ This feature is especially useful if you are in one of the following cases:
 
 * **You want to set a different domain name for each of your stores.** 
 * **You want to have a B2B and a B2C version of your store.** 
-* **You want your stores to have different branding and layouts.** 
-* **You want to sell the same products at a different price in your different stores.**
+* **You want your stores to have different branding and layout.** 
+* **You want to sell the same products at a different price in each of your stores.**
 
 ## Enabling the multistore feature <a id="ManagingMultipleShops-Enablingthemultistorefeature"></a>
 
