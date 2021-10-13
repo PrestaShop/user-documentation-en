@@ -2,11 +2,11 @@
 
 Each time an order from your shop is validated, an invoice is sent out to the customer. This page allows you to configure your invoices and makes it possible to download a selection of invoices.
 
-## Generate invoice in PDF files <a id="Invoices-GenerateinvoiceinPDFfiles"></a>
+## Generate invoice in PDF files <a href="invoices-generateinvoiceinpdffiles" id="invoices-generateinvoiceinpdffiles"></a>
 
-You can download the invoices for a single order from the order's page. The "Invoices" page enables you to download a selection of invoices from past orders in PDF format, all at the same time \(in the same PDF file\).
+You can download the invoices for a single order from the order's page. The "Invoices" page enables you to download a selection of invoices from past orders in PDF format, all at the same time (in the same PDF file).
 
-![](../../../.gitbook/assets/51839182%20%283%29%20%283%29%20%282%29.png)
+![](<../../../.gitbook/assets/51839182 (3) (3) (2).png>)
 
 You can get a PDF file containing several invoices depending on two main criteria:
 
@@ -21,16 +21,17 @@ PDF template files are located in the `/pdf` folder. Open the `invoice.tpl` file
 
 When your customers ask for their invoices, you can redirect them to the "Order History" section of their user accounts, which keeps all of their invoices available for them.
 
-## Invoice Options <a id="Invoices-InvoiceOptions"></a>
+## Invoice Options <a href="invoices-invoiceoptions" id="invoices-invoiceoptions"></a>
 
 You can choose whether or not invoices should be available to your customers as soon as the order is made, as well as the Invoice prefix and the invoice number you want listed on the printed version of the invoice. This feature can help you simplify the management of your account.
 
-![](../../../.gitbook/assets/51839180%20%283%29%20%287%29%20%287%29.png)
+![](<../../../.gitbook/assets/51839180 (3) (7) (7).png>)
 
 * **Enable invoices**. When disabled, your customer will not receive an invoice after their purchase. You will be responsible for handling the invoices, if your customers ask for one.
 * **Enable tax breakdown**. When enabled, the invoice lists all the various taxes that were applied to the order, instead of just one percentage.
 * **Enable product image**. When enabled, it will add the product's image next to the product name on the invoice.
-* **Invoice prefix**. By default, PrestaShop has language-adapted invoice prefixes: "IN" in English, "FA" in French \(for "_facture_"\), "CU" in Spanish \(for "_cuenta_"\), etc. You could choose to have language codes instead: "EN", "FR", "SP", etc. Of course, you can also choose to have a single prefix for every language, or to not have a prefix at all. PrestaShop will then generate the invoices number according to you settings: "\#IN000001", "\#FA000002", etc.
+* **Invoice prefix**. By default, PrestaShop has language-adapted invoice prefixes: "IN" in English, "FA" in French (for "_facture_"), "CU" in Spanish (for "_cuenta_"), etc. You could choose to have language codes instead: "EN", "FR", "SP", etc. Of course, you can also choose to have a single prefix for every language, or to not have a prefix at all.\
+  PrestaShop will then generate the invoices number according to you settings: "#IN000001", "#FA000002", etc.
 * **Add current year to invoice number**. In addition to the invoice number and prefix, the year will also appear in the invoice number.
 * **Reset invoice progressive number at the beginning of the year**. At the beginning of a new year, the invoice number is reset to start again at 0.
 * **Position of the year date**. Choose where to display the year date in the invoice number, before or after the progressive number.
@@ -41,4 +42,3 @@ You can choose whether or not invoices should be available to your customers as 
 * **Use the disk as cache for PDF invoices**. You can choose to store generated invoices on PrestaShop's server disk rather than in its server cache. While it saves on memory usage, it slows down the PDF generation itself, so use it knowingly.
 
 Do not forget to save your changes.
-

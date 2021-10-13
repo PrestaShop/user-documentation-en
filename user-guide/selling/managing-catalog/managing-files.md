@@ -6,7 +6,7 @@ Each product can have files, which can be individually set in the "Options" tab,
 
 You can also upload files on their own, before associating them with products. This is done from the "Files" page, under the "Catalog" menu.
 
-![](../../../.gitbook/assets/51839283%20%283%29%20%283%29%20%281%29.png)
+![](<../../../.gitbook/assets/51839283 (3) (3) (1).png>)
 
 The process to register a new file to your shop is straightforward:
 
@@ -14,9 +14,10 @@ The process to register a new file to your shop is straightforward:
 2. **Filename**. Give your file a name, in all the needed languages. It will be seen by your customers.
 3. **Description**. Give it a quick description, also in as many languages as needed.
 4. Click on "Add file" to select a file on your computer to upload.
-5. Click on "Save".  
+5. Click on "Save".\
+   \
 
-![](../../../.gitbook/assets/51839284%20%283%29%20%283%29%20%282%29.png)
+
+![](<../../../.gitbook/assets/51839284 (3) (3) (2).png>)
 
 You are then redirected to the list of files, where your file now appears. It is now available to all products, through their "Attached files" option. Now the "Attachments" tab will appear in your online shop and your customers can download that file if needed.
-

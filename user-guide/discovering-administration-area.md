@@ -2,7 +2,7 @@
 
 Now that you have installed PrestaShop 1.7 and that you are properly logged-in to your administration area, you should make sure to easily find your way through its administration interface, understand its notifications and know where to find one specific bit of information.
 
-The design of the administration area has been partially revamped with version 1.7 of PrestaShop in order to be more intuitive and ergonomic \(like the module and product pages\). The navigation and main menu have also been changed compared to 1.6: while the features are the same, you might find it difficult to locate pages as you used to, at first.
+The design of the administration area has been partially revamped with version 1.7 of PrestaShop in order to be more intuitive and ergonomic (like the module and product pages). The navigation and main menu have also been changed compared to 1.6: while the features are the same, you might find it difficult to locate pages as you used to, at first.
 
 The purpose of this redesign is, of course, to make it easier for merchants to manage their shop.
 
@@ -12,25 +12,26 @@ We have created this chapter in order to help you make the most of your discover
 
 Take the time to review the Dashboard – that is, the first page you see when logging into your back office. Not only does it present you with a summary of everything you need to know about your shop at any given time, along with quick links to the main action page, but as a first-timer in PrestaShop, it also gives you tips about what you should have a look at.
 
-![](../.gitbook/assets/56688733%20%284%29%20%285%29%20%282%29.png)
+![](<../.gitbook/assets/56688733 (4) (5) (2).png>)
 
 ### The top bar
 
-![](../.gitbook/assets/56688734%20%284%29%20%284%29.png)
+![](<../.gitbook/assets/56688734 (4) (4).png>)
 
 At the top of the back office is a white bar containing a handful of information and links:
 
 * **The PrestaShop logo**, followed by its version.
 * **Quick Access**. This is the quick links menu, presenting the most useful links. You can customize it by clicking on "Manage quick accesses".
 * **Search field with dropdown list**. Enables you to search within the content of your shop.
-* **Debug mode** \(optional\). If you set your shop in Debug mode, an icon will be displayed to remind you it is enabled.
+* **Debug mode** (optional). If you set your shop in Debug mode, an icon will be displayed to remind you it is enabled.
 * **View my shop**. Opens a new browser tab with your shop's front-end.
 * **Bell icon and number.** Indicates the number of new notifications, which by default will show you the last orders.
   * **Orders**. Opens a panel presenting the new orders since you last clicked that icon. From there on, you can either display one of the new orders or go to the list of orders.
   * **Customers**. Opens a panel presenting the last registered customers. From there on, you can either display one of the new customers or go to the list of customers.
   * **Messages**. Opens a panel presenting the last customer service message. From there on, you can either display one of the new messages or go to the list of messages.
-* **Personal menu with your profile picture**. A simple dropdown panel with a reminder of the administrative account with which you are currently logged-in. It contains the following links: 
-  * **"Your profile" link**. Takes you to your account's preferences page, where you can set some personal options \(for instance, the language of your back office or your password\).
+* **Personal menu with your profile picture**. A simple dropdown panel with a reminder of the administrative account with which you are currently logged-in. It contains the following links:\
+
+  * **"Your profile" link**. Takes you to your account's preferences page, where you can set some personal options (for instance, the language of your back office or your password).
   * **"Sign out" link**. Logs you out of the current user account.
 
 ### The menus
@@ -43,7 +44,7 @@ In PrestaShop 1.7, the menu has been reorganized in three main sections, from th
 
 **Sell**
 
-![](../.gitbook/assets/56688735%20%284%29%20%284%29%20%281%29.png)
+![](<../.gitbook/assets/56688735 (4) (4) (1).png>)
 
 It’s all about your day-to-day activity. Orders, customers, catalog, etc. This section presents the essence of your business, where you go each day to get your business going.
 
@@ -61,7 +62,7 @@ Here you will find everything to customize your shop and take your business furt
 * **Design**. This is where you handle themes, and where you can position the blocks of content from your module on the theme. More generally this is where you can modify the look of your shop.
 * **Shipping**. Everything pertaining to carriers and shipping costs.
 * **Payment**. Select which payment methods are available on your shop and apply global settings to payment modules.
-* **International**. Helps you customize your shop with local values, such as language and translation, currency, units, taxes and tax rules, and geographical entities \(regions, countries, etc.\).
+* **International**. Helps you customize your shop with local values, such as language and translation, currency, units, taxes and tax rules, and geographical entities (regions, countries, etc.).
 
 **Configure**
 
@@ -84,7 +85,7 @@ The available buttons vary a lot depending on the context, and therefore two dif
 * **Recommended Modules and Services**. Opens a pop-in window containing the modules available in the current context.
 * **Help**. Opens the inline documentation for the current page – or "contextual help".
 
-The "Recommended modules" button presents you the modules which apply to the current context. For instance, in the "Shipping &gt; Carriers" page, it will display the modules from the "Shipping & Logistics" category of modules. This is very helpful when you need to quickly find which module to install and configure in order to get a given result.
+The "Recommended modules" button presents you the modules which apply to the current context. For instance, in the "Shipping > Carriers" page, it will display the modules from the "Shipping & Logistics" category of modules. This is very helpful when you need to quickly find which module to install and configure in order to get a given result.
 
 Many of the back office forms are validated with buttons at the bottom of the screen:
 
@@ -92,14 +93,15 @@ Many of the back office forms are validated with buttons at the bottom of the sc
 * **Save and stay**. Saves the content of the current page and keep the page open.
 * **Cancel**. Returns to the list of existing items.
 
-Data tables \(lists of products, of categories, of customers, etc.\) have their own set of buttons to manage the listed items:
+Data tables (lists of products, of categories, of customers, etc.) have their own set of buttons to manage the listed items:
 
 * **Add new**. Creates a new item in the current context.
 * **Export**. Downloads a CSV file of all the items.
 * **Import**. Sends you to the CSV Import option page, from where you can import your CSV files.
 * **Refresh List**. Reloads the list of items to display the latest changes.
 * **Show SQL Query**. Provides the SQL query to reproduce your search or filter in your own SQL manager.
-* **Export to SQL Manager**. Opens PrestaShop's SQL Manager tool \(in the "Advanced Parameters"\) menu, from which you can query PrestaShop's database with SQL statements \("`SELECT ... FROM ... WHERE ...`"\). If your list of items was filtered \(by name, for instance\), then the default SQL statement will take this into account \(for instance, "``WHERE 1  AND b.`name` LIKE '%blouse%'``" for product list\).
+* **Export to SQL Manager**. Opens PrestaShop's SQL Manager tool (in the "Advanced Parameters") menu, from which you can query PrestaShop's database with SQL statements ("`SELECT ... FROM ... WHERE ...`").\
+  If your list of items was filtered (by name, for instance), then the default SQL statement will take this into account (for instance, "``WHERE 1  AND b.`name` LIKE '%blouse%'``" for product list).
 
 ## Contextual help
 
@@ -125,7 +127,7 @@ When using PrestaShop for a real online store, you must disable this fake data s
 
 ### The header and demo mode
 
-In addition to the contextual help, it also features the "Demo mode" option, from which you can disable the fake data used by default on the Dashboard and use your own data \(as gathered by PrestaShop's statistics system\).
+In addition to the contextual help, it also features the "Demo mode" option, from which you can disable the fake data used by default on the Dashboard and use your own data (as gathered by PrestaShop's statistics system).
 
 ### The horizontal bar
 
@@ -133,20 +135,20 @@ At the top of the Dashboard is a single bar which helps you choose the period of
 
 * Current day, month or year.
 * Previous day, month or year.
-* Precise date selection \(the button on the right, which opens a date selector\).
+* Precise date selection (the button on the right, which opens a date selector).
 
 Choosing an option updates all the blocks of content that are on the Dashboard so that they display data for the chosen period of time only. Blocks that are not stats-based do not change.
 
-In order to choose a period of time, you can either click the first and last date of that period in the calendar \(the clicking order does not matter\), or you can type the dates in the YYYY-MM-DD format in the text boxes. Click "Apply" to see the Dashboard change according to your settings.
+In order to choose a period of time, you can either click the first and last date of that period in the calendar (the clicking order does not matter), or you can type the dates in the YYYY-MM-DD format in the text boxes. Click "Apply" to see the Dashboard change according to your settings.
 
-![](../.gitbook/assets/51839816%20%282%29.png)
+![](<../.gitbook/assets/51839816 (2).png>)
 
-You can also compare two periods of time together by checking the "Compare To" box. Select the second period as would do for the first one \(the two can even overlap\), then click on the "Apply" button.   
-When comparing two periods, some of the content blocks will update to indicate the evolution of the data \(see for instance the main "Dashboard" block, which presents data from the Dashboard Trends module\).
+You can also compare two periods of time together by checking the "Compare To" box. Select the second period as would do for the first one (the two can even overlap), then click on the "Apply" button. \
+When comparing two periods, some of the content blocks will update to indicate the evolution of the data (see for instance the main "Dashboard" block, which presents data from the Dashboard Trends module).
 
 ### The left column
 
-![](../.gitbook/assets/56688737%20%284%29%20%284%29.png)This column presents you with data from the **Dashboard Activity module**, which gives the main figures from your database in a quick glance:
+![](<../.gitbook/assets/56688737 (4) (4).png>)This column presents you with data from the **Dashboard Activity module**, which gives the main figures from your database in a quick glance:
 
 * Online visitors in the last 30 minutes.
 * Active shopping carts in the last 30 minutes.
@@ -157,24 +159,26 @@ When comparing two periods, some of the content blocks will update to indicate t
 
 ### The central column
 
-The central column is where the term "dashboard" takes its importance: this area of the dashboard presents the user \(you\) with the most important numbers pertaining to his shop's daily activities, along with a graph of sales and a list of the latest orders. Every time you log into your shop's administration area, you will be first and foremost looking at the evolution that these numbers take. This is where you see your shop live and breathe.
+The central column is where the term "dashboard" takes its importance: this area of the dashboard presents the user (you) with the most important numbers pertaining to his shop's daily activities, along with a graph of sales and a list of the latest orders. Every time you log into your shop's administration area, you will be first and foremost looking at the evolution that these numbers take. This is where you see your shop live and breathe.
 
 By default, there are three blocks of content in this column, which are handled by modules:
 
-* **Dashboard** \(Dashboard Trends module\). This is the main block of information on the dashboard. With its various graphics, it really helps you see if your shop is headed in the right direction or not. Click on one of the graphic types to display it. Additionally, when comparing two time periods, it displays the evolution of each figure in percentages. Hover the graphic with your mouse to see the details.  ![](../.gitbook/assets/51839818%20%283%29%20%281%29%20%281%29.png) Clicking on its configuration icon \(top right\) open a new page where you can set various expenses that your shop has \(bank wire fee, average shipping fee, hosting expenses, etc.\), in order to better indicate your trends.
-* **Your Forecast** \(Dashboard Goals module\). This block presents you with the goals you have for the coming months, and how your shop is doing as compared to them. Hover the graphic with your mouse to see the details.
+* **Dashboard** (Dashboard Trends module). This is the main block of information on the dashboard. With its various graphics, it really helps you see if your shop is headed in the right direction or not. Click on one of the graphic types to display it. Additionally, when comparing two time periods, it displays the evolution of each figure in percentages. Hover the graphic with your mouse to see the details.\
+  \
+  ![](<../.gitbook/assets/51839818 (3) (1) (1).png>)\
+  Clicking on its configuration icon (top right) open a new page where you can set various expenses that your shop has (bank wire fee, average shipping fee, hosting expenses, etc.), in order to better indicate your trends.
+* **Your Forecast** (Dashboard Goals module). This block presents you with the goals you have for the coming months, and how your shop is doing as compared to them. Hover the graphic with your mouse to see the details.
 
-![](../.gitbook/assets/51839819%20%284%29%20%281%29%20%281%29.png)  
-  
-Depending on your monthly results, you should update your forthcoming goals. You can set your goals in the block's configuration form \(top right of the block\), and fill in your expectations month per month in terms of traffic, conversion rate, and average cart value. The "Sales" column will be updated according to the goals set in the other columns \(for instance, for a 1000 visitors with a 2% conversion rate and a $10 average cart, you would get 1000\*\(2/100\)\*10 = $200\). You can change the currency in the "Currencies" page under the "Localization" menu.
+![](<../.gitbook/assets/51839819 (4) (1) (1).png>)\
+\
+Depending on your monthly results, you should update your forthcoming goals. You can set your goals in the block's configuration form (top right of the block), and fill in your expectations month per month in terms of traffic, conversion rate, and average cart value. The "Sales" column will be updated according to the goals set in the other columns (for instance, for a 1000 visitors with a 2% conversion rate and a $10 average cart, you would get 1000\*(2/100)\*10 = $200). You can change the currency in the "Currencies" page under the "Localization" menu.
 
-* **Products and sales** \(Dashboard Products module\). This block presents you with a table of your latest orders and a ranking of your products: best sellers, most viewed and top searches \(as searched in your shop's search form, not from search engines\).
+* **Products and sales** (Dashboard Products module). This block presents you with a table of your latest orders and a ranking of your products: best sellers, most viewed and top searches (as searched in your shop's search form, not from search engines).
 
-![](../.gitbook/assets/51839820%20%284%29%20%284%29%20%284%29.png)  
-  
+![](<../.gitbook/assets/51839820 (4) (4) (4).png>)\
+\
 You can set the number of items to display in each by opening the block's configuration form
 
 ### The right column
 
-This last column is an informational one: it gives you the latest news from [PrestaShop.com](http://PrestaShop.com), notifications about new PrestaShop versions, and useful links.
-
+This last column is an informational one: it gives you the latest news from [PrestaShop.com](http://prestashop.com), notifications about new PrestaShop versions, and useful links.

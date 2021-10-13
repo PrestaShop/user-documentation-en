@@ -4,19 +4,19 @@ PrestaShop supports a large number of currencies. By default, only one currency 
 
 ![](https://lh5.googleusercontent.com/iiCDXDmk8RoXR0En6n_bc03N-lLM3NmuJJCktD4wGN_G0vAFoJdNmynUY0heLJxRmX2ZNB8OVTQmmZhMUv5ExaS6gFdijTpYZajM5ibWlcUN4rbUg2GLQfgIK1iAmem1KkpeX2Z6)
 
-## **Changing the default currency** 
+## **Changing the default currency **
 
-All the exchange rates of the added currencies \(official or alternative\) are calculated from one unit of your store's default currency. That's why the default currency should be the currency in which you are most comfortable.
+All the exchange rates of the added currencies (official or alternative) are calculated from one unit of your store's default currency. That's why the default currency should be the currency in which you are most comfortable.
 
 To change the default currency of your store:
 
-1. Go to the International &gt; Localization page
+1. Go to the International > Localization page
 2. See the ‘Default currency’ feature in the Configuration section
 3. Select the currency you want to set as default
 
 ![](../../../../.gitbook/assets/image.png)
 
-If the currency you want to set as default is not available, you must add it whether by importing the localization pack of a country using this currency or by completing the “Add a new currency” form \(See “Adding a new currency”\). 
+If the currency you want to set as default is not available, you must add it whether by importing the localization pack of a country using this currency or by completing the “Add a new currency” form (See “Adding a new currency”). 
 
 ## **Adding a new currency**
 
@@ -26,7 +26,7 @@ There are two ways of adding a new currency:
 
 This can be done in the "Localization" page of the "International" menu. 
 
-![](https://lh3.googleusercontent.com/khKRlRUevgK7s0Vrznpy4RAt0O70EdqiilLjnssnmus_4O8DVTqbTTomkKpDgkMtZCDvADgceWhHr_Cv7FO7r2oQV5dPe906WQxnNSC6B2fTyc4V-QX8SGwrpAY3X4DHEjhxdqR6)
+![](https://lh3.googleusercontent.com/khKRlRUevgK7s0Vrznpy4RAt0O70EdqiilLjnssnmus\_4O8DVTqbTTomkKpDgkMtZCDvADgceWhHr_Cv7FO7r2oQV5dPe906WQxnNSC6B2fTyc4V-QX8SGwrpAY3X4DHEjhxdqR6)
 
 For example, if you want to add the Algerian Dinar, you can import Algeria’s localization pack.
 
@@ -38,7 +38,7 @@ Click on the "Add a currency" button. Select the currency you want to add from t
 
 By default, the currency is disabled. To activate it in your store, do not forget to switch the Status button to “Yes” and save.
 
-## **Creating an alternative currency** 
+## **Creating an alternative currency **
 
 You may need to add a currency that is not included in any of the localization packs or that is not available in the list of currencies. Use this feature to add any cryptocurrency, local currency, etc. that meet your customers’ needs.
 
@@ -46,17 +46,17 @@ You may need to add a currency that is not included in any of the localization p
 2. Check the box “Create an alternative currency” 
 3. Complete the fields:
 
-![](https://lh5.googleusercontent.com/dkP6rZ9vf1_NUob3_0PH4xvFiYbvvcIvQdwm2kFdWzi124hGirkclA_um9eH99CZU24LLLGjk_C5QFn8SQAip-DCFCIlFCuWTq58r42Bx1P_NL4zRou6SDHd8M7FIX7vgkl23Jxb)
+![](https://lh5.googleusercontent.com/dkP6rZ9vf1\_NUob3\_0PH4xvFiYbvvcIvQdwm2kFdWzi124hGirkclA_um9eH99CZU24LLLGjk_C5QFn8SQAip-DCFCIlFCuWTq58r42Bx1P_NL4zRou6SDHd8M7FIX7vgkl23Jxb)
 
 * **Currency name.** Enter the name of the currency. 
-* **ISO code.** Enter the currency 4217 ISO code. See [Wikipedia ](https://en.wikipedia.org/wiki/ISO_4217#Active_codes)for more information. You will also be able to find unofficial ISO codes of alternative currencies, such as Bitcoin.
-* **Exchange rate.** This rate is to be defined according to your store's default currency. For example, if the default currency is euros and your chosen currency is dollars, type "1.20" \(1€ = $1.20\).
+* **ISO code.** Enter the currency 4217 ISO code. See [Wikipedia ](https://en.wikipedia.org/wiki/ISO\_4217#Active_codes)for more information. You will also be able to find unofficial ISO codes of alternative currencies, such as Bitcoin.
+* **Exchange rate.** This rate is to be defined according to your store's default currency. For example, if the default currency is euros and your chosen currency is dollars, type "1.20" (1€ = $1.20).
 * **Decimals.** Number of digits following the decimal point for the prices on your store.
-* **Status.** Any currency can be disabled at any time, both from the edit page, and the currencies listing on the "Currencies" page. When you create a new currency by using the “Add a new currency form”, it is disabled by default. 
+* **Status. **Any currency can be disabled at any time, both from the edit page, and the currencies listing on the "Currencies" page. When you create a new currency by using the “Add a new currency form”, it is disabled by default. 
 
-## **Editing symbols and format** 
+## **Editing symbols and format **
 
-You can customize the format and the symbol of each currency depending on the languages of your store \(both the activated and deactivated ones\).
+You can customize the format and the symbol of each currency depending on the languages of your store (both the activated and deactivated ones).
 
 When editing a currency, at the bottom of the page, choose the language for which you want to modify the currency symbol and/or format and click on “Edit Symbol/Format”. 
 
@@ -75,12 +75,12 @@ Please note that this feature is only available when editing a currency.
 
 A currency exchange rate, or conversion rate, is the rate at which one currency will be exchanged for another. For example, a conversion rate EUR/USD of 1,22 means that 1 euro equals 1,22 dollars.
 
-If a product costs 15 euros, it will cost 18,30 dollars. \(15\*1,22 = 18,3\) 
+If a product costs 15 euros, it will cost 18,30 dollars. (15\*1,22 = 18,3) 
 
-On the contrary, if a product costs 15 dollars, it will cost 12,30 euros. \(15/1,22 = 12,3\)
+On the contrary, if a product costs 15 dollars, it will cost 12,30 euros. (15/1,22 = 12,3)
 
 {% hint style="info" %}
-Rates on PrestaShop are provided by the ECB \([https://www.ecb.europa.eu/home/html/index.en.html](https://www.ecb.europa.eu/home/html/index.en.html)\) and updated every day. However, note that they might slightly differ from the current ones as these rates can fluctuate greatly in a short time.
+Rates on PrestaShop are provided by the ECB ([https://www.ecb.europa.eu/home/html/index.en.html](https://www.ecb.europa.eu/home/html/index.en.html)) and updated every day. However, note that they might slightly differ from the current ones as these rates can fluctuate greatly in a short time.
 {% endhint %}
 
 Do not forget to regularly update the rates, by following these steps: 
@@ -96,11 +96,9 @@ Clicking on the “Update” button will automatically update the exchange rates
 Custom currencies’ exchange rates will not be updated automatically, so you will have to manually update them. For example, if you added Bitcoin and want to update the exchange rate, click on the pencil to modify the currency in the Currencies listing, and enter the exchange rate in the corresponding field. Therefore, for high volatile alternative currencies, it is highly recommended to use a module that can automatically update the currency rate.
 {% endhint %}
 
-  
+\
 A simple search on the internet is usually sufficient to find a currency exchange rate. There are a lot of converters online that you can use, such as XE.com: 
 
-[https://www.xe.com/currencyconverter/convert/?Amount=1&From=XBT&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1&From=XBT&To=USD)
+[https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD](https://www.xe.com/currencyconverter/convert/?Amount=1\&From=XBT\&To=USD)
 
-For cryptocurrencies, you can visit the following websites: [https://coinmarketcap.com/](https://coinmarketcap.com/)   
-
-
+For cryptocurrencies, you can visit the following websites: [https://coinmarketcap.com/](https://coinmarketcap.com) \

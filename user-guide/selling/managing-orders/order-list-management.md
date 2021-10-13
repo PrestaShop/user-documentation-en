@@ -9,17 +9,17 @@ description: >-
 
 ![](../../../.gitbook/assets/recent-updates.png)
 
-➡[Contribute](https://prestashop.gitbook.io/howtocontribute/)
+:arrow_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
 
-## **Finding an order** 🔎 
+## **Finding an order **:mag_right: 
 
 The orders are organized by date, from newest to oldest. 
 
 Use the filters at the top of the table to narrow down your search and click on the “Search” button.
 
-![](https://lh6.googleusercontent.com/d2z7pDl22SCy0etaWt_7qSVhAGw0AcDdiAPsrE37uqPjC3ArvZMso2IhIzN6j1mI1VnKEGSWhhW7Sd-qDRg_NcWvlwlN9JjmE5iIWnZiAuEa6jzKqpQDYkz2vc-yVOBDampSzk-8)
+![](https://lh6.googleusercontent.com/d2z7pDl22SCy0etaWt\_7qSVhAGw0AcDdiAPsrE37uqPjC3ArvZMso2IhIzN6j1mI1VnKEGSWhhW7Sd-qDRg_NcWvlwlN9JjmE5iIWnZiAuEa6jzKqpQDYkz2vc-yVOBDampSzk-8)
 
-## **Exporting an order** 
+## **Exporting an order **
 
 You can export a list of your orders. To do that,
 
@@ -35,7 +35,7 @@ You can preview an order’s details by clicking on the down arrow, next to the 
 * The carrier
 * The invoice details
 * The products in the cart
-* The total amount ****
+* The total amount** **
 
 To see more, click on the “Open details” button. This will redirect you to the order details page. 
 
@@ -57,7 +57,7 @@ To open the customer page in a new tab, make a right-click on their name, and cl
 
 ## **Changing the order status**
 
-     ****![](https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa)
+**     **![](https://lh6.googleusercontent.com/6UrdsTFPXoizMX_PyjnMDRvnZ7yuqcdqRrboLt3v0W2XXalPe3lTD0Iuv4fbb-mVLzK0alGYtWtMQWmo7W5rlDsl03a42CyJjQgieEvfiV1c9ga1MXtFfiQGgkCLPXd-D9d1-tDa)
 
 On the “Status” column of the table, click on the order’s status and select the new status from the list. 
 
@@ -75,7 +75,7 @@ You may have noticed a color change of the order status: you have a good eye! We
 
 Once an invoice or a delivery slip is generated into the order, it is possible to download it in the action column.
 
-![](https://lh3.googleusercontent.com/rmQ81g7g4TDlw4Wg_cP3cI8G3n9dC75cwqrLRy_1gENUCMZJyF6lkSL4wLsDIG7wViXZdAZLuTTfwuoDzFDA0wr00SImSsTnGkuWYYXxeRntnqx_ED4LNhK83fBkPweYyIcMfp1c)
+![](https://lh3.googleusercontent.com/rmQ81g7g4TDlw4Wg_cP3cI8G3n9dC75cwqrLRy\_1gENUCMZJyF6lkSL4wLsDIG7wViXZdAZLuTTfwuoDzFDA0wr00SImSsTnGkuWYYXxeRntnqx_ED4LNhK83fBkPweYyIcMfp1c)
 
 ## **Deleting an order**
 
@@ -83,6 +83,4 @@ Once an invoice or a delivery slip is generated into the order, it is possible t
 You cannot delete an order. Implementing a “Delete” button would make PrestaShop illegal in Europe, as it is illegal to remove payment, ordering, or invoice information from a business.
 {% endhint %}
 
-If you want to cancel an order, change the order status to “Canceled”.   
-
-
+If you want to cancel an order, change the order status to “Canceled”. \

@@ -11,49 +11,52 @@ description: >-
 
 ![](../../../../.gitbook/assets/recent-updates.png)
 
-➡[Contribute](https://prestashop.gitbook.io/howtocontribute/)
+:arrow_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
 
 ## Understanding the order page organization
 
 Divided into **6 sections**, the page provides you all the details about an order. 
 
-⬆ At the **top of the page** is a **quick summary** of the order containing the: 
+:arrow_up: At the **top of the page** is a **quick summary** of the order containing the: 
 
 * order reference 
 * customer’s name
 * total price 
 * date and hour of validation
 
-![](../../../../.gitbook/assets/image%20%282%29.png)
+![](<../../../../.gitbook/assets/image (2).png>)
 
-↖ In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
+:arrow_upper_left: In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
 
-![](../../../../.gitbook/assets/image%20%285%29.png)
+![](<../../../../.gitbook/assets/image (5).png>)
 
-↗ In the **top right-hand corner**, the **Products section** gives you access to various details on the ordered products.
+:arrow_upper_right: In the** top right-hand corner**, the **Products section** gives you access to various details on the ordered products.
 
-![](../../../../.gitbook/assets/image%20%286%29.png)
+![](<../../../../.gitbook/assets/image (6).png>)
 
-🔽 Just under the Products section, there is an **administrative section** that contains **four tabs** that give you access to the: 
+:arrow_down_small: Just under the Products section, there is an** administrative section** that contains **four tabs** that give you access to the: 
 
 * status and status history of the order
-* documents related to the order \(e.g. invoice, delivery slip, etc.\)
+* documents related to the order (e.g. invoice, delivery slip, etc.)
 * shipping information 
 * merchandise returns
 
-![](../../../../.gitbook/assets/image%20%2817%29.png)
+![](<../../../../.gitbook/assets/image (17).png>)
 
-↘ In **the bottom right-hand corner**, the **Payment section** gives you information about the payment details \(date of the transaction, method used, total amount, etc.\) You can also add a new payment. 
+:arrow_lower_right: In **the bottom right-hand corner**, the **Payment section** gives you information about the payment details (date of the transaction, method used, total amount, etc.) You can also add a new payment. 
 
-![](../../../../.gitbook/assets/image%20%284%29.png)
+![](<../../../../.gitbook/assets/image (4).png>)
 
-↙ Finally, in **the bottom left-hand corner**, the **Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
+:arrow_lower_left: Finally, in **the bottom left-hand corner**, the** Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
 
-![](../../../../.gitbook/assets/image%20%287%29%20%281%29.png)
+![](<../../../../.gitbook/assets/image (7) (1).png>)
 
 ## **In this section**
 
-{% page-ref page="editing-order.md" %}
+{% content-ref url="editing-order.md" %}
+[editing-order.md](editing-order.md)
+{% endcontent-ref %}
 
-{% page-ref page="creating-returns-and-refunds.md" %}
-
+{% content-ref url="creating-returns-and-refunds.md" %}
+[creating-returns-and-refunds.md](creating-returns-and-refunds.md)
+{% endcontent-ref %}

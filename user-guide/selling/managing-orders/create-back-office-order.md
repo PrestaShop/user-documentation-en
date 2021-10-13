@@ -8,7 +8,7 @@ description: >-
 
 ![](../../../.gitbook/assets/recent-updates.png)
 
-➡ [Contribute](https://prestashop.gitbook.io/howtocontribute/)
+:arrow_right: [Contribute](https://prestashop.gitbook.io/howtocontribute/)
 
 Creating an order directly from the back office of your store can be very useful! Imagine that you are on the phone with a customer who wants to buy a product but, for some reason, does not succeed. You can offer to create the order for them. 
 
@@ -20,7 +20,7 @@ On the Orders page, click on the “Add new order” button and enter the first 
 
 If you need more information about a customer, click on the “Details” button.
 
-🆕 If the customer you are creating this order for does not have a user account already, you can create one by clicking on the “Add a new customer” button and filling in the form. Once saved, the customer is automatically suggested for your order. Click on “Choose” to start creating the order. 
+:new: If the customer you are creating this order for does not have a user account already, you can create one by clicking on the “Add a new customer” button and filling in the form. Once saved, the customer is automatically suggested for your order. Click on “Choose” to start creating the order. 
 
 ![](https://lh4.googleusercontent.com/RBsGvXDRFEuigb2Yo1ptZX9z9lNFOizeqflpdytdJ-j1E4Cp1HiPy3zs6gf2-Gyaolc39PmKGLpEoA7LcKH9PRbzotnHbJlntwZUiHxfOvZmjneTJvu4lQsQ5zVCDLGnQkr18h98)
 
@@ -49,7 +49,9 @@ PrestaShop gives you an indication of the remaining stock, just below the “Qua
 
 Once the order is created, you can grant that order a voucher, and even create one by clicking on the "Add new voucher" button. To know more about how to create a cart rule, visit the corresponding documentation page:
 
-{% page-ref page="../managing-catalog/managing-discounts/cart-rules.md" %}
+{% content-ref url="../managing-catalog/managing-discounts/cart-rules.md" %}
+[cart-rules.md](../managing-catalog/managing-discounts/cart-rules.md)
+{% endcontent-ref %}
 
 ## **Editing/Adding an address ‌**
 
@@ -67,21 +69,20 @@ Click on the “Add a new address” button and fill in the form. This step is m
 
 ## **Organizing the shipping**
 
-![](https://lh5.googleusercontent.com/92b4c-zKguIcKZEt4cgy8pQ2DQx-lhnEZiYWB_zMXKQBMNxIegbK22eGXjY3YIJqYUT29zRhEFWC9-uNi-1qt6vouCjyRYWFOl_-11WeQpw9d8QAcrDJhZJ-yhnHTFkHZvrd5riJ)
+![](https://lh5.googleusercontent.com/92b4c-zKguIcKZEt4cgy8pQ2DQx-lhnEZiYWB_zMXKQBMNxIegbK22eGXjY3YIJqYUT29zRhEFWC9-uNi-1qt6vouCjyRYWFOl\_-11WeQpw9d8QAcrDJhZJ-yhnHTFkHZvrd5riJ)
 
 In the “Shipping” section, you can choose the available delivery option. Your choice automatically determines the shipping price.
 
 If you want to offer your client the shipping, click on “Yes” to automatically set the shipping price to 0. 
 
-## **Organizing the payment** 
+## **Organizing the payment **
 
 Check the order summary. Is everything ok? If yes, you can finalize the order by organizing the payment.
 
 ### **Send pre-filled order to the customer by email**
 
-One way to complete the order is to send the pre-filled order with the information you entered \(items in the cart, delivery address, etc.\) to the customer, so they can complete the order themselves. The customer will be able to double-check the information, change it if needed, and enter a payment method to finalize the order. 
+One way to complete the order is to send the pre-filled order with the information you entered (items in the cart, delivery address, etc.) to the customer, so they can complete the order themselves. The customer will be able to double-check the information, change it if needed, and enter a payment method to finalize the order. 
 
 ### **Proceed to checkout in the front office**
 
 Clicking on the “Proceed to check out in the front office” button redirects you to the front office checkout funnel, to complete the back-office-created order.
-
