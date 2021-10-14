@@ -84,7 +84,7 @@ If the box is checked next time you'll go to the page, it means that the paramet
 
 For example, in the screenshot below, the box next to the maintenance text parameter is checked. This means that this parameter is customized in Store 1.
 
-![](<../../../.gitbook/assets/Untitled (1).png>)
+![](<../../../.gitbook/assets/Untitled (1) (1).png>)
 
 {% hint style="info" %}
 For now, this feature is only available on the **Shop Parameters > Maintenance** page. You can follow the progress and even [contribute on GitHub](https://github.com/PrestaShop/PrestaShop/issues/25058).
