@@ -56,19 +56,19 @@ If a string contains a variable, you should make sure that the content of that v
 
 Numbered placeholders (`%1$s`, `%2$d`, etc.) enable translators to rearrange the order of the variables in the string. For example, "This is a `%1$s` `%2$d`", with `%1$s` standing for "red" and `%2$d` standing for "pen", could be translated by "C'est un `%2$s` `%1$s`" = "C'est un stylo rouge" in French.
 
-### Modules translations
+### Translating modules 
 
 To translate a specific module, select the "Installed module translations" option and the desired module. A new page opens, with all the module's strings.
 
 Depending on the module that is selected, the interface could be different. Some modules are using a translation system specific to the 1.7 version, while others are still using the former system from the 1.6 version. In the end, it doesn't change anything for you, as you will be able to translate your modules in the same way.
 
-### Email templates
+### Translating email templates
 
 There are two ways of modifying the translation of an email:
 
 * **Edit the HTML version**
 
-With this editable preview, what you see is what you get. Click on the "Edit HTML version" button. You'll be able to edit the text and the design of your email. When you're done, save. And that's it!
+With this editable preview, what you see is what you get. Click on the "Edit HTML version" button. You'll be able to edit the text and the design of your email. When you're done, save. 
 
 * **Edit the text version**
 
