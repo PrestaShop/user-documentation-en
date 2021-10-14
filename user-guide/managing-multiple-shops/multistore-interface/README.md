@@ -38,13 +38,13 @@ When multi-store is enabled, you can apply changes to either **all stores**, **a
 * **Group X**: Changes will only apply to the stores in group X.
 * **Store Y**: Changes will only apply to store Y.
 
-#### The drop-down selector
+#### The drop-down selector (older versions and non-updated pages)
 
 The drop-down selector at the top of each page of the back office indicates the context you are working on. 
 
 ![](<../../../.gitbook/assets/57081980 (4) (4) (2).png>)
 
-#### The header (<mark style="color:orange;">from version 1.7.8.0</mark>)
+#### The header (from version 1.7.8.0)
 
 From the 1.7.8.0 version, the multistore interface evolves and the drop-down selector turns into a header on most of the pages.  
 
@@ -58,6 +58,10 @@ The color of each store or group of stores can be customized on the **Advanced P
 
 To apply changes to a group of stores or to a specific store, switch context with the drop down-selector or the header (from version 1.7.8.0) and select the group or the store you want to customize.
 
+The interface might be different depending on your version of PrestaShop and the page you are on:
+
+#### The multistore toggle button and checkboxes (older versions and non-updated pages)
+
 New options will appear on the page, allowing you to customize settings for the specific group or store selected:
 
 * A multistore "Yes/No" toggle button
@@ -65,14 +69,14 @@ New options will appear on the page, allowing you to customize settings for the 
 
 To make changes:
 
-1. To male all settings for a section editable, set the multistore toggle button to "Yes".  If you only want to customize a specific setting, check the box next to it.
+1. To make all settings for a section editable, set the multistore toggle button to "Yes".  If you only want to customize a specific setting, check the box next to it.
 2. Once a parameter is editable, make your changes and save.
 
 {% hint style="info" %}
 Setting the multistore toggle to yes or checking a box makes the parameter(s) editable but doesn't change their value. It's up to you to make your adjustements and save.
 {% endhint %}
 
-#### Checkboxes (<mark style="color:orange;">from version 1.7.8.0</mark>)
+#### Checkboxes (from version 1.7.8.0)
 
 Checkboxes are displayed when you are working in a single-store or group context. They allow you to modify a parameter for a specific store or a group of stores and keep a record of this change. Indeed, if the box is checked next time you'll go to the page, it means that the parameter was customized for the store or the group of stores you are working on. Unchecking the box will cancel the customization and the parameter will take the same value as in the "All shops" context (or the group context, if available).
 
@@ -84,7 +88,7 @@ For example, in the screenshot below, the box next to the maintenance text param
 For now, this feature is only available on the **Shop Parameters > Maintenance** page.
 {% endhint %}
 
-#### The specific settings drop-down (<mark style="color:orange;">from version 1.7.8.0</mark>)
+#### The specific settings drop-down (from version 1.7.8.0)
 
 Thanks to the specific settings drop-down, if you make changes to a specific store, and that you then go back to the "All shops" or group context, you'll be able to easily know which parameters have been modified in a specific store.
 

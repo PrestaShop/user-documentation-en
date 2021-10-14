@@ -10,9 +10,8 @@ To add a new store, go to the **Advanced Parameters > Multistore** page, click o
 You won't be able to move the store to another group later if you add it to a group in which member stores share customers, sale quantities, or orders.
 {% endhint %}
 
-* **Category root: **Select the root category of this store. hile your main shop has the catalog root as its category root, any other shop can either use the same root or use any category of the catalog as its root – in effect using a subset of the main catalog as its own catalog.
-* While the catalog root is always the same as the category root of the default store, you can select any category of the catalog for the other stores.
-* **Associated categories: **In addition to being able to limit a store's catalog to a subset of the main catalog (see the "Category root" option above), you can choose to only make some sub-categories of the main category available in this new shop.
+* **Category root: **Choose the root category for your store. It can be different from the one of your default store.
+* **Associated categories: **Select the subcategories of the selected root category that will be available in the store.
 * **Theme: **Select a theme among those available. With this feature, each of your stores can have its own branding and layout.
 
 ### Importing data from another store
