@@ -1,26 +1,10 @@
 # Sample Usages and Specifics
 
-## Managing a catalog in multistore mode <a href="sampleusagesandspecifics-managingacataloginmultistoremode" id="sampleusagesandspecifics-managingacataloginmultistoremode"></a>
-
-In the multistore mode, some of the PrestaShop administration pages feature a prominent drop-down menu, titled "Multistore configuration for". This menu gives you the context of what you are doing: it enables you to set the shop or shop group to which the changes you are making are applied.
-
-For instance, when creating a new product, the selection in this menu will determine whether the product will be available for all shops, only one shop group, or a single shop.
-
-When editing a product, PrestaShop displays notifications to help you understand the scope of your changes. For instance, when editing a product while in the "Shop A" context, the notification will say "Warning, if you change the value of fields with an orange bullet, the value will be changed for all other shops for this product", with said orange bullet appearing on all the implicated fields, such as "Type of product", "Reference", the package's size, etc.
-
-Likewise, if you change a product while in the "All shops" context or in the context of a shop group, some fields will be disabled: since they have a global impact, you cannot edit them. If you really need to edit this content, each field has a box that you can check to edit that field in all the shops under this context.
-
-If you edit a disabled field, the product is created in all the shops of the context which do not already have it in their own catalog. Make sure to double check your context.
-
 ## Data exchange between stores <a href="sampleusagesandspecifics-dataexchangebetweenstores" id="sampleusagesandspecifics-dataexchangebetweenstores"></a>
 
-### Duplicating data between stores <a href="sampleusagesandspecifics-duplicatingdatabetweenstores" id="sampleusagesandspecifics-duplicatingdatabetweenstores"></a>
 
-Duplicated data in PrestaShop are set during the setup of any individual shop, by importing all or some of the content from an existing shop into the new one. The content that can be imported is varied: products, categories, employees, modules, cart rules, suppliers, etc. Data importation is done once and for all: once a store has been created, you cannot easily import data again from another store.
 
-### Sharing data between stores and store groups <a href="sampleusagesandspecifics-sharingdatabetweenstoresandstoregroups" id="sampleusagesandspecifics-sharingdatabetweenstoresandstoregroups"></a>
 
-Stores can share data. Shared data are fundamentally handled at the store group level: one of the important things to understand when dealing with PrestaShop's multistore mode is that all the stores within a store group can share the same details share data – or more precisely, three types of content: customers, available quantities, and orders. Once the store group is set, the sharing of data between its stores is mostly finished: while you can change the setting for the available product quantities, you cannot change the customers and orders settings anymore as soon as any store within the group as at least one customer or one order.
 
 ### Sharing products and categories <a href="sampleusagesandspecifics-sharingproductsandcategories" id="sampleusagesandspecifics-sharingproductsandcategories"></a>
 
@@ -33,8 +17,6 @@ By associating the new stores with a given category, any change in this category
 ### Sharing customers and customer groups <a href="sampleusagesandspecifics-sharingcustomersandcustomergroups" id="sampleusagesandspecifics-sharingcustomersandcustomergroups"></a>
 
 As indicated above, stores within the same store group can share clients: all you have to do it set the proper option when creating the store group.
-
-Groups are less detailed: if you change one of the default customer group in one store, the change is applied to all the other stores, regardless of the store group.
 
 If you want to have different customer groups for each store, you must create a new group and use the "Multistore configuration for" selector to associate the group with the current store or store group.
 
@@ -74,16 +56,7 @@ Sharing orders between the shop group have now been enabled without the loss of 
 
 Once a theme is installed on your PrestaShop, you can use the "Theme & Logo" page in the "Design" menu to change the theme of the current store, or of the current store group, depending on the context selected in the drop-down selector or the header.
 
-### Using specific settings for each shop/shop group <a href="sampleusagesandspecifics-usingspecificsettingsforeachshop-shopgroup" id="sampleusagesandspecifics-usingspecificsettingsforeachshop-shopgroup"></a>
 
-The context selected in the drop-down selector or the header is the go-to option when you want your changes to have an impact on a given store or set of stores. It should even be the first option to look at when an administration screen opens up, as PrestaShop will change the available options depending on the context you are in: store, store group or all stores.
-
-This makes it possible for you to:
-
-* Using different image formats for each shop/shop group
-* Activating/configuring a module on a per-shop basis
-* Positioning/displaying front office blocks on a per-shop basis
-* ...and so much more!
 
 ## Managing pages in multistore mode <a href="sampleusagesandspecifics-managingpagesinmultistoremode" id="sampleusagesandspecifics-managingpagesinmultistoremode"></a>
 
