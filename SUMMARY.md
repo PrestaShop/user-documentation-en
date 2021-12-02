@@ -129,3 +129,4 @@
       * [Setting a store's URL](user-guide/managing-multiple-stores/multistore-interface/setting-store-url.md)
     * [Sample Usages and Specifics](user-guide/managing-multiple-stores/sample-usages-and-specifics.md)
   * [Browsing the front office](user-guide/browsing-front-office.md)
+  * [Complying with the GDPR](user-guide/gdpr.md)
