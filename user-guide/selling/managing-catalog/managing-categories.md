@@ -27,14 +27,14 @@ First of all, you must enter a set of general information:
 * **Category cover image**. Click on "Add file" to upload an image from your computer which will represent this category. It will appear on the category's page.
 * **Category thumbnail**. Displays a small image in the parent category's page, if the theme allows it.
 * **Menu thumbnails**. The category thumbnail appears in the menu as a small image representing the category, if the theme allows it.
-* **SEO preview. **_New in 1.7.6!_ Display directly how your SEO configuration will look in search engine results.
+* **SEO preview.** _New in 1.7.6!_ Display directly how your SEO configuration will look in search engine results.
 
 ![](../../../.gitbook/assets/64225645.gif)
 
 * **Meta title.** The title that will appear on the search engines when a request is made by a customer
 * **Meta description**. A presentation of your category in just a few lines, intended to capture a customer's interest. This will appear in the result pages of search engines.
 * **Meta keywords**. Keywords that you must define in order to have your site referenced by search engines. You can enter several of them, separated by commas, as well as expressions, which must be indicated in quotation marks.
-* **Friendly URL**. Enables you to rewrite the addresses of your categories as you wish. For example, instead of having an address such as [http://www.example.com/category.php?id_category=3](http://www.example.com/category.php?id_category=3), you can have [http://www.example.com/123-name-of-the-category](http://www.example.com/123-name-of-the-category). In this case, all you would need to do is indicate in the field marked "Friendly URL" the words that you wish to see appear instead of "name-of-the-category" separated by dashes.
+* **Friendly URL**. Enables you to rewrite the addresses of your categories as you wish. For example, instead of having an address such as [http://www.example.com/category.php?id\_category=3](http://www.example.com/category.php?id\_category=3), you can have [http://www.example.com/123-name-of-the-category](http://www.example.com/123-name-of-the-category). In this case, all you would need to do is indicate in the field marked "Friendly URL" the words that you wish to see appear instead of "name-of-the-category" separated by dashes.
 *   **Group access**. Restricts access to the category and its products to certain shoppers. To see these categories, your shoppers must belong to a user group. For more information, check out the "Groups" tab in the "Customers settings" page, from the "Shop Parameters" menu.\
     \
 
@@ -47,13 +47,13 @@ Once you have finished configuring your category, save it, and you are ready to 
 
 A new category will not automatically appear in your shop's menu. To display it, you should edit the menu with the "Main menu" module (when using the default theme), or any custom module you may have to manage the menu
 
-## Navigating and editing categories <a href="managingcategories-navigatingandeditingcategories" id="managingcategories-navigatingandeditingcategories"></a>
+## Navigating and editing categories <a href="#managingcategories-navigatingandeditingcategories" id="managingcategories-navigatingandeditingcategories"></a>
 
 The "Edit" button in the button bar enables you to edit the parent category of the currently-displayed sub-categories. This means that when you are viewing the main sub-categories, clicking the "Edit" button will enable you to edit the "Home" category.
 
 You can click on any category in the table: this will open that category, and display all of its sub-categories. In effect, this will change the context of the interface: clicking the "Edit" button will edit the current parent category, and clicking the "Add new" button will open the category creation form with the "Parents category" option set to the current parent category.
 
-## Importing and exporting categories <a href="managingcategories-importingandexportingcategories" id="managingcategories-importingandexportingcategories"></a>
+## Importing and exporting categories <a href="#managingcategories-importingandexportingcategories" id="managingcategories-importingandexportingcategories"></a>
 
 Besides the "Add new" and the "Edit" buttons, the list's button bar also features three buttons:
 
@@ -69,7 +69,7 @@ Besides the "Add new" and the "Edit" buttons, the list's button bar also feature
 
     The category identifier is the ID, not the category's name. More import options are available in the "Import" page of the "Advanced parameters" menu.
 
-## Adding products to a category <a href="managingcategories-addingproductstoacategory" id="managingcategories-addingproductstoacategory"></a>
+## Adding products to a category <a href="#managingcategories-addingproductstoacategory" id="managingcategories-addingproductstoacategory"></a>
 
 In order to add a product in a category, you must open the product configuration page and go to its "Categories" sections, on the "Basic Settings" tab. This is where you can set the categories to which the product belongs.
 

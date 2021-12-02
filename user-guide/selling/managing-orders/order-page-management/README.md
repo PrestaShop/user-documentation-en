@@ -7,47 +7,47 @@ description: >-
 
 # Order page management
 
-##  
+## &#x20;
 
 ![](../../../../.gitbook/assets/recent-updates.png)
 
-:arrow_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
+:arrow\_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
 
 ## Understanding the order page organization
 
-Divided into **6 sections**, the page provides you all the details about an order. 
+Divided into **6 sections**, the page provides you all the details about an order.&#x20;
 
-:arrow_up: At the **top of the page** is a **quick summary** of the order containing the: 
+:arrow\_up: At the **top of the page** is a **quick summary** of the order containing the:&#x20;
 
-* order reference 
+* order reference&#x20;
 * customer’s name
-* total price 
+* total price&#x20;
 * date and hour of validation
 
 ![](<../../../../.gitbook/assets/image (2).png>)
 
-:arrow_upper_left: In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
+:arrow\_upper\_left: In the **top left-hand corner**, the **Customer section** gives you information about the customer and the private note, if any. You can even access the customer's personal file to see more details.
 
 ![](<../../../../.gitbook/assets/image (5).png>)
 
-:arrow_upper_right: In the** top right-hand corner**, the **Products section** gives you access to various details on the ordered products.
+:arrow\_upper\_right: In the **top right-hand corner**, the **Products section** gives you access to various details on the ordered products.
 
 ![](<../../../../.gitbook/assets/image (6).png>)
 
-:arrow_down_small: Just under the Products section, there is an** administrative section** that contains **four tabs** that give you access to the: 
+:arrow\_down\_small: Just under the Products section, there is an **administrative section** that contains **four tabs** that give you access to the:&#x20;
 
 * status and status history of the order
 * documents related to the order (e.g. invoice, delivery slip, etc.)
-* shipping information 
+* shipping information&#x20;
 * merchandise returns
 
 ![](<../../../../.gitbook/assets/image (17).png>)
 
-:arrow_lower_right: In **the bottom right-hand corner**, the **Payment section** gives you information about the payment details (date of the transaction, method used, total amount, etc.) You can also add a new payment. 
+:arrow\_lower\_right: In **the bottom right-hand corner**, the **Payment section** gives you information about the payment details (date of the transaction, method used, total amount, etc.) You can also add a new payment.&#x20;
 
 ![](<../../../../.gitbook/assets/image (4).png>)
 
-:arrow_lower_left: Finally, in **the bottom left-hand corner**, the** Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
+:arrow\_lower\_left: Finally, in **the bottom left-hand corner**, the **Messages section** allows you to send a message to the customer about their order, or leave a private message for your team.
 
 ![](<../../../../.gitbook/assets/image (7) (1).png>)
 

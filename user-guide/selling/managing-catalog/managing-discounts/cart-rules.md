@@ -30,11 +30,11 @@ The "Cart rules" page lists the currently existing cart rules and vouchers, whic
 
 ![](<../../../../.gitbook/assets/51839295 (3) (3) (2).png>)
 
-## Creating a new cart rule <a href="cartrules-creatinganewcartrule" id="cartrules-creatinganewcartrule"></a>
+## Creating a new cart rule <a href="#cartrules-creatinganewcartrule" id="cartrules-creatinganewcartrule"></a>
 
 A voucher can be created automatically after a product return, but you can create a new voucher at any time manually, and be very specific about its properties. For this, click on "Add new cart rule". The creation form has three tabs, enabling you to precisely build new rules and vouchers.
 
-### Information Tab <a href="cartrules-informationtab" id="cartrules-informationtab"></a>
+### Information Tab <a href="#cartrules-informationtab" id="cartrules-informationtab"></a>
 
 The first tab, "Information", contains the rule's identifiers and main settings.
 
@@ -49,11 +49,11 @@ The first tab, "Information", contains the rule's identifiers and main settings.
 * **Highlight.** If enabled, PrestaShop will let the user know that a voucher corresponding to the items in the cart is available and can be added.
 * **Partial use**. If disabled, the rule/voucher can only be used once, even if it is not completely used. If enabled, a new voucher is created when the current one is not completely used.
   * It is only applicable if the voucher value is greater than the cart total. If you allow partial use, a new voucher will be created with the remainder.
-  * If you do not allow partial use, the voucher value will be lowered to the total order amount. 
+  * If you do not allow partial use, the voucher value will be lowered to the total order amount.&#x20;
 * **Priority**. If a customer (or group of customers) is eligible for more than one voucher, or if more than one voucher can be applied to an order, then PrestaShop applies said voucher one by one in the alphanumerical order. You can change that order by placing a lower priority on your voucher. By default, they all have a priority of 1. If you set it to a higher number, the voucher will be applied after vouchers with a lower number.
 * **Status**. You can disable and enable a rule whenever you feel is necessary.
 
-### Conditions Tab <a href="cartrules-conditionstab" id="cartrules-conditionstab"></a>
+### Conditions Tab <a href="#cartrules-conditionstab" id="cartrules-conditionstab"></a>
 
 The second tab, "Conditions", contains a large set of possibilities, enabling you to target precisely who should be able to benefit from this rule.
 
@@ -91,7 +91,7 @@ You can add as many rules within a selection as necessary. These rules are cumul
 
 Product selections are independent: you can add as many as needed, and they will not influence each other. This enables you to create a whole range of products to which the cart rule will apply.
 
-### Actions Tab <a href="cartrules-actionstab" id="cartrules-actionstab"></a>
+### Actions Tab <a href="#cartrules-actionstab" id="cartrules-actionstab"></a>
 
 The third and last tab, "Actions", is where you choose what the discount actually consists of.
 
@@ -102,7 +102,7 @@ The third and last tab, "Actions", is where you choose what the discount actuall
   * _Percent (%)._ The rule applies to a percentage of the order total. For instance, let's say the order is valued at $200 before taxes. The rule has a value of 15%. Customers who benefit from this rule will only have to pay $170 (before taxes and shipping costs).
   * _Amount._ The rule applies a monetary discount on the order total. For instance, let's say the order is valued at $200 before taxes. The discount offers $20 off the purchase. Customers who benefit from this rule will only pay $180 (before shipping costs). You can choose whether taxes are applied to the discount or not.
   * _None._ The rule does not offer any discount on the order. Choosing this option makes the next section, "Apply a discount to", disappear.
-* **Exclude discounted products**.** **_New in PrestaShop 1.7!_ By default, the voucher applies to any kind of product, whether it is already discounted or not. By enabling this feature, the voucher you are creating will not be applied to a product or a combination if it already on sale.
+* **Exclude discounted products**. **** _New in PrestaShop 1.7!_ By default, the voucher applies to any kind of product, whether it is already discounted or not. By enabling this feature, the voucher you are creating will not be applied to a product or a combination if it already on sale.
 * **Send a free gift**. You can choose to offer a gift for some conditions (and skip the discount altogether). A field appears: type the first letters of the product, and choose from the list of matching names.
 
 Once everything has been saved, you can send your voucher code to your customers, or let the system handle the cart rules automatically, depending on your settings.

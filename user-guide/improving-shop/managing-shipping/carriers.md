@@ -15,9 +15,11 @@ It is up to you to remove these default carriers and add new ones for your custo
 
 Video - 6 tips for creating a delivery policy that attracts customers and builds loyalty
 
-[![](<../../../.gitbook/assets/51839792 (7) (7) (2).png>)](https://www.youtube.com/watch?v=QhTU_eSrm7o\&list=PLyZYn1MMU7-xT-L_zUyGnRBJmAuP6uc-c\&index=26)
+[![](<../../../.gitbook/assets/51839792 (7) (7) (2).png>)](https://www.youtube.com/watch?v=QhTU\_eSrm7o\&list=PLyZYn1MMU7-xT-L\_zUyGnRBJmAuP6uc-c\&index=26)
 
-##  Adding a Carrier using a recommended Carrier Module <a href="carriers-addingacarrierusingarecommendedcarriermodule" id="carriers-addingacarrierusingarecommendedcarriermodule"></a>
+\
+Adding a Carrier using a recommended Carrier Module <a href="#carriers-addingacarrierusingarecommendedcarriermodule" id="carriers-addingacarrierusingarecommendedcarriermodule"></a>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PrestaShop comes with a host of free modules, amongst which you can find a handful of carrier modules which you can install right away, for the major worldwide and domestic carriers.
 
@@ -27,7 +29,7 @@ In the "Carriers" page, you can choose between creating a carrier using the Carr
 
 Depending on the module, you can either click on the "Install" button and let PrestaShop do the work, or click on the shopping cart button. In that second case, you will be taken to the Addons marketplace, where you can buy the module. Once you have bought the module, you can install it and configure it.
 
-## Adding a new carrier using the Carrier Wizard <a href="carriers-addinganewcarrierusingthecarrierwizard" id="carriers-addinganewcarrierusingthecarrierwizard"></a>
+## Adding a new carrier using the Carrier Wizard <a href="#carriers-addinganewcarrierusingthecarrierwizard" id="carriers-addinganewcarrierusingthecarrierwizard"></a>
 
 If you cannot find a module for your shipping partner, either in the native modules or on the PrestaShop Addons marketplace, then you should register your carrier yourself using the Carrier Wizard: click on "Add new carrier" to open this tool.
 
@@ -38,7 +40,7 @@ Many of the details asked by PrestaShop's forms should be provided by your carri
 
 To create a new carrier, click on the "Add new" button in the "Carriers" page. This will open the Carrier Wizard on the first of its four panels.
 
-### Panel 1: General settings <a href="carriers-panel1-generalsettings" id="carriers-panel1-generalsettings"></a>
+### Panel 1: General settings <a href="#carriers-panel1-generalsettings" id="carriers-panel1-generalsettings"></a>
 
 This is where you describe the carrier, giving information that the customer will need in order to recognize and choose the carrier she/he prefers.
 
@@ -53,11 +55,11 @@ Let's examine all of the information you need to enter:
 * **Speed grade**. Since the "Transit time" field can contain any text, it cannot be used to compare the carriers' transit times. The "Speed grade" setting enables you to give the carrier a grade, from 0 (very slow) to 9 (very fast). This is then used to sort carriers by their speed grade, and help customers choose the one they prefer.
 * **Logo**. Having a logo helps customers choose between different carriers more easily. PrestaShop will resize your image in order to fit in the checkout page.\
   The logo will appear in each panel of the Carrier Wizard, as a reminder of which carrier you are editing/creating.
-* **Tracking URL**. This field must be filled with the tracking URL provided by your carrier (if there exists one). Indicate "@" where the tracking number will appear. For example, France's postal service (La Poste) offers this URL: [`http://www.colissimo.fr/portail_colissimo/suivreResultat.do?parcelnumber=@`](http://www.colissimo.fr/portail_colissimo/suivreResultat.do?parcelnumber=@). When customers finish their purchase, they will receive that URL with the "@" replaced by the tracking number provided by the carrier, making it possible to click that link and see where the delivery process is at.
+* **Tracking URL**. This field must be filled with the tracking URL provided by your carrier (if there exists one). Indicate "@" where the tracking number will appear. For example, France's postal service (La Poste) offers this URL: [`http://www.colissimo.fr/portail_colissimo/suivreResultat.do?parcelnumber=@`](http://www.colissimo.fr/portail\_colissimo/suivreResultat.do?parcelnumber=@). When customers finish their purchase, they will receive that URL with the "@" replaced by the tracking number provided by the carrier, making it possible to click that link and see where the delivery process is at.
 
 Click "Next" to reach the second panel.
 
-### Panel 2: Shipping locations and costs <a href="carriers-panel2-shippinglocationsandcosts" id="carriers-panel2-shippinglocationsandcosts"></a>
+### Panel 2: Shipping locations and costs <a href="#carriers-panel2-shippinglocationsandcosts" id="carriers-panel2-shippinglocationsandcosts"></a>
 
 ![](<../../../.gitbook/assets/51839921 (4) (4) (3).png>)
 
@@ -94,7 +96,7 @@ The weight and price units are the default ones for your PrestaShop installation
 
 Click "Next" to reach the third panel.
 
-### Panel 3: Size, weight and group access <a href="carriers-panel3-size-weightandgroupaccess" id="carriers-panel3-size-weightandgroupaccess"></a>
+### Panel 3: Size, weight and group access <a href="#carriers-panel3-size-weightandgroupaccess" id="carriers-panel3-size-weightandgroupaccess"></a>
 
 ![](<../../../.gitbook/assets/51839922 (4) (4) (1).png>)
 
@@ -105,7 +107,7 @@ This panel presents two sets of options:
 
 Click "Next" to reach the fourth and final panel.
 
-### Panel 4: Summary <a href="carriers-panel4-summary" id="carriers-panel4-summary"></a>
+### Panel 4: Summary <a href="#carriers-panel4-summary" id="carriers-panel4-summary"></a>
 
 ![](<../../../.gitbook/assets/51839923 (4) (4) (1).png>)
 

@@ -8,7 +8,7 @@ Here is a quick list of what you need to get started with the installation of Pr
   * PHP 7.1 or later.
     * Useful settings (in the `php.ini` file): \
 
-      * `allow_url_fopen` set to On, 
+      * `allow_url_fopen` set to On,&#x20;
       * `register_globals` set to Off`,`
       * `upload_max_filesize` set to "16M" (or more).
     * Must-have PHP extensions (in the `php.ini` file): CURL, DOM, Fileinfo, GD, Intl, Mbstring, Zip, JSON, Iconv.
@@ -20,9 +20,9 @@ Here is a quick list of what you need to get started with the installation of Pr
     * Apache Web Server 2.2 or later or nginx Web Server.
       * Apache module settings: \
 
-        * `mod_rewrite` enabled, 
+        * `mod_rewrite` enabled,&#x20;
         * `mod_security` disabled,
-        * `mod_auth_basic` disabled.
+        * `mod_auth_basic` enabled.
     * At least 256 Mb of RAM is dedicated to PHP. The more the better.
 * Access codes to your FTP server, your MySQL database\
 
@@ -35,7 +35,11 @@ You also need to know which URL on your domain you want your store(s) to be acce
 
 Check the official system requirements page: [http://www.prestashop.com/en/system-requirements](http://www.prestashop.com/en/system-requirements).
 
-Once your set-up is in place, you can use the installation guide: [http://doc.prestashop.com/display/PS17/Installing+PrestaShop](http://doc.prestashop.com/display/PS17/Installing+PrestaShop).
+Once your set-up is in place, you can use the installation guide:&#x20;
+
+{% content-ref url="installing-prestashop.md" %}
+[installing-prestashop.md](installing-prestashop.md)
+{% endcontent-ref %}
 
 ## Detailed set-up instructions
 
@@ -43,7 +47,7 @@ PrestaShop is a web application: it needs to be installed on a web server in ord
 
 ### Registering a domain name
 
-Before downloading or installing anything, you need to provide a home for your PrestaShop online store. That is made of two components: a domain name, and a web server. A domain is theonline identifier for your website, such as [`example.com`](http://example.com), [`myonlineshop.net `](http://myonlineshop.net)or [`agreatbrand.store`](https://agreatbrand.store). It is the public face of your web server, and therefore of your store.
+Before downloading or installing anything, you need to provide a home for your PrestaShop online store. That is made of two components: a domain name, and a web server. A domain is theonline identifier for your website, such as [`example.com`](http://example.com), [`myonlineshop.net` ](http://myonlineshop.net)or [`agreatbrand.store`](https://agreatbrand.store). It is the public face of your web server, and therefore of your store.
 
 You need to buy a domain name for your store. You might get one when you get your web hosting in place: many web hosts offer a free domain with every new account. They might be free for a year, or for as long as you are a client of that web host. This makes it easy to get the full package (hosting+domain name) in one go. For more information about domains, see the list of independent registrars below or follow the link: [https://www.prestashop.com/en/domain](https://www.prestashop.com/en/domain).
 
@@ -51,7 +55,7 @@ There can be an issue with host-provided domain names: if you find yourself not 
 
 The files and data are easy to move, but depending on the host, you might have a hard time getting your domain name back. Since they bought the domain name for you, technically the domain belongs to them, and they can either forbid you to transfer it to another host, or they can make you pay for it. And since the domain name is your brand and your address on the web, you must obey the web host's rules.
 
-That is why it is often recommended to get your domain name from an independent domain name registrar (see: [http://en.wikipedia.org/wiki/Domain_name_registrar](http://en.wikipedia.org/wiki/Domain_name_registrar)). Technically, you can never buy a domain name; you can only rent it, most of the time for a yearly fee. This gives you the right to use that domain name, but as soon as you stop paying for it, it is not yours anymore and anyone can grab it for himself.
+That is why it is often recommended to get your domain name from an independent domain name registrar (see: [http://en.wikipedia.org/wiki/Domain\_name\_registrar](http://en.wikipedia.org/wiki/Domain\_name\_registrar)). Technically, you can never buy a domain name; you can only rent it, most of the time for a yearly fee. This gives you the right to use that domain name, but as soon as you stop paying for it, it is not yours anymore and anyone can grab it for himself.
 
 In addition to paying for the domain name registration, you will also have to pay for web hosting. But at least you remain free to move to a better host at any time, for no supplementary fee: you just have to change the domain name’s DNS addresses. Within 24 hours, the change will be spread across the world.
 
@@ -66,7 +70,7 @@ There are many more. Ask your friends about them!
 
 ### Finding a host
 
-Now that you have a domain name, you need to have it lead to PrestaShop. This means that the PrestaShop files need to reside on a web server. You might have a web server of your own, but it is more likely that you have or will have your store hosted by an Internet hosting service (see: [http://en.wikipedia.org/wiki/Internet_hosting_service](http://en.wikipedia.org/wiki/Internet_hosting_service)), which provides you with an online home for a monthly or yearly fee.
+Now that you have a domain name, you need to have it lead to PrestaShop. This means that the PrestaShop files need to reside on a web server. You might have a web server of your own, but it is more likely that you have or will have your store hosted by an Internet hosting service (see: [http://en.wikipedia.org/wiki/Internet\_hosting\_service](http://en.wikipedia.org/wiki/Internet\_hosting\_service)), which provides you with an online home for a monthly or yearly fee.
 
 Before starting an online store, you will first need to select a hosting provider. Just about every web host can effectively handle the PrestaShop solution. However, only a few hosting providers offer optimized servers for PrestaShop (with 1-click install and up-to-date version). Here is our[ list of hosting partners](https://www.prestashop.com/en/ecommerce-hosting).
 
@@ -84,7 +88,7 @@ Whichever hosting service you choose, the following components shall be installe
 
 * **System**: Unix, Linux, or Windows. Unix is highly recommended.
 * **Web server**: Apache Web server 2.2 or later.
-* **PHP 7.1 or later**. 
+* **PHP 7.1 or later**.&#x20;
 * **MySQL 5.6 or later**.
 * At least 256 Mb of RAM on your server.
 
@@ -166,4 +170,8 @@ Whatever your plan is, the default store will always reside where PrestaShop its
 
 ## Installing PrestaShop
 
-Finally, now that all the requirements are in place, you can use the installation guide: [http://doc.prestashop.com/display/PS17/Installing+PrestaShop](http://doc.prestashop.com/display/PS17/Installing+PrestaShop).
+Finally, now that all the requirements are in place, you can use the installation guide:&#x20;
+
+{% content-ref url="installing-prestashop.md" %}
+[installing-prestashop.md](installing-prestashop.md)
+{% endcontent-ref %}

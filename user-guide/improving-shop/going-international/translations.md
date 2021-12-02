@@ -15,7 +15,7 @@ Translations have been organized into 5 sections, depending on where strings app
 ![](<../../../.gitbook/assets/Untitled (3).png>)
 
 {% hint style="info" %}
-_A string is a series of characters. It can be one character long or contain several words. When a new minor or major version of PrestaShop is released, all the new strings associated with this version are added to _[_Crowdin_](https://crowdin.com/project/prestashop-official)_ to be translated by the community._
+_A string is a series of characters. It can be one character long or contain several words. When a new minor or major version of PrestaShop is released, all the new strings associated with this version are added to_ [_Crowdin_](https://crowdin.com/project/prestashop-official) _to be translated by the community._
 {% endhint %}
 
 * **Back office translations:** the strings that are visible to you and your team from your store's administration panel.
@@ -56,7 +56,7 @@ If a string contains a variable, you should make sure that the content of that v
 
 Numbered placeholders (`%1$s`, `%2$d`, etc.) enable translators to rearrange the order of the variables in the string. For example, "This is a `%1$s` `%2$d`", with `%1$s` standing for "red" and `%2$d` standing for "pen", could be translated by "C'est un `%2$s` `%1$s`" = "C'est un stylo rouge" in French.
 
-### Translating modules 
+### Translating modules&#x20;
 
 To translate a specific module, select the "Installed module translations" option and the desired module. A new page opens, with all the module's strings.
 
@@ -68,7 +68,7 @@ There are two ways of modifying the translation of an email:
 
 * **Edit the HTML version**
 
-With this editable preview, what you see is what you get. Click on the "Edit HTML version" button. You'll be able to edit the text and the design of your email. When you're done, save. 
+With this editable preview, what you see is what you get. Click on the "Edit HTML version" button. You'll be able to edit the text and the design of your email. When you're done, save.&#x20;
 
 * **Edit the text version**
 
@@ -112,7 +112,7 @@ Once you are done, click on the "Export" button.
 
 ## Copying translations from one language to another
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (50) (1).png>)
 
 You can copy the content of one language to another. This is especially useful when you want to replace a theme's language with the same language from another theme.
 

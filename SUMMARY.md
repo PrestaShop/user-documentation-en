@@ -122,17 +122,10 @@
       * [Webservice](user-guide/configuring-shop/advanced-parameters/webservice.md)
       * [Multistore](user-guide/configuring-shop/advanced-parameters/multistore.md)
       * [Experimental features](user-guide/configuring-shop/advanced-parameters/experimental-features.md)
-  * [Managing multiple stores](user-guide/managing-multiple-shops/README.md)
-    * [The multistore interface](user-guide/managing-multiple-shops/multistore-interface/README.md)
-      * [Adding a new store](user-guide/managing-multiple-shops/multistore-interface/adding-a-new-store.md)
-      * [Adding a new group of stores](user-guide/managing-multiple-shops/multistore-interface/adding-a-new-group-of-stores.md)
-      * [Setting a store's URL](user-guide/managing-multiple-shops/multistore-interface/setting-a-stores-url.md)
-    * [Sample Usages and Specifics](user-guide/managing-multiple-shops/sample-usages-and-specifics.md)
+  * [Managing multiple stores](user-guide/managing-multiple-stores/README.md)
+    * [The multistore interface](user-guide/managing-multiple-stores/multistore-interface/README.md)
+      * [Adding a new store](user-guide/managing-multiple-stores/multistore-interface/adding-new-store.md)
+      * [Adding a new group of stores](user-guide/managing-multiple-stores/multistore-interface/adding-new-group-of-stores.md)
+      * [Setting a store's URL](user-guide/managing-multiple-stores/multistore-interface/setting-store-url.md)
+    * [Sample Usages and Specifics](user-guide/managing-multiple-stores/sample-usages-and-specifics.md)
   * [Browsing the front office](user-guide/browsing-front-office.md)
-  * [Complying with the GDPR](user-guide/gdpr.md)
-
-## 1.7 DOCUMENTATIONS
-
-***
-
-* [French 1.7 documentation](https://prestashop.gitbook.io/documentation-francaise-1-7/)

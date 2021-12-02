@@ -1,6 +1,6 @@
 # Managing multiple stores
 
-The multistore feature allows you to manage several front offices from a single back office. 
+The multistore feature allows you to manage several front offices from a single back office.&#x20;
 
 This feature is especially useful if you are in one of the following cases:
 
@@ -12,10 +12,10 @@ This feature is especially useful if you are in one of the following cases:
   ****
 * **You want to sell the same products at a different price in each of your stores.**
 
-## Enabling the multistore feature <a href="managingmultipleshops-enablingthemultistorefeature" id="managingmultipleshops-enablingthemultistorefeature"></a>
+## Enabling the multistore feature <a href="#managingmultipleshops-enablingthemultistorefeature" id="managingmultipleshops-enablingthemultistorefeature"></a>
 
 ![ ](<../../.gitbook/assets/image (44).png>)
 
-1. Go to the **Shop Parameters > General **page.
+1. Go to the **Shop Parameters > General** page.
 2. Enable the multistore feature and save.
 3. The "Multistore" page is now available under the **Advanced Parameters** menu.
