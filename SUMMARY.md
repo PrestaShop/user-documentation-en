@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the user documentation](README.md)
+* [Contributing to the documentation](README.md)
 * [Getting started](getting-started/README.md)
   * [What you need to get started](getting-started/what-you-need-to-get-started.md)
   * [Installing PrestaShop](getting-started/installing-prestashop.md)
