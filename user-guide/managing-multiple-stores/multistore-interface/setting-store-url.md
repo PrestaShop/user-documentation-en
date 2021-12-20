@@ -26,7 +26,7 @@ Otherwise, customers trying to access your secondary store without the "www." in
 You don't have to create subdomains or subfolders manually. PrestaShop will create the path on your server automatically.
 {% endhint %}
 
-## Using a different domain name
+### Using a different domain name
 
 In case you want to use a different domain name for your supplemental store rather than a subdomain or a subfolder, you must configure your domain to point to the folder where PrestaShop is located. The URL rewriting is then done by PrestaShop itself.
 
