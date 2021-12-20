@@ -32,7 +32,7 @@ In case you want to use a different domain name for your supplemental store rath
 
 Alternatively, you can create an alias for your domain name that redirects to the absolute URL where your installation of PrestaShop is located. The way to achieve this depends on the control panel and options that your hosting company provides you with: "Alias" for Plesk, "Forward" for CPanel, "Aliasdomain" for ISPConfig, etc.
 
-## Seting a URL&#x20;
+## Setting a URL&#x20;
 
 To set a URL for a store**:**
 
