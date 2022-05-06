@@ -22,4 +22,6 @@ You can select or deselect all countries at once by checking the box at the top 
 
 This section enables you to accept specific IPs address despite a blockade. It can be useful in case of spammers, bots or attacks. It is already filled with a list of known good IPs. Add as many as needed, one per line, and click "Save".
 
+If you would like to update this list, possible sources for IP lists could be found at https://www.ip2location.com/free/robot-whitelist or https://udger.com/resources/ip-list.
+
 ![](<../../../../.gitbook/assets/64225612 (4) (3) (3).png>)
