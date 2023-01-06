@@ -4,7 +4,7 @@
 
 ### Understanding the multistore page organization
 
-To access the Multistore page, you need to activate the feature in **Advanced Settings > General**.&#x20;
+To access the Multistore page, you need to [enable the feature](../#managingmultipleshops-enablingthemultistorefeature) in **Advanced Settings > General**.&#x20;
 
 A new page is then available in the **Advanced Settings** menu: the Multistore page.
 
