@@ -34,7 +34,7 @@ At any time, these 3 notions of stock are linked by the following equation:
 
 _Physical stock - Reserved stock = Available stock_
 
-Editing __ the physical stock will also affect the available stock, and vice-versa.
+Editing the physical stock will also affect the available stock, and vice-versa.
 
 &#x20;By default, products are sorted by decreasing product\_id, meaning that the most recently created product will be on top. If there are more than 100 products and combinations, then the table is paginated.
 

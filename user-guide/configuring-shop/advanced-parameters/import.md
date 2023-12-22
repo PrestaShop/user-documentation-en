@@ -4,7 +4,7 @@ The import page enables you to easily fill your product catalog when you have a 
 
 Historically imports were made using .CSV files in PrestaShop. Since the version 1.7, other formats of file are supported, such as .xls, .xlsx, .xlst, .ods, and .ots.
 
-CSV is an acronym of "Comma-separated values". It is a popular plain-text format when there is a need to import, export or simply store data in a non-proprietary format. Almost all data handling tool support CSV format, in various incarnations. You can read more about the CSV format on Wikipedia: [http://en.wikipedia.org/wiki/Comma-separated_values](http://en.wikipedia.org/wiki/Comma-separated_values).
+CSV is an acronym of "Comma-separated values". It is a popular plain-text format when there is a need to import, export or simply store data in a non-proprietary format. Almost all data handling tool support CSV format, in various incarnations. You can read more about the CSV format on Wikipedia: [http://en.wikipedia.org/wiki/Comma-separated\_values](http://en.wikipedia.org/wiki/Comma-separated\_values).
 
 ![](<../../../.gitbook/assets/51840005 (3) (3).png>)
 
@@ -29,7 +29,7 @@ The import process requires preparation, and starts with a form made of primary 
 * **Language of the file**. Data can only be imported for a single language at a time. If your data exists in more than one language, you should split it into as many files.
 * **Field separator**. Not all CSV file use commas to separate their values: some use tabulations, others semicolons, etc. You can indicate what your files use in this field.
 * **Multiple value separator**. When an attribute can support more than one value, these values need to be separated with a specific separator. After reviewing your files, indicate your separator here.
-* **Delete all \__\_ before import**. This option will erase all previously existing entries of the type of data you are importing. Thus you will start with a clean slate.
+* **Delete all \_\_\_ before import**. This option will erase all previously existing entries of the type of data you are importing. Thus you will start with a clean slate.
 * **Use product reference as key**. Product import only. You can choose to have the product key be determined by PrestaShop, or instead use the product's reference as the ID. In this case, make sure the file does contain references for all your imported products.
 * **Skip thumbnails regeneration**. Category and product import only. You can choose to have PrestaShop regenerate the thumbnails that are linked from your CSV file (in the "Image URL" or "Image URLs" fields).
 * **Force all ID numbers**. You can either keep the imported IDs, or let the importer auto-increment them.
@@ -40,11 +40,11 @@ Some fields have a little information popup available (represented by an "i" log
 
 ![](<../../../.gitbook/assets/45580389 (4) (4).png>)
 
-## Data format <a href="import-dataformat" id="import-dataformat"></a>
+## Data format <a href="#import-dataformat" id="import-dataformat"></a>
 
 Imported data file must be in text-file, using a CSV-based format and the accompanying `.csv` file extension. We recommend using a semicolon ";" as a field separator. If you textual data (product description and such) contains semicolons, you should either remove them, or choose another separator in the "Field separator" option.
 
-You can create a CSV file using any text editor (we recommend Notepad++: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org)), but we do advise you to use a spreadsheet program, then save your work in the CSV format. Using a spreadsheet program enables you to have an easier and more visual grasp of your data, in comparison to the plain text file. You can use the commercial Microsoft Excel ([http://office.microsoft.com/en-us/excel/](http://office.microsoft.com/en-us/excel/) or the free [OpenOffice.org](http://openoffice.org) [http://www.openoffice.org/](http://www.openoffice.org) Calc.
+You can create a CSV file using any text editor (we recommend Notepad++: [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/)), but we do advise you to use a spreadsheet program, then save your work in the CSV format. Using a spreadsheet program enables you to have an easier and more visual grasp of your data, in comparison to the plain text file. You can use the commercial Microsoft Excel ([http://office.microsoft.com/en-us/excel/](http://office.microsoft.com/en-us/excel/) or the free [OpenOffice.org](http://openoffice.org) [http://www.openoffice.org/](http://www.openoffice.org/) Calc.
 
 Here is a sample import file, with a list of products:
 
@@ -67,7 +67,7 @@ You should remember that:
 * The file's character encoding should be UTF-8. If not, use ISO-8859-1.
 * Dates use the ISO 8601 format, without a time zone designator (the time zone is the one for your store): `2013-06-21 15:07:27`.
 
-## Uploading the file <a href="import-uploadingthefile" id="import-uploadingthefile"></a>
+## Uploading the file <a href="#import-uploadingthefile" id="import-uploadingthefile"></a>
 
 Once you have all your data in CSV format, you can upload them to your store's database using the form on this page.
 
@@ -106,7 +106,7 @@ Once you are done matching your columns, click the "Import" button (bottom right
 
 When the process is done, it should indicate "100% validated" and "100% imported". When closing this pop-up, you are sent to the main screen. If an error occurred during the import, you will see a notice of all the encountered problems. In this second case, you should review your file and make sure to correct everything.
 
-### Mapping configurations <a href="import-mappingconfigurations" id="import-mappingconfigurations"></a>
+### Mapping configurations <a href="#import-mappingconfigurations" id="import-mappingconfigurations"></a>
 
 The mapping process can be a tedious task if you cannot customize your file columns order according to that used by the PrestaShop importer, and even more so if you have to do that repeatedly or frequently. That is why PrestaShop includes a small tool to save the current mapping order that you have set up using all the headers drop-down selectors.
 
@@ -118,7 +118,7 @@ The tool is a simple field at the top of the matching tool. You can do the three
 * **Loading**. Select a mapping configuration in the drop-down list, and click "Load".
 * **Deleting**. Select a mapping configuration in the drop-down list, and click "Delete".
 
-### Importing Features using Excel <a href="import-importingfeaturesusingexcel" id="import-importingfeaturesusingexcel"></a>
+### Importing Features using Excel <a href="#import-importingfeaturesusingexcel" id="import-importingfeaturesusingexcel"></a>
 
 Excel import is special in that you cannot set the field or multiple value delimiters. Because of that, special attention needs to be paid to “irregular” fields (i.e. fields which are not straightforward text fields and which have several variables). The Features field/column in the Product Import is one of these irregular fields.
 

@@ -11,7 +11,7 @@ For security reasons, some types of queries are not allowed: UPDATE, DELETE, CRE
 
 Also, secure keys or passwords are hidden (\*\*\*\*\*\*\*\*\*\*\*).
 
-## Creating a new query <a href="sqlmanager-creatinganewquery" id="sqlmanager-creatinganewquery"></a>
+## Creating a new query <a href="#sqlmanager-creatinganewquery" id="sqlmanager-creatinganewquery"></a>
 
 As usual, the "Add new SQl query" button leads to the creation form. It has two main fields:
 
@@ -26,7 +26,7 @@ Additionally, the "List of MySQL Tables" section helps you explore the database,
 
 Saving the form sends you back to the main page, with its list of queries.
 
-## Starting a query <a href="sqlmanager-startingaquery" id="sqlmanager-startingaquery"></a>
+## Starting a query <a href="#sqlmanager-startingaquery" id="sqlmanager-startingaquery"></a>
 
 Each saved query in the table has four icons to the right of its row:
 
@@ -37,7 +37,7 @@ Each saved query in the table has four icons to the right of its row:
 
 ![](<../../../../.gitbook/assets/23789883 (2) (1).png>)
 
-## Settings <a href="sqlmanager-settings" id="sqlmanager-settings"></a>
+## Settings <a href="#sqlmanager-settings" id="sqlmanager-settings"></a>
 
 There is only one setting at this time:
 
@@ -45,26 +45,26 @@ There is only one setting at this time:
 
 ![](<../../../../.gitbook/assets/23789886 (4) (2).png>)
 
-## Some sample queries <a href="sqlmanager-somesamplequeries" id="sqlmanager-somesamplequeries"></a>
+## Some sample queries <a href="#sqlmanager-somesamplequeries" id="sqlmanager-somesamplequeries"></a>
 
 The possibilities are endless, but here are a few sample queries to help you build your own.
 
-### Listing all the e-mails address of all the customers <a href="sqlmanager-listingallthee-mailsaddressofallthecustomers" id="sqlmanager-listingallthee-mailsaddressofallthecustomers"></a>
+### Listing all the e-mails address of all the customers <a href="#sqlmanager-listingallthee-mailsaddressofallthecustomers" id="sqlmanager-listingallthee-mailsaddressofallthecustomers"></a>
 
 | `SELECT email FROM ps_customer` |
 | ------------------------------- |
 
-### Listing all the e-mails address of all the customers who are subscribed to your newsletter <a href="sqlmanager-listingallthee-mailsaddressofallthecustomerswhoaresubscribedtoyournewsletter" id="sqlmanager-listingallthee-mailsaddressofallthecustomerswhoaresubscribedtoyournewsletter"></a>
+### Listing all the e-mails address of all the customers who are subscribed to your newsletter <a href="#sqlmanager-listingallthee-mailsaddressofallthecustomerswhoaresubscribedtoyournewsletter" id="sqlmanager-listingallthee-mailsaddressofallthecustomerswhoaresubscribedtoyournewsletter"></a>
 
 | `SELECT emailFROM ps_customerWHERE newsletter = 1` |
 | -------------------------------------------------- |
 
-### Listing all the products which are active and have a description in French (id_lang = 4) <a href="sqlmanager-listingalltheproductswhichareactiveandhaveadescriptioninfrench-id_lang-4" id="sqlmanager-listingalltheproductswhichareactiveandhaveadescriptioninfrench-id_lang-4"></a>
+### Listing all the products which are active and have a description in French (id\_lang = 4) <a href="#sqlmanager-listingalltheproductswhichareactiveandhaveadescriptioninfrench-id_lang-4" id="sqlmanager-listingalltheproductswhichareactiveandhaveadescriptioninfrench-id_lang-4"></a>
 
-| `SELECT p.id_product, `[`pl.name`](http://pl.name)`, pl.link_rewrite, pl.descriptionFROM ps_product pLEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)WHERE p.active = 1AND pl.id_lang = 4` |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `SELECT p.id_product,` [`pl.name`](http://pl.name/)`, pl.link_rewrite, pl.descriptionFROM ps_product pLEFT JOIN ps_product_lang pl ON (p.id_product = pl.id_product)WHERE p.active = 1AND pl.id_lang = 4` |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Listing all the orders, with details about carrier, currency, payment, total and date <a href="sqlmanager-listingalltheorders-withdetailsaboutcarrier-currency-payment-totalanddate" id="sqlmanager-listingalltheorders-withdetailsaboutcarrier-currency-payment-totalanddate"></a>
+### Listing all the orders, with details about carrier, currency, payment, total and date <a href="#sqlmanager-listingalltheorders-withdetailsaboutcarrier-currency-payment-totalanddate" id="sqlmanager-listingalltheorders-withdetailsaboutcarrier-currency-payment-totalanddate"></a>
 
-| <p><code>SELECT o.`id_order` AS `id`,    CONCAT(LEFT(c.`firstname`, 1), '. ', c.`lastname`) AS `Customer`,    ca.`name` AS `Carrier`,    cu.`name` AS `Currency`,    o.`payment`, CONCAT(o.`total_paid_real`, ' ', cu.`sign`) AS `Total`,    o.`date_add` AS `Date`FROM `ps_orders` oLEFT JOIN `ps_customer` c ON (o.`id_customer` = c.`id_customer`)LEFT JOIN `ps_carrier` ca ON (o.id_carrier = ca.id_carrier)LEFT JOIN `ps_currency` cu ON (o.`id_currency` = cu.`id_currency`)</code><br><code></code></p> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><code>SELECT o.`id_order` AS `id`,    CONCAT(LEFT(c.`firstname`, 1), '. ', c.`lastname`) AS `Customer`,    ca.`name` AS `Carrier`,    cu.`name` AS `Currency`,    o.`payment`, CONCAT(o.`total_paid_real`, ' ', cu.`sign`) AS `Total`,    o.`date_add` AS `Date`FROM `ps_orders` oLEFT JOIN `ps_customer` c ON (o.`id_customer` = c.`id_customer`)LEFT JOIN `ps_carrier` ca ON (o.id_carrier = ca.id_carrier)LEFT JOIN `ps_currency` cu ON (o.`id_currency` = cu.`id_currency`)</code><br></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
