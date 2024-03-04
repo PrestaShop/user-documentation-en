@@ -13,9 +13,9 @@ Before you get started, make sure you have all the requirements available: serve
 [what-you-need-to-get-started.md](what-you-need-to-get-started.md)
 {% endcontent-ref %}
 
-Our web hosting partner 1&1 IONOS offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users.
+Our web hosting partner IONOS offers a 1-click install in order to save you time and get you started even faster. Using these can drastically reduce the installation time for inexperienced users.
 
-* [1&1 IONOS Hosting](https://www.ionos.com/ecommerce-solutions/prestashop-hosting?ac=OM.US.USs96K414029T7073a)&#x20;
+* [IONOS Hosting](https://www.ionos.com/ecommerce-solutions/prestashop-hosting?ac=OM.US.USs96K414029T7073a)&#x20;
 
 Save time with our partner InMotion, get PrestaShop pre-installed. It allows users with few technical skills to quickly start working on a scalable solution.
 
