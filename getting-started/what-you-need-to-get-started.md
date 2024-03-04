@@ -64,7 +64,7 @@ If you would rather get your domain name from an independent registrar, here are
 * Gandi: [http://en.gandi.net/](http://en.gandi.net/)
 * Namecheap: [http://www.namecheap.com/](http://www.namecheap.com/)
 * GoDaddy: [https://www.godaddy.com/](https://www.godaddy.com/)
-* 1&1 IONOS: [https://www.ionos.com](https://www.ionos.com/)
+* IONOS: [https://www.ionos.com](https://www.ionos.com/)
 
 There are many more. Ask your friends about them!
 
