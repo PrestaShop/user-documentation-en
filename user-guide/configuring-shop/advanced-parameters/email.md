@@ -26,7 +26,7 @@ The form has three sets of options:
 Configure PrestaShop to send emails to your customers. We strongly advise you that you consult your web host to determine which settings to use for this feature. The options are:
 
 * **Never send e-mails**. Keep this setting for testing purpose. Once your shop is public, you should never use this setting.
-* **Use PHP's mail\(\) function**. This option is recommended by default. In the event that this does not work, then use the SMPT option below.
+* **Use PHP's mail\(\) function**. This option is recommended by default. In the event that this does not work, then use the SMTP option below.
 * **Set my own SMTP parameters**. In this case, a new section appears, with more fields. The information for these fields should be provided by your web host: mail domain name, SMTP server, SMTP user, etc. Make sure to transcribe exactly what your web host provides you with.
 
 The SMTP configuration information can be provided to you either by:
